@@ -1,0 +1,2001 @@
+usia,jenis_kelamin,bmi,status_merokok,tingkat_aktivitas_fisik,jam_tidur_per_malam,tingkat_stres,frekuensi_makan_pedas,frekuensi_makan_berlemak,konsumsi_kopi_per_hari,konsumsi_alkohol,minuman_bersoda_per_minggu,frekuensi_fast_food_per_minggu,makan_larut_malam,risiko_gerd
+56,Laki-laki,34.9,Tidak Merokok,Rendah,6,Sedang,Kadang,Kadang,1,Mingguan,5,1,Tidak,0
+46,Laki-laki,31.9,Perokok Aktif,Rendah,4,Tinggi,Kadang,Kadang,5,Sesekali,14,5,Ya,1
+32,Perempuan,29.8,Perokok Aktif,Tinggi,4,Sedang,Jarang,Sering,1,Mingguan,7,2,Ya,1
+60,Perempuan,27.1,Perokok Aktif,Tinggi,4,Tinggi,Jarang,Jarang,2,Tidak Pernah,12,6,Tidak,1
+25,Laki-laki,25.6,Tidak Merokok,Sedang,7,Tinggi,Kadang,Sering,0,Tidak Pernah,6,1,Ya,1
+38,Perempuan,19.4,Perokok Aktif,Sedang,9,Tinggi,Tidak Pernah,Sangat Sering,5,Harian,3,3,Ya,1
+56,Laki-laki,24.8,Tidak Merokok,Rendah,8,Sedang,Jarang,Kadang,2,Sesekali,3,1,Tidak,0
+36,Laki-laki,33.5,Tidak Merokok,Tinggi,8,Rendah,Jarang,Sangat Sering,5,Sesekali,4,0,Tidak,0
+40,Perempuan,31.7,Mantan Perokok,Sedang,7,Rendah,Tidak Pernah,Tidak Pernah,2,Sesekali,9,5,Ya,0
+28,Perempuan,21.7,Tidak Merokok,Sedang,5,Sedang,Kadang,Sering,2,Tidak Pernah,4,3,Tidak,0
+28,Laki-laki,25.9,Tidak Merokok,Rendah,7,Sedang,Kadang,Jarang,2,Sesekali,11,1,Tidak,0
+41,Laki-laki,31.9,Mantan Perokok,Tinggi,9,Rendah,Jarang,Jarang,4,Tidak Pernah,0,1,Ya,0
+53,Laki-laki,19.1,Tidak Merokok,Sedang,4,Sedang,Jarang,Jarang,3,Sesekali,12,5,Tidak,1
+57,Laki-laki,24.6,Mantan Perokok,Rendah,7,Rendah,Kadang,Jarang,0,Sesekali,7,0,Ya,0
+41,Perempuan,32.5,Tidak Merokok,Sedang,4,Tinggi,Tidak Pernah,Jarang,4,Harian,9,6,Ya,1
+20,Perempuan,24.9,Perokok Aktif,Sedang,9,Rendah,Kadang,Sangat Sering,3,Sesekali,12,3,Ya,1
+39,Perempuan,19.3,Perokok Aktif,Sedang,9,Sedang,Sering,Sering,5,Tidak Pernah,4,0,Ya,1
+19,Perempuan,27.2,Perokok Aktif,Sedang,6,Tinggi,Jarang,Jarang,3,Sesekali,2,5,Tidak,1
+41,Perempuan,32.6,Tidak Merokok,Sedang,4,Rendah,Sering,Jarang,3,Tidak Pernah,2,1,Ya,0
+61,Laki-laki,28.0,Tidak Merokok,Tinggi,8,Sedang,Sering,Sering,4,Tidak Pernah,3,6,Tidak,0
+47,Perempuan,21.8,Tidak Merokok,Rendah,7,Tinggi,Tidak Pernah,Kadang,0,Tidak Pernah,11,2,Ya,0
+55,Perempuan,24.5,Tidak Merokok,Rendah,9,Rendah,Tidak Pernah,Jarang,1,Sesekali,6,2,Ya,0
+19,Perempuan,25.7,Tidak Merokok,Rendah,4,Rendah,Sangat Sering,Kadang,3,Tidak Pernah,4,4,Tidak,1
+38,Perempuan,27.8,Mantan Perokok,Sedang,5,Sedang,Jarang,Kadang,1,Sesekali,0,7,Tidak,0
+50,Perempuan,30.9,Tidak Merokok,Sedang,6,Sedang,Sering,Jarang,1,Harian,13,2,Tidak,1
+29,Laki-laki,19.7,Perokok Aktif,Tinggi,5,Sedang,Kadang,Sering,2,Sesekali,11,5,Tidak,1
+39,Laki-laki,33.1,Tidak Merokok,Sedang,9,Rendah,Jarang,Kadang,1,Tidak Pernah,12,7,Ya,0
+61,Laki-laki,18.2,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Tidak Pernah,5,Tidak Pernah,4,5,Tidak,1
+42,Perempuan,24.3,Tidak Merokok,Tinggi,5,Rendah,Kadang,Sangat Sering,5,Sesekali,13,5,Ya,1
+44,Laki-laki,18.5,Perokok Aktif,Rendah,6,Tinggi,Kadang,Kadang,2,Mingguan,4,3,Tidak,1
+59,Laki-laki,24.7,Perokok Aktif,Tinggi,6,Sedang,Kadang,Jarang,0,Tidak Pernah,5,4,Tidak,0
+45,Perempuan,26.9,Perokok Aktif,Sedang,6,Tinggi,Sangat Sering,Jarang,0,Mingguan,13,3,Ya,1
+33,Perempuan,26.7,Perokok Aktif,Sedang,6,Sedang,Sering,Jarang,5,Sesekali,6,6,Ya,1
+32,Perempuan,20.8,Tidak Merokok,Sedang,5,Tinggi,Jarang,Kadang,2,Sesekali,4,7,Tidak,0
+64,Laki-laki,29.0,Tidak Merokok,Sedang,8,Sedang,Sering,Jarang,0,Harian,14,2,Tidak,0
+61,Laki-laki,18.8,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,3,Sesekali,12,6,Ya,1
+20,Perempuan,31.0,Mantan Perokok,Sedang,6,Sedang,Sangat Sering,Jarang,0,Mingguan,10,7,Tidak,1
+54,Perempuan,34.1,Tidak Merokok,Sedang,7,Tinggi,Kadang,Sering,2,Tidak Pernah,13,7,Tidak,1
+24,Laki-laki,23.8,Tidak Merokok,Tinggi,4,Sedang,Sering,Sering,5,Sesekali,1,2,Ya,1
+38,Laki-laki,26.8,Perokok Aktif,Sedang,9,Sedang,Kadang,Kadang,3,Sesekali,13,1,Ya,1
+26,Perempuan,24.4,Perokok Aktif,Tinggi,7,Sedang,Jarang,Sering,1,Tidak Pernah,1,3,Tidak,0
+56,Perempuan,18.1,Perokok Aktif,Sedang,9,Tinggi,Sangat Sering,Sangat Sering,1,Sesekali,12,0,Ya,1
+35,Laki-laki,24.6,Perokok Aktif,Sedang,7,Sedang,Tidak Pernah,Kadang,1,Tidak Pernah,3,6,Ya,0
+21,Perempuan,31.5,Mantan Perokok,Tinggi,7,Sedang,Jarang,Kadang,5,Tidak Pernah,0,1,Tidak,0
+42,Laki-laki,28.1,Tidak Merokok,Sedang,8,Sedang,Sering,Kadang,2,Tidak Pernah,6,3,Tidak,0
+31,Laki-laki,19.7,Tidak Merokok,Tinggi,4,Sedang,Tidak Pernah,Sering,1,Sesekali,12,7,Tidak,0
+26,Laki-laki,32.4,Mantan Perokok,Sedang,7,Tinggi,Sering,Jarang,0,Harian,0,5,Ya,1
+43,Laki-laki,27.0,Mantan Perokok,Sedang,6,Tinggi,Sering,Jarang,1,Sesekali,2,4,Tidak,1
+19,Perempuan,32.3,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Kadang,4,Sesekali,9,6,Tidak,0
+37,Perempuan,27.9,Perokok Aktif,Sedang,8,Sedang,Kadang,Sering,5,Tidak Pernah,6,3,Ya,1
+45,Laki-laki,27.5,Tidak Merokok,Rendah,9,Tinggi,Sering,Sering,4,Harian,10,4,Tidak,1
+64,Laki-laki,19.8,Tidak Merokok,Sedang,6,Sedang,Kadang,Jarang,1,Sesekali,11,6,Tidak,0
+24,Laki-laki,20.8,Mantan Perokok,Rendah,6,Tinggi,Sangat Sering,Jarang,1,Mingguan,11,4,Tidak,0
+61,Laki-laki,34.5,Tidak Merokok,Rendah,7,Rendah,Sering,Sangat Sering,4,Mingguan,5,6,Tidak,1
+25,Laki-laki,21.9,Tidak Merokok,Rendah,6,Rendah,Jarang,Tidak Pernah,5,Tidak Pernah,14,2,Ya,0
+64,Perempuan,34.6,Tidak Merokok,Rendah,4,Rendah,Tidak Pernah,Tidak Pernah,5,Sesekali,14,0,Tidak,0
+52,Perempuan,27.0,Perokok Aktif,Rendah,6,Sedang,Sangat Sering,Kadang,1,Harian,6,6,Tidak,1
+31,Perempuan,20.3,Tidak Merokok,Tinggi,7,Tinggi,Kadang,Sering,5,Tidak Pernah,4,7,Tidak,0
+34,Perempuan,19.7,Mantan Perokok,Tinggi,9,Rendah,Tidak Pernah,Sering,3,Sesekali,7,3,Tidak,0
+53,Laki-laki,21.6,Mantan Perokok,Sedang,6,Tinggi,Sering,Sangat Sering,5,Harian,5,0,Ya,1
+57,Laki-laki,33.7,Tidak Merokok,Tinggi,8,Sedang,Sering,Jarang,4,Tidak Pernah,11,4,Ya,1
+21,Laki-laki,25.0,Perokok Aktif,Rendah,8,Tinggi,Kadang,Kadang,2,Mingguan,3,2,Ya,1
+19,Laki-laki,24.7,Tidak Merokok,Tinggi,8,Sedang,Kadang,Jarang,4,Harian,13,6,Tidak,0
+23,Laki-laki,23.3,Perokok Aktif,Rendah,9,Tinggi,Kadang,Sering,0,Sesekali,10,0,Ya,1
+59,Perempuan,20.5,Tidak Merokok,Rendah,5,Rendah,Sering,Kadang,3,Tidak Pernah,0,1,Tidak,0
+21,Laki-laki,26.3,Perokok Aktif,Sedang,8,Tinggi,Sering,Tidak Pernah,2,Tidak Pernah,1,4,Ya,1
+46,Perempuan,20.2,Tidak Merokok,Rendah,8,Rendah,Sangat Sering,Sering,1,Tidak Pernah,11,1,Tidak,0
+35,Perempuan,32.2,Tidak Merokok,Sedang,5,Sedang,Kadang,Kadang,0,Mingguan,5,5,Ya,1
+43,Perempuan,24.3,Tidak Merokok,Sedang,9,Tinggi,Sering,Kadang,0,Mingguan,3,0,Tidak,0
+61,Perempuan,24.4,Tidak Merokok,Tinggi,8,Rendah,Sangat Sering,Sering,3,Sesekali,2,0,Tidak,0
+51,Laki-laki,26.1,Mantan Perokok,Sedang,7,Rendah,Jarang,Jarang,2,Tidak Pernah,6,0,Tidak,0
+27,Perempuan,25.6,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Jarang,0,Tidak Pernah,6,5,Tidak,0
+53,Perempuan,34.9,Mantan Perokok,Sedang,8,Sedang,Sering,Jarang,2,Mingguan,1,7,Ya,1
+31,Perempuan,27.3,Tidak Merokok,Rendah,8,Sedang,Jarang,Jarang,2,Sesekali,7,3,Ya,1
+48,Laki-laki,19.5,Tidak Merokok,Sedang,5,Rendah,Tidak Pernah,Jarang,5,Harian,14,4,Tidak,0
+65,Laki-laki,28.3,Perokok Aktif,Rendah,7,Rendah,Jarang,Sering,0,Sesekali,14,4,Tidak,0
+32,Laki-laki,20.6,Tidak Merokok,Sedang,9,Sedang,Jarang,Jarang,2,Mingguan,10,6,Ya,0
+25,Perempuan,18.5,Mantan Perokok,Sedang,6,Rendah,Jarang,Sangat Sering,3,Sesekali,0,6,Tidak,0
+31,Perempuan,34.5,Mantan Perokok,Sedang,4,Tinggi,Jarang,Jarang,0,Sesekali,10,6,Ya,1
+40,Laki-laki,31.2,Perokok Aktif,Tinggi,7,Rendah,Sangat Sering,Jarang,3,Tidak Pernah,9,4,Ya,1
+57,Perempuan,34.7,Tidak Merokok,Tinggi,6,Sedang,Sering,Jarang,3,Harian,6,3,Ya,1
+38,Laki-laki,26.1,Mantan Perokok,Sedang,7,Rendah,Sering,Sering,2,Sesekali,9,7,Tidak,0
+33,Laki-laki,27.0,Perokok Aktif,Sedang,6,Rendah,Tidak Pernah,Kadang,2,Tidak Pernah,11,0,Ya,0
+62,Perempuan,20.9,Mantan Perokok,Rendah,6,Sedang,Sering,Sering,5,Tidak Pernah,0,0,Ya,1
+35,Perempuan,22.2,Tidak Merokok,Sedang,7,Sedang,Sering,Sering,5,Tidak Pernah,12,5,Ya,1
+64,Perempuan,32.3,Mantan Perokok,Rendah,5,Rendah,Kadang,Sangat Sering,0,Sesekali,11,1,Ya,0
+41,Perempuan,24.1,Mantan Perokok,Rendah,7,Rendah,Jarang,Sering,5,Tidak Pernah,14,3,Tidak,1
+43,Laki-laki,32.1,Mantan Perokok,Tinggi,7,Rendah,Kadang,Tidak Pernah,1,Tidak Pernah,13,2,Ya,0
+42,Laki-laki,30.1,Tidak Merokok,Sedang,6,Tinggi,Sering,Sering,0,Sesekali,2,3,Ya,1
+62,Laki-laki,21.0,Tidak Merokok,Sedang,4,Sedang,Kadang,Sangat Sering,3,Tidak Pernah,2,5,Tidak,1
+58,Laki-laki,26.6,Perokok Aktif,Rendah,6,Rendah,Sering,Sangat Sering,5,Mingguan,9,7,Ya,1
+46,Laki-laki,29.5,Tidak Merokok,Sedang,8,Sedang,Kadang,Jarang,5,Sesekali,13,1,Ya,0
+32,Perempuan,22.0,Mantan Perokok,Rendah,7,Tinggi,Kadang,Kadang,5,Sesekali,1,1,Tidak,0
+62,Laki-laki,32.1,Tidak Merokok,Rendah,9,Tinggi,Sering,Jarang,2,Tidak Pernah,13,6,Tidak,1
+18,Laki-laki,27.3,Tidak Merokok,Rendah,7,Tinggi,Tidak Pernah,Jarang,3,Tidak Pernah,9,6,Tidak,0
+42,Laki-laki,20.8,Tidak Merokok,Sedang,5,Sedang,Kadang,Sering,5,Tidak Pernah,12,1,Ya,1
+24,Perempuan,27.9,Tidak Merokok,Sedang,9,Rendah,Sangat Sering,Sangat Sering,4,Mingguan,4,0,Tidak,1
+26,Perempuan,35.0,Perokok Aktif,Rendah,6,Rendah,Sering,Kadang,4,Mingguan,3,2,Tidak,1
+41,Perempuan,20.6,Perokok Aktif,Sedang,5,Tinggi,Jarang,Sering,3,Tidak Pernah,12,1,Tidak,1
+18,Perempuan,31.9,Mantan Perokok,Rendah,7,Tinggi,Jarang,Tidak Pernah,5,Sesekali,5,4,Ya,1
+61,Laki-laki,21.5,Tidak Merokok,Sedang,6,Sedang,Kadang,Tidak Pernah,1,Tidak Pernah,1,0,Ya,0
+25,Laki-laki,31.3,Mantan Perokok,Tinggi,6,Sedang,Sering,Kadang,1,Harian,13,7,Tidak,1
+41,Perempuan,30.5,Mantan Perokok,Sedang,8,Sedang,Kadang,Kadang,0,Harian,3,7,Tidak,0
+28,Perempuan,23.1,Mantan Perokok,Tinggi,8,Sedang,Kadang,Sering,0,Sesekali,11,2,Tidak,0
+34,Laki-laki,23.5,Tidak Merokok,Tinggi,4,Rendah,Jarang,Jarang,5,Sesekali,6,4,Ya,0
+25,Laki-laki,31.5,Mantan Perokok,Sedang,8,Sedang,Sering,Kadang,0,Mingguan,0,2,Ya,1
+52,Perempuan,25.8,Perokok Aktif,Sedang,9,Rendah,Sering,Kadang,2,Sesekali,12,5,Tidak,1
+52,Perempuan,30.4,Perokok Aktif,Tinggi,6,Rendah,Sangat Sering,Jarang,1,Sesekali,10,2,Tidak,1
+50,Perempuan,20.5,Tidak Merokok,Sedang,8,Sedang,Jarang,Sangat Sering,3,Harian,2,4,Ya,1
+22,Perempuan,32.5,Mantan Perokok,Rendah,4,Rendah,Sering,Kadang,5,Sesekali,0,3,Ya,1
+59,Laki-laki,30.1,Mantan Perokok,Tinggi,7,Rendah,Kadang,Kadang,5,Sesekali,1,2,Ya,0
+56,Laki-laki,33.4,Tidak Merokok,Sedang,9,Rendah,Kadang,Sering,4,Mingguan,8,3,Tidak,0
+58,Laki-laki,20.3,Tidak Merokok,Rendah,8,Tinggi,Sering,Jarang,1,Sesekali,9,2,Tidak,0
+45,Perempuan,28.1,Tidak Merokok,Sedang,6,Tinggi,Jarang,Sering,1,Sesekali,4,5,Tidak,0
+24,Perempuan,28.2,Tidak Merokok,Tinggi,7,Rendah,Jarang,Jarang,1,Tidak Pernah,12,4,Tidak,0
+26,Laki-laki,24.0,Tidak Merokok,Sedang,6,Sedang,Sering,Jarang,0,Tidak Pernah,3,2,Ya,1
+25,Laki-laki,25.8,Mantan Perokok,Sedang,7,Rendah,Kadang,Sangat Sering,2,Tidak Pernah,11,1,Tidak,0
+29,Laki-laki,18.6,Mantan Perokok,Tinggi,9,Sedang,Tidak Pernah,Sering,3,Sesekali,3,5,Tidak,0
+51,Laki-laki,30.7,Mantan Perokok,Sedang,6,Tinggi,Kadang,Kadang,0,Sesekali,7,1,Tidak,0
+50,Perempuan,27.3,Perokok Aktif,Sedang,8,Tinggi,Kadang,Kadang,2,Harian,11,7,Tidak,1
+65,Laki-laki,19.0,Tidak Merokok,Sedang,8,Sedang,Sangat Sering,Sangat Sering,1,Sesekali,2,7,Ya,1
+40,Laki-laki,29.6,Tidak Merokok,Sedang,4,Tinggi,Jarang,Jarang,2,Mingguan,14,5,Tidak,1
+41,Laki-laki,25.9,Mantan Perokok,Sedang,7,Tinggi,Sering,Tidak Pernah,0,Tidak Pernah,11,5,Tidak,1
+54,Laki-laki,18.6,Tidak Merokok,Sedang,4,Tinggi,Tidak Pernah,Kadang,1,Mingguan,11,6,Tidak,1
+52,Laki-laki,34.5,Tidak Merokok,Sedang,5,Sedang,Jarang,Jarang,0,Sesekali,3,2,Ya,0
+61,Laki-laki,34.1,Tidak Merokok,Tinggi,8,Sedang,Jarang,Jarang,3,Sesekali,1,4,Tidak,0
+57,Laki-laki,26.7,Tidak Merokok,Rendah,7,Sedang,Sering,Sering,1,Tidak Pernah,5,6,Tidak,1
+39,Perempuan,19.6,Perokok Aktif,Rendah,9,Rendah,Jarang,Tidak Pernah,2,Sesekali,11,4,Ya,0
+44,Perempuan,30.8,Tidak Merokok,Sedang,4,Rendah,Sering,Sering,0,Sesekali,8,0,Ya,1
+52,Perempuan,26.4,Tidak Merokok,Tinggi,9,Tinggi,Kadang,Kadang,4,Sesekali,11,4,Tidak,0
+18,Perempuan,23.1,Tidak Merokok,Rendah,9,Sedang,Sangat Sering,Kadang,2,Harian,3,3,Ya,1
+52,Laki-laki,26.4,Mantan Perokok,Rendah,9,Tinggi,Sering,Sering,2,Mingguan,10,2,Ya,1
+54,Perempuan,26.9,Tidak Merokok,Rendah,4,Rendah,Sering,Kadang,1,Harian,5,1,Tidak,1
+64,Perempuan,27.6,Mantan Perokok,Sedang,5,Rendah,Sering,Jarang,5,Sesekali,3,4,Tidak,1
+31,Laki-laki,25.5,Tidak Merokok,Rendah,4,Tinggi,Kadang,Jarang,2,Harian,13,1,Tidak,1
+20,Laki-laki,28.3,Tidak Merokok,Sedang,6,Sedang,Sering,Sering,0,Mingguan,1,0,Ya,1
+18,Perempuan,33.6,Tidak Merokok,Sedang,8,Rendah,Jarang,Jarang,4,Tidak Pernah,12,2,Tidak,0
+22,Perempuan,24.2,Tidak Merokok,Tinggi,4,Tinggi,Tidak Pernah,Tidak Pernah,3,Tidak Pernah,13,4,Ya,0
+43,Laki-laki,30.3,Tidak Merokok,Sedang,4,Tinggi,Kadang,Sangat Sering,4,Tidak Pernah,5,6,Ya,1
+31,Perempuan,33.2,Tidak Merokok,Rendah,5,Sedang,Kadang,Sangat Sering,0,Tidak Pernah,11,1,Ya,1
+56,Laki-laki,25.8,Perokok Aktif,Sedang,6,Tinggi,Kadang,Kadang,1,Tidak Pernah,6,6,Tidak,1
+44,Laki-laki,25.5,Tidak Merokok,Tinggi,4,Sedang,Kadang,Tidak Pernah,0,Tidak Pernah,3,5,Ya,0
+26,Laki-laki,28.2,Mantan Perokok,Sedang,8,Tinggi,Jarang,Sering,5,Sesekali,11,6,Ya,1
+32,Laki-laki,28.1,Tidak Merokok,Tinggi,8,Tinggi,Kadang,Sering,5,Tidak Pernah,10,4,Ya,1
+32,Perempuan,31.7,Tidak Merokok,Tinggi,4,Rendah,Tidak Pernah,Jarang,5,Tidak Pernah,6,0,Tidak,0
+43,Laki-laki,26.1,Tidak Merokok,Rendah,9,Sedang,Sangat Sering,Jarang,2,Mingguan,12,6,Tidak,1
+59,Laki-laki,34.9,Perokok Aktif,Sedang,9,Rendah,Sangat Sering,Sering,1,Mingguan,10,5,Tidak,1
+30,Perempuan,19.0,Tidak Merokok,Rendah,6,Rendah,Sangat Sering,Sangat Sering,5,Harian,7,1,Ya,1
+49,Laki-laki,18.1,Tidak Merokok,Sedang,8,Tinggi,Jarang,Sering,3,Sesekali,10,1,Ya,1
+56,Perempuan,28.9,Tidak Merokok,Rendah,9,Sedang,Kadang,Jarang,3,Sesekali,2,2,Ya,0
+49,Perempuan,23.1,Tidak Merokok,Rendah,8,Tinggi,Sangat Sering,Kadang,0,Tidak Pernah,14,6,Tidak,1
+21,Perempuan,22.1,Tidak Merokok,Tinggi,6,Tinggi,Sangat Sering,Kadang,5,Tidak Pernah,1,6,Ya,1
+47,Laki-laki,23.3,Mantan Perokok,Rendah,6,Tinggi,Sering,Jarang,2,Tidak Pernah,4,2,Ya,1
+54,Perempuan,22.4,Tidak Merokok,Tinggi,9,Tinggi,Kadang,Jarang,3,Tidak Pernah,1,1,Tidak,0
+40,Perempuan,18.5,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,4,Harian,9,5,Ya,1
+56,Laki-laki,34.5,Mantan Perokok,Rendah,7,Sedang,Sering,Kadang,1,Tidak Pernah,4,7,Ya,1
+62,Perempuan,21.8,Tidak Merokok,Tinggi,5,Rendah,Jarang,Kadang,4,Tidak Pernah,9,6,Ya,0
+32,Perempuan,30.5,Tidak Merokok,Sedang,7,Sedang,Kadang,Sering,3,Tidak Pernah,14,7,Ya,1
+60,Perempuan,31.0,Tidak Merokok,Sedang,7,Sedang,Sering,Sering,3,Sesekali,12,2,Tidak,1
+46,Perempuan,33.8,Mantan Perokok,Rendah,8,Sedang,Sering,Sangat Sering,0,Tidak Pernah,5,7,Tidak,1
+53,Perempuan,18.5,Tidak Merokok,Sedang,6,Sedang,Kadang,Sering,0,Sesekali,7,1,Ya,0
+30,Laki-laki,32.8,Tidak Merokok,Sedang,8,Tinggi,Kadang,Jarang,5,Tidak Pernah,5,5,Ya,1
+49,Perempuan,27.0,Tidak Merokok,Sedang,9,Tinggi,Sangat Sering,Jarang,1,Tidak Pernah,3,3,Tidak,0
+24,Perempuan,28.8,Mantan Perokok,Sedang,5,Sedang,Kadang,Kadang,5,Tidak Pernah,2,4,Tidak,0
+39,Laki-laki,29.0,Tidak Merokok,Tinggi,9,Sedang,Sering,Tidak Pernah,0,Sesekali,13,6,Ya,0
+45,Laki-laki,31.9,Mantan Perokok,Sedang,4,Rendah,Sering,Sangat Sering,2,Tidak Pernah,13,3,Tidak,1
+19,Laki-laki,23.7,Perokok Aktif,Tinggi,5,Rendah,Sering,Tidak Pernah,1,Mingguan,1,3,Ya,0
+59,Perempuan,30.5,Mantan Perokok,Sedang,8,Tinggi,Sering,Jarang,2,Sesekali,12,4,Tidak,1
+62,Laki-laki,27.0,Tidak Merokok,Sedang,8,Rendah,Kadang,Kadang,5,Sesekali,0,1,Tidak,0
+23,Perempuan,31.5,Tidak Merokok,Rendah,9,Tinggi,Kadang,Kadang,0,Tidak Pernah,1,7,Tidak,0
+45,Perempuan,34.8,Tidak Merokok,Sedang,8,Sedang,Kadang,Sering,1,Tidak Pernah,1,1,Tidak,0
+45,Laki-laki,21.4,Tidak Merokok,Tinggi,8,Rendah,Tidak Pernah,Kadang,5,Tidak Pernah,14,2,Ya,0
+61,Laki-laki,34.9,Tidak Merokok,Rendah,7,Rendah,Jarang,Jarang,3,Sesekali,4,0,Tidak,0
+61,Perempuan,19.5,Perokok Aktif,Rendah,4,Sedang,Jarang,Jarang,5,Sesekali,8,1,Tidak,1
+37,Laki-laki,18.0,Tidak Merokok,Rendah,7,Sedang,Sering,Sangat Sering,4,Sesekali,0,7,Tidak,1
+47,Perempuan,18.8,Tidak Merokok,Rendah,8,Tinggi,Jarang,Jarang,3,Sesekali,3,4,Ya,0
+28,Laki-laki,23.8,Mantan Perokok,Tinggi,6,Tinggi,Tidak Pernah,Jarang,2,Mingguan,9,0,Tidak,0
+45,Laki-laki,28.8,Mantan Perokok,Tinggi,7,Sedang,Tidak Pernah,Kadang,3,Mingguan,6,4,Tidak,0
+42,Laki-laki,19.2,Tidak Merokok,Sedang,8,Tinggi,Kadang,Jarang,5,Tidak Pernah,10,4,Ya,1
+56,Perempuan,18.1,Perokok Aktif,Rendah,8,Sedang,Tidak Pernah,Kadang,3,Sesekali,13,4,Ya,1
+50,Laki-laki,33.9,Tidak Merokok,Sedang,4,Tinggi,Kadang,Sering,4,Tidak Pernah,9,6,Ya,1
+18,Perempuan,32.0,Mantan Perokok,Sedang,9,Rendah,Tidak Pernah,Sering,5,Sesekali,2,6,Tidak,0
+44,Perempuan,31.8,Perokok Aktif,Tinggi,5,Tinggi,Sering,Sering,4,Tidak Pernah,7,0,Tidak,1
+30,Perempuan,33.0,Mantan Perokok,Sedang,7,Sedang,Sangat Sering,Jarang,3,Tidak Pernah,2,3,Tidak,1
+58,Perempuan,29.9,Mantan Perokok,Rendah,7,Rendah,Sangat Sering,Kadang,4,Mingguan,7,7,Ya,1
+20,Laki-laki,19.8,Tidak Merokok,Sedang,7,Rendah,Kadang,Tidak Pernah,3,Sesekali,12,6,Tidak,0
+56,Perempuan,24.8,Tidak Merokok,Tinggi,8,Sedang,Kadang,Tidak Pernah,1,Tidak Pernah,1,5,Tidak,0
+23,Perempuan,30.3,Mantan Perokok,Sedang,4,Rendah,Kadang,Kadang,3,Tidak Pernah,4,4,Ya,0
+25,Laki-laki,22.8,Tidak Merokok,Sedang,8,Rendah,Jarang,Jarang,0,Sesekali,3,7,Ya,0
+44,Perempuan,29.7,Perokok Aktif,Rendah,8,Tinggi,Kadang,Sering,4,Harian,10,6,Ya,0
+26,Laki-laki,18.4,Tidak Merokok,Sedang,9,Tinggi,Tidak Pernah,Sering,4,Sesekali,8,2,Tidak,0
+54,Perempuan,23.2,Tidak Merokok,Tinggi,6,Tinggi,Sering,Sering,2,Harian,2,1,Ya,1
+50,Laki-laki,27.3,Tidak Merokok,Rendah,4,Tinggi,Jarang,Sering,2,Tidak Pernah,11,5,Ya,1
+59,Perempuan,28.7,Tidak Merokok,Sedang,7,Tinggi,Kadang,Tidak Pernah,0,Sesekali,10,7,Ya,0
+61,Laki-laki,27.8,Mantan Perokok,Rendah,5,Sedang,Kadang,Kadang,4,Mingguan,4,1,Tidak,1
+41,Perempuan,29.9,Mantan Perokok,Rendah,7,Rendah,Kadang,Jarang,4,Sesekali,9,1,Ya,1
+32,Perempuan,18.1,Mantan Perokok,Rendah,8,Tinggi,Sering,Kadang,2,Tidak Pernah,8,0,Ya,0
+49,Laki-laki,19.7,Perokok Aktif,Rendah,4,Tinggi,Kadang,Jarang,2,Sesekali,12,2,Ya,1
+49,Laki-laki,32.8,Perokok Aktif,Sedang,4,Sedang,Kadang,Tidak Pernah,3,Sesekali,5,2,Ya,0
+41,Laki-laki,29.6,Perokok Aktif,Rendah,4,Sedang,Kadang,Kadang,5,Sesekali,1,5,Ya,1
+58,Laki-laki,19.9,Tidak Merokok,Rendah,6,Sedang,Tidak Pernah,Sering,4,Mingguan,0,2,Tidak,0
+29,Perempuan,32.3,Mantan Perokok,Tinggi,7,Tinggi,Kadang,Sering,4,Mingguan,11,2,Tidak,1
+56,Perempuan,22.1,Tidak Merokok,Sedang,6,Sedang,Sangat Sering,Kadang,3,Sesekali,10,7,Tidak,1
+19,Laki-laki,26.1,Tidak Merokok,Sedang,9,Tinggi,Sangat Sering,Kadang,4,Tidak Pernah,0,2,Tidak,0
+20,Perempuan,20.5,Mantan Perokok,Sedang,5,Tinggi,Sering,Kadang,0,Tidak Pernah,6,5,Ya,1
+54,Laki-laki,30.1,Tidak Merokok,Sedang,9,Sedang,Jarang,Sering,2,Mingguan,13,3,Tidak,1
+34,Laki-laki,29.3,Tidak Merokok,Rendah,8,Sedang,Tidak Pernah,Tidak Pernah,2,Harian,11,2,Ya,0
+19,Perempuan,21.6,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sering,5,Tidak Pernah,1,6,Ya,0
+19,Perempuan,32.7,Tidak Merokok,Rendah,6,Rendah,Sering,Kadang,2,Sesekali,6,7,Tidak,1
+45,Perempuan,24.8,Perokok Aktif,Sedang,9,Rendah,Sering,Jarang,1,Tidak Pernah,0,7,Tidak,0
+40,Perempuan,23.0,Tidak Merokok,Rendah,8,Tinggi,Sering,Tidak Pernah,0,Tidak Pernah,3,2,Tidak,0
+54,Perempuan,20.6,Tidak Merokok,Sedang,4,Sedang,Kadang,Jarang,0,Sesekali,9,0,Tidak,0
+49,Perempuan,22.5,Tidak Merokok,Sedang,8,Rendah,Tidak Pernah,Kadang,3,Sesekali,14,0,Tidak,0
+50,Perempuan,18.4,Tidak Merokok,Sedang,7,Rendah,Tidak Pernah,Sering,1,Tidak Pernah,14,6,Tidak,0
+18,Laki-laki,27.9,Perokok Aktif,Rendah,9,Tinggi,Tidak Pernah,Jarang,4,Mingguan,12,2,Tidak,1
+36,Laki-laki,32.3,Tidak Merokok,Sedang,8,Sedang,Kadang,Kadang,5,Mingguan,10,3,Tidak,1
+19,Laki-laki,27.3,Tidak Merokok,Tinggi,4,Tinggi,Jarang,Sangat Sering,0,Harian,3,7,Ya,1
+61,Laki-laki,21.7,Mantan Perokok,Tinggi,8,Sedang,Sering,Jarang,1,Tidak Pernah,14,2,Ya,0
+43,Laki-laki,18.6,Perokok Aktif,Rendah,6,Sedang,Kadang,Jarang,1,Sesekali,4,6,Tidak,1
+49,Perempuan,21.6,Mantan Perokok,Sedang,5,Rendah,Jarang,Jarang,0,Tidak Pernah,13,2,Ya,0
+23,Laki-laki,25.1,Perokok Aktif,Tinggi,6,Sedang,Jarang,Sering,3,Tidak Pernah,13,2,Ya,1
+49,Laki-laki,30.9,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Kadang,1,Sesekali,9,4,Ya,0
+21,Laki-laki,21.2,Tidak Merokok,Sedang,8,Rendah,Sering,Kadang,2,Mingguan,14,3,Ya,0
+28,Laki-laki,30.2,Tidak Merokok,Tinggi,7,Sedang,Kadang,Sangat Sering,1,Tidak Pernah,14,1,Tidak,0
+34,Laki-laki,32.7,Perokok Aktif,Tinggi,8,Sedang,Jarang,Sering,4,Harian,0,6,Tidak,1
+55,Laki-laki,25.7,Tidak Merokok,Sedang,4,Sedang,Sering,Tidak Pernah,0,Mingguan,6,2,Tidak,0
+41,Laki-laki,32.0,Tidak Merokok,Sedang,8,Tinggi,Kadang,Sering,4,Mingguan,10,6,Tidak,1
+22,Perempuan,27.4,Tidak Merokok,Rendah,5,Sedang,Kadang,Tidak Pernah,3,Mingguan,1,1,Tidak,0
+51,Perempuan,28.8,Tidak Merokok,Sedang,6,Sedang,Sering,Sering,5,Tidak Pernah,11,3,Tidak,0
+23,Laki-laki,26.9,Tidak Merokok,Rendah,7,Tinggi,Sering,Jarang,2,Mingguan,14,7,Tidak,1
+39,Perempuan,25.9,Perokok Aktif,Rendah,8,Tinggi,Kadang,Sering,0,Tidak Pernah,10,6,Ya,1
+28,Perempuan,22.0,Tidak Merokok,Sedang,8,Tinggi,Kadang,Jarang,1,Mingguan,14,2,Ya,1
+65,Perempuan,23.2,Mantan Perokok,Rendah,6,Sedang,Jarang,Sering,2,Tidak Pernah,12,7,Ya,1
+33,Perempuan,22.9,Mantan Perokok,Sedang,7,Tinggi,Sering,Jarang,1,Tidak Pernah,10,1,Tidak,0
+50,Laki-laki,27.6,Tidak Merokok,Sedang,9,Sedang,Kadang,Kadang,3,Sesekali,12,6,Tidak,0
+26,Perempuan,20.0,Tidak Merokok,Sedang,8,Rendah,Sering,Jarang,5,Tidak Pernah,1,5,Tidak,0
+23,Perempuan,33.6,Tidak Merokok,Sedang,8,Tinggi,Sering,Sangat Sering,0,Tidak Pernah,7,1,Tidak,0
+33,Perempuan,30.3,Tidak Merokok,Tinggi,9,Sedang,Sangat Sering,Sering,3,Sesekali,14,3,Ya,0
+46,Laki-laki,24.8,Mantan Perokok,Rendah,5,Rendah,Jarang,Jarang,3,Mingguan,8,2,Ya,0
+20,Laki-laki,20.7,Tidak Merokok,Tinggi,5,Rendah,Jarang,Sangat Sering,5,Sesekali,5,4,Tidak,0
+37,Laki-laki,33.0,Tidak Merokok,Tinggi,4,Tinggi,Jarang,Kadang,3,Tidak Pernah,10,3,Ya,1
+53,Laki-laki,32.0,Tidak Merokok,Sedang,6,Rendah,Sering,Sering,3,Tidak Pernah,0,7,Tidak,0
+36,Laki-laki,30.3,Perokok Aktif,Sedang,7,Rendah,Jarang,Sering,1,Tidak Pernah,0,4,Tidak,0
+43,Laki-laki,22.6,Perokok Aktif,Tinggi,8,Sedang,Jarang,Tidak Pernah,4,Sesekali,13,2,Tidak,0
+20,Laki-laki,24.8,Perokok Aktif,Rendah,8,Rendah,Tidak Pernah,Sangat Sering,1,Sesekali,10,1,Ya,0
+36,Perempuan,19.7,Perokok Aktif,Sedang,4,Tinggi,Jarang,Jarang,5,Tidak Pernah,6,5,Tidak,1
+37,Perempuan,21.2,Tidak Merokok,Sedang,8,Sedang,Tidak Pernah,Jarang,2,Tidak Pernah,7,5,Tidak,0
+49,Perempuan,31.3,Perokok Aktif,Rendah,6,Sedang,Jarang,Sering,5,Tidak Pernah,2,6,Tidak,1
+24,Laki-laki,30.2,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Sering,5,Tidak Pernah,8,7,Tidak,1
+58,Laki-laki,28.1,Mantan Perokok,Tinggi,6,Sedang,Tidak Pernah,Tidak Pernah,5,Tidak Pernah,3,3,Tidak,0
+50,Laki-laki,33.2,Mantan Perokok,Tinggi,4,Sedang,Tidak Pernah,Jarang,5,Mingguan,3,3,Ya,1
+57,Laki-laki,27.9,Tidak Merokok,Rendah,8,Tinggi,Sering,Sering,3,Tidak Pernah,2,7,Tidak,1
+56,Laki-laki,25.9,Perokok Aktif,Rendah,4,Sedang,Sering,Tidak Pernah,5,Sesekali,7,3,Tidak,1
+35,Perempuan,23.8,Perokok Aktif,Sedang,5,Sedang,Jarang,Sangat Sering,2,Sesekali,8,0,Ya,1
+57,Perempuan,34.0,Tidak Merokok,Rendah,7,Tinggi,Tidak Pernah,Sering,5,Tidak Pernah,0,5,Ya,1
+18,Laki-laki,19.4,Perokok Aktif,Sedang,8,Tinggi,Sering,Jarang,1,Sesekali,1,5,Ya,1
+28,Laki-laki,33.8,Tidak Merokok,Sedang,9,Tinggi,Jarang,Kadang,3,Sesekali,0,2,Tidak,0
+45,Laki-laki,32.1,Mantan Perokok,Sedang,7,Tinggi,Tidak Pernah,Kadang,1,Tidak Pernah,13,0,Ya,0
+42,Laki-laki,20.2,Tidak Merokok,Sedang,8,Tinggi,Jarang,Kadang,3,Mingguan,3,3,Ya,1
+40,Perempuan,27.6,Tidak Merokok,Sedang,7,Tinggi,Tidak Pernah,Sering,1,Tidak Pernah,9,3,Tidak,0
+48,Laki-laki,32.7,Perokok Aktif,Rendah,5,Tinggi,Kadang,Sangat Sering,0,Mingguan,6,7,Tidak,1
+47,Laki-laki,27.7,Perokok Aktif,Rendah,7,Rendah,Sering,Kadang,4,Sesekali,13,4,Ya,0
+59,Laki-laki,33.4,Perokok Aktif,Sedang,4,Sedang,Sering,Kadang,4,Sesekali,6,6,Ya,1
+52,Laki-laki,34.0,Tidak Merokok,Sedang,7,Tinggi,Kadang,Jarang,3,Mingguan,11,0,Ya,1
+24,Perempuan,25.2,Perokok Aktif,Tinggi,8,Sedang,Kadang,Sering,0,Mingguan,5,6,Tidak,0
+33,Laki-laki,24.4,Tidak Merokok,Tinggi,9,Rendah,Kadang,Sering,2,Sesekali,12,1,Ya,0
+43,Laki-laki,33.9,Perokok Aktif,Tinggi,9,Sedang,Kadang,Sering,0,Mingguan,10,6,Tidak,1
+65,Perempuan,29.5,Tidak Merokok,Rendah,6,Sedang,Jarang,Tidak Pernah,3,Tidak Pernah,4,5,Tidak,0
+19,Perempuan,20.0,Tidak Merokok,Rendah,7,Sedang,Kadang,Sering,0,Sesekali,10,2,Tidak,0
+18,Perempuan,18.7,Mantan Perokok,Rendah,9,Tinggi,Sering,Jarang,2,Tidak Pernah,3,1,Ya,0
+65,Laki-laki,27.6,Tidak Merokok,Sedang,7,Tinggi,Jarang,Sering,3,Tidak Pernah,11,1,Tidak,0
+29,Laki-laki,33.8,Tidak Merokok,Sedang,9,Tinggi,Sering,Sering,4,Mingguan,12,7,Tidak,1
+22,Perempuan,32.4,Tidak Merokok,Tinggi,7,Tinggi,Kadang,Sering,5,Tidak Pernah,13,2,Ya,1
+54,Perempuan,29.5,Tidak Merokok,Sedang,8,Sedang,Kadang,Kadang,0,Tidak Pernah,7,3,Ya,0
+49,Perempuan,20.4,Tidak Merokok,Tinggi,7,Sedang,Tidak Pernah,Kadang,4,Mingguan,6,5,Tidak,0
+26,Perempuan,22.3,Tidak Merokok,Tinggi,8,Sedang,Kadang,Tidak Pernah,4,Tidak Pernah,10,7,Tidak,1
+58,Perempuan,32.9,Tidak Merokok,Rendah,8,Sedang,Sering,Sering,1,Tidak Pernah,10,4,Ya,1
+52,Perempuan,21.1,Tidak Merokok,Sedang,6,Rendah,Kadang,Tidak Pernah,2,Sesekali,9,3,Tidak,0
+36,Laki-laki,22.7,Mantan Perokok,Sedang,9,Sedang,Jarang,Kadang,5,Sesekali,0,6,Tidak,0
+65,Laki-laki,20.2,Tidak Merokok,Rendah,4,Sedang,Tidak Pernah,Jarang,0,Mingguan,5,3,Tidak,0
+33,Laki-laki,29.5,Perokok Aktif,Sedang,8,Sedang,Kadang,Sering,4,Sesekali,13,0,Ya,1
+20,Perempuan,34.0,Perokok Aktif,Sedang,9,Tinggi,Kadang,Kadang,4,Sesekali,1,7,Tidak,1
+37,Perempuan,22.6,Tidak Merokok,Rendah,5,Sedang,Kadang,Sering,2,Sesekali,3,1,Ya,1
+41,Perempuan,26.1,Perokok Aktif,Sedang,7,Rendah,Sangat Sering,Sering,5,Sesekali,4,1,Tidak,1
+50,Perempuan,28.8,Perokok Aktif,Sedang,5,Sedang,Sering,Sering,5,Sesekali,7,5,Tidak,1
+41,Perempuan,35.0,Perokok Aktif,Rendah,7,Sedang,Kadang,Jarang,4,Mingguan,5,6,Ya,1
+28,Perempuan,19.8,Mantan Perokok,Sedang,6,Sedang,Tidak Pernah,Sering,4,Tidak Pernah,10,7,Tidak,0
+25,Laki-laki,26.5,Tidak Merokok,Rendah,8,Rendah,Tidak Pernah,Kadang,4,Tidak Pernah,1,1,Ya,0
+53,Laki-laki,24.5,Mantan Perokok,Sedang,4,Sedang,Kadang,Tidak Pernah,4,Tidak Pernah,4,7,Tidak,0
+55,Perempuan,32.7,Mantan Perokok,Rendah,8,Tinggi,Sering,Jarang,1,Sesekali,14,4,Ya,1
+57,Laki-laki,26.1,Mantan Perokok,Tinggi,7,Sedang,Sering,Jarang,1,Tidak Pernah,4,4,Tidak,0
+37,Perempuan,19.9,Tidak Merokok,Sedang,4,Tinggi,Kadang,Tidak Pernah,5,Sesekali,5,6,Ya,1
+52,Laki-laki,28.8,Perokok Aktif,Rendah,8,Tinggi,Tidak Pernah,Kadang,3,Mingguan,0,7,Tidak,1
+65,Perempuan,31.1,Perokok Aktif,Sedang,4,Rendah,Sangat Sering,Tidak Pernah,0,Sesekali,7,4,Tidak,1
+42,Perempuan,18.0,Tidak Merokok,Sedang,7,Tinggi,Sangat Sering,Kadang,2,Tidak Pernah,2,2,Tidak,0
+52,Laki-laki,32.6,Tidak Merokok,Sedang,6,Sedang,Kadang,Jarang,3,Mingguan,4,6,Ya,1
+42,Laki-laki,21.2,Tidak Merokok,Sedang,6,Rendah,Tidak Pernah,Jarang,1,Tidak Pernah,6,5,Tidak,0
+46,Perempuan,27.4,Perokok Aktif,Sedang,8,Sedang,Kadang,Sangat Sering,1,Sesekali,2,4,Ya,1
+35,Perempuan,25.1,Mantan Perokok,Rendah,5,Tinggi,Sering,Kadang,1,Sesekali,13,7,Tidak,1
+63,Laki-laki,30.2,Mantan Perokok,Rendah,7,Rendah,Kadang,Jarang,3,Tidak Pernah,9,0,Tidak,0
+35,Laki-laki,24.3,Tidak Merokok,Sedang,8,Tinggi,Sering,Kadang,1,Harian,14,0,Tidak,1
+19,Perempuan,32.8,Mantan Perokok,Sedang,8,Tinggi,Tidak Pernah,Jarang,3,Tidak Pernah,12,3,Tidak,0
+52,Laki-laki,30.4,Tidak Merokok,Sedang,6,Tinggi,Tidak Pernah,Tidak Pernah,1,Harian,14,3,Ya,1
+33,Perempuan,29.0,Tidak Merokok,Tinggi,4,Sedang,Tidak Pernah,Tidak Pernah,4,Tidak Pernah,5,5,Tidak,0
+58,Perempuan,31.5,Perokok Aktif,Sedang,7,Tinggi,Sangat Sering,Sangat Sering,4,Tidak Pernah,4,6,Ya,1
+53,Perempuan,30.8,Perokok Aktif,Tinggi,4,Sedang,Kadang,Sering,0,Tidak Pernah,6,3,Tidak,1
+50,Perempuan,18.6,Perokok Aktif,Rendah,9,Rendah,Sering,Sering,1,Tidak Pernah,9,3,Tidak,0
+21,Laki-laki,24.7,Perokok Aktif,Rendah,9,Tinggi,Tidak Pernah,Sangat Sering,0,Sesekali,14,0,Tidak,0
+50,Laki-laki,33.8,Tidak Merokok,Tinggi,7,Tinggi,Sangat Sering,Sangat Sering,3,Sesekali,10,3,Tidak,0
+31,Laki-laki,20.1,Tidak Merokok,Sedang,5,Sedang,Sering,Sering,0,Mingguan,2,7,Ya,1
+38,Laki-laki,30.5,Mantan Perokok,Tinggi,9,Sedang,Jarang,Sering,1,Tidak Pernah,12,0,Tidak,0
+65,Laki-laki,34.6,Perokok Aktif,Rendah,6,Rendah,Sering,Jarang,3,Tidak Pernah,13,4,Ya,1
+37,Laki-laki,18.9,Tidak Merokok,Sedang,5,Sedang,Jarang,Jarang,3,Sesekali,1,4,Tidak,1
+25,Laki-laki,29.6,Tidak Merokok,Tinggi,8,Sedang,Jarang,Kadang,4,Tidak Pernah,3,5,Tidak,0
+24,Perempuan,26.0,Tidak Merokok,Rendah,9,Sedang,Jarang,Kadang,3,Sesekali,2,2,Ya,0
+20,Laki-laki,27.8,Mantan Perokok,Tinggi,6,Sedang,Sangat Sering,Sangat Sering,3,Sesekali,14,3,Ya,1
+34,Laki-laki,19.5,Tidak Merokok,Sedang,8,Tinggi,Sangat Sering,Kadang,0,Tidak Pernah,3,4,Ya,0
+50,Perempuan,18.7,Tidak Merokok,Sedang,5,Sedang,Jarang,Sering,5,Mingguan,6,4,Tidak,0
+65,Laki-laki,29.3,Tidak Merokok,Sedang,7,Tinggi,Sering,Kadang,3,Sesekali,4,6,Ya,1
+29,Laki-laki,32.0,Tidak Merokok,Tinggi,8,Tinggi,Kadang,Jarang,2,Sesekali,3,5,Tidak,0
+39,Perempuan,31.3,Perokok Aktif,Rendah,4,Sedang,Sering,Kadang,5,Tidak Pernah,13,7,Tidak,1
+39,Laki-laki,27.2,Tidak Merokok,Rendah,7,Rendah,Jarang,Kadang,4,Tidak Pernah,14,1,Ya,0
+63,Laki-laki,19.7,Mantan Perokok,Tinggi,7,Rendah,Kadang,Kadang,4,Tidak Pernah,5,1,Tidak,0
+47,Laki-laki,29.7,Mantan Perokok,Tinggi,5,Tinggi,Kadang,Kadang,3,Tidak Pernah,6,5,Tidak,1
+55,Perempuan,22.1,Perokok Aktif,Rendah,5,Rendah,Tidak Pernah,Jarang,0,Tidak Pernah,11,0,Ya,0
+55,Laki-laki,33.5,Tidak Merokok,Sedang,6,Sedang,Jarang,Kadang,5,Mingguan,13,2,Tidak,1
+62,Laki-laki,32.3,Perokok Aktif,Sedang,6,Rendah,Kadang,Kadang,4,Sesekali,10,6,Ya,1
+25,Perempuan,30.1,Mantan Perokok,Sedang,4,Rendah,Jarang,Kadang,4,Sesekali,4,6,Ya,1
+44,Laki-laki,34.1,Perokok Aktif,Rendah,7,Sedang,Sangat Sering,Kadang,2,Tidak Pernah,11,5,Tidak,1
+44,Perempuan,18.5,Perokok Aktif,Sedang,4,Tinggi,Tidak Pernah,Tidak Pernah,3,Harian,6,7,Ya,1
+51,Perempuan,30.5,Tidak Merokok,Rendah,4,Sedang,Sangat Sering,Jarang,5,Tidak Pernah,2,1,Tidak,1
+38,Laki-laki,23.6,Tidak Merokok,Tinggi,5,Tinggi,Jarang,Jarang,4,Mingguan,6,2,Tidak,0
+47,Perempuan,33.4,Tidak Merokok,Tinggi,4,Tinggi,Tidak Pernah,Kadang,4,Harian,11,4,Tidak,1
+50,Perempuan,22.5,Tidak Merokok,Sedang,4,Rendah,Jarang,Kadang,4,Sesekali,14,5,Ya,1
+45,Laki-laki,30.3,Tidak Merokok,Rendah,8,Sedang,Sering,Sering,4,Harian,2,0,Ya,1
+64,Perempuan,32.9,Tidak Merokok,Rendah,6,Tinggi,Sering,Jarang,0,Sesekali,13,2,Ya,1
+50,Perempuan,18.7,Tidak Merokok,Sedang,6,Tinggi,Jarang,Tidak Pernah,1,Tidak Pernah,5,1,Tidak,0
+22,Laki-laki,24.8,Tidak Merokok,Sedang,7,Sedang,Jarang,Kadang,2,Tidak Pernah,7,4,Tidak,0
+65,Laki-laki,31.0,Tidak Merokok,Sedang,6,Tinggi,Kadang,Kadang,0,Tidak Pernah,12,5,Ya,1
+36,Laki-laki,25.7,Tidak Merokok,Sedang,9,Rendah,Kadang,Kadang,2,Tidak Pernah,14,6,Ya,0
+21,Perempuan,22.5,Tidak Merokok,Sedang,7,Rendah,Sering,Sering,4,Sesekali,5,3,Tidak,0
+52,Laki-laki,21.7,Tidak Merokok,Rendah,8,Sedang,Tidak Pernah,Sering,2,Tidak Pernah,9,6,Ya,0
+34,Perempuan,20.2,Tidak Merokok,Rendah,6,Sedang,Kadang,Jarang,3,Mingguan,10,7,Tidak,1
+61,Perempuan,32.6,Tidak Merokok,Rendah,8,Rendah,Sering,Sangat Sering,3,Tidak Pernah,2,7,Tidak,1
+45,Perempuan,27.8,Perokok Aktif,Rendah,6,Sedang,Sangat Sering,Jarang,1,Sesekali,11,6,Tidak,1
+47,Perempuan,19.3,Tidak Merokok,Sedang,6,Rendah,Kadang,Kadang,1,Harian,4,4,Ya,0
+46,Perempuan,24.5,Tidak Merokok,Tinggi,8,Sedang,Jarang,Sering,2,Tidak Pernah,8,1,Tidak,0
+63,Perempuan,24.3,Tidak Merokok,Tinggi,4,Tinggi,Tidak Pernah,Sering,0,Sesekali,7,5,Ya,1
+23,Perempuan,21.1,Perokok Aktif,Rendah,4,Tinggi,Kadang,Jarang,0,Mingguan,5,1,Tidak,1
+52,Laki-laki,25.4,Perokok Aktif,Rendah,4,Sedang,Kadang,Jarang,4,Tidak Pernah,8,3,Ya,1
+58,Laki-laki,23.6,Perokok Aktif,Rendah,9,Sedang,Sering,Kadang,0,Sesekali,1,7,Tidak,1
+54,Perempuan,23.8,Mantan Perokok,Rendah,4,Sedang,Sering,Jarang,1,Tidak Pernah,12,6,Tidak,1
+41,Perempuan,30.6,Tidak Merokok,Sedang,6,Rendah,Kadang,Tidak Pernah,0,Mingguan,10,4,Ya,0
+46,Laki-laki,21.8,Tidak Merokok,Sedang,5,Sedang,Kadang,Kadang,4,Sesekali,8,2,Tidak,0
+63,Perempuan,28.9,Tidak Merokok,Rendah,8,Rendah,Kadang,Kadang,3,Sesekali,9,2,Tidak,0
+48,Laki-laki,27.7,Perokok Aktif,Rendah,5,Tinggi,Jarang,Sering,0,Mingguan,12,4,Ya,1
+52,Laki-laki,27.7,Mantan Perokok,Rendah,9,Tinggi,Tidak Pernah,Jarang,0,Tidak Pernah,9,7,Ya,0
+50,Laki-laki,29.3,Mantan Perokok,Rendah,5,Sedang,Kadang,Sering,1,Mingguan,5,2,Tidak,1
+38,Perempuan,27.3,Tidak Merokok,Sedang,7,Tinggi,Jarang,Jarang,2,Mingguan,8,6,Tidak,0
+49,Perempuan,32.9,Perokok Aktif,Rendah,4,Rendah,Jarang,Sering,3,Mingguan,11,7,Tidak,1
+40,Laki-laki,29.5,Tidak Merokok,Sedang,9,Sedang,Tidak Pernah,Kadang,2,Mingguan,3,5,Tidak,0
+50,Laki-laki,27.3,Tidak Merokok,Sedang,6,Tinggi,Jarang,Kadang,4,Tidak Pernah,4,4,Tidak,0
+20,Laki-laki,32.1,Tidak Merokok,Tinggi,4,Sedang,Tidak Pernah,Sering,4,Harian,1,4,Tidak,0
+35,Laki-laki,28.3,Mantan Perokok,Tinggi,4,Rendah,Kadang,Jarang,2,Tidak Pernah,2,1,Tidak,0
+42,Laki-laki,22.9,Tidak Merokok,Sedang,5,Tinggi,Kadang,Jarang,1,Sesekali,0,0,Ya,0
+59,Perempuan,21.5,Perokok Aktif,Rendah,7,Tinggi,Kadang,Kadang,5,Tidak Pernah,3,1,Tidak,0
+48,Laki-laki,20.6,Tidak Merokok,Sedang,4,Tinggi,Kadang,Jarang,1,Harian,11,2,Ya,1
+20,Perempuan,33.3,Mantan Perokok,Tinggi,8,Tinggi,Sangat Sering,Kadang,5,Sesekali,1,0,Ya,1
+57,Laki-laki,30.1,Tidak Merokok,Rendah,8,Tinggi,Tidak Pernah,Jarang,5,Mingguan,11,4,Tidak,1
+63,Perempuan,33.9,Tidak Merokok,Sedang,4,Rendah,Kadang,Sering,1,Tidak Pernah,14,2,Ya,0
+41,Perempuan,28.3,Perokok Aktif,Tinggi,5,Rendah,Jarang,Kadang,5,Mingguan,1,7,Ya,1
+49,Perempuan,26.0,Perokok Aktif,Sedang,5,Sedang,Kadang,Tidak Pernah,5,Mingguan,0,3,Ya,1
+64,Perempuan,19.0,Mantan Perokok,Rendah,6,Rendah,Sangat Sering,Sering,5,Sesekali,9,2,Tidak,1
+39,Perempuan,29.4,Perokok Aktif,Rendah,9,Sedang,Sering,Jarang,3,Tidak Pernah,11,0,Tidak,1
+40,Perempuan,27.9,Mantan Perokok,Sedang,9,Sedang,Kadang,Jarang,4,Sesekali,1,0,Tidak,0
+19,Laki-laki,34.8,Tidak Merokok,Rendah,9,Sedang,Kadang,Kadang,5,Tidak Pernah,3,4,Tidak,0
+44,Perempuan,22.1,Mantan Perokok,Sedang,7,Rendah,Kadang,Kadang,4,Sesekali,5,5,Ya,0
+59,Laki-laki,27.0,Tidak Merokok,Sedang,5,Tinggi,Tidak Pernah,Kadang,4,Tidak Pernah,12,3,Ya,1
+19,Perempuan,29.1,Tidak Merokok,Rendah,6,Rendah,Kadang,Kadang,3,Tidak Pernah,11,4,Ya,0
+43,Perempuan,29.0,Tidak Merokok,Tinggi,8,Sedang,Kadang,Jarang,4,Tidak Pernah,6,3,Ya,0
+34,Laki-laki,27.5,Mantan Perokok,Sedang,9,Tinggi,Jarang,Sangat Sering,2,Tidak Pernah,6,3,Ya,1
+57,Perempuan,31.2,Mantan Perokok,Rendah,8,Tinggi,Jarang,Sering,0,Tidak Pernah,6,4,Ya,1
+50,Laki-laki,21.5,Tidak Merokok,Tinggi,8,Sedang,Sering,Jarang,3,Harian,14,6,Ya,1
+26,Laki-laki,30.3,Mantan Perokok,Tinggi,4,Rendah,Tidak Pernah,Sering,0,Sesekali,3,2,Tidak,0
+60,Laki-laki,28.5,Perokok Aktif,Sedang,7,Sedang,Tidak Pernah,Kadang,2,Tidak Pernah,11,7,Tidak,0
+65,Laki-laki,33.2,Tidak Merokok,Tinggi,6,Rendah,Kadang,Jarang,1,Sesekali,4,1,Tidak,0
+56,Perempuan,32.4,Tidak Merokok,Sedang,7,Rendah,Jarang,Jarang,1,Sesekali,13,3,Tidak,0
+46,Perempuan,23.4,Perokok Aktif,Tinggi,4,Sedang,Sering,Tidak Pernah,5,Harian,10,7,Ya,1
+59,Laki-laki,22.7,Tidak Merokok,Sedang,6,Sedang,Kadang,Sering,1,Tidak Pernah,11,6,Tidak,0
+43,Perempuan,34.7,Mantan Perokok,Sedang,6,Sedang,Sering,Kadang,3,Tidak Pernah,2,0,Ya,1
+52,Perempuan,27.0,Tidak Merokok,Tinggi,5,Sedang,Jarang,Jarang,1,Harian,0,4,Tidak,1
+42,Laki-laki,33.4,Tidak Merokok,Sedang,7,Tinggi,Sering,Jarang,3,Tidak Pernah,13,5,Tidak,1
+41,Perempuan,20.8,Mantan Perokok,Rendah,7,Tinggi,Sering,Kadang,3,Tidak Pernah,7,6,Tidak,1
+30,Laki-laki,28.9,Mantan Perokok,Sedang,5,Sedang,Jarang,Kadang,0,Tidak Pernah,9,2,Tidak,0
+24,Laki-laki,31.8,Perokok Aktif,Sedang,8,Rendah,Jarang,Sering,1,Tidak Pernah,10,7,Tidak,1
+53,Perempuan,34.1,Perokok Aktif,Rendah,4,Sedang,Sering,Sangat Sering,4,Harian,6,6,Tidak,1
+62,Perempuan,23.7,Perokok Aktif,Tinggi,7,Rendah,Tidak Pernah,Kadang,1,Tidak Pernah,13,3,Ya,0
+37,Perempuan,30.3,Mantan Perokok,Rendah,5,Sedang,Jarang,Kadang,1,Harian,8,5,Tidak,1
+18,Laki-laki,27.2,Tidak Merokok,Rendah,6,Sedang,Tidak Pernah,Kadang,1,Harian,13,6,Ya,1
+25,Laki-laki,19.0,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Sering,5,Sesekali,9,2,Tidak,0
+63,Perempuan,29.7,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Jarang,4,Tidak Pernah,3,7,Ya,1
+33,Perempuan,29.7,Perokok Aktif,Rendah,9,Rendah,Kadang,Jarang,4,Tidak Pernah,11,6,Ya,1
+31,Perempuan,33.8,Tidak Merokok,Sedang,8,Sedang,Kadang,Sering,3,Sesekali,14,4,Tidak,0
+29,Perempuan,26.5,Mantan Perokok,Sedang,4,Sedang,Jarang,Tidak Pernah,4,Tidak Pernah,11,5,Ya,1
+40,Laki-laki,21.9,Tidak Merokok,Rendah,9,Sedang,Sering,Jarang,3,Sesekali,4,0,Tidak,0
+32,Perempuan,18.8,Perokok Aktif,Tinggi,8,Sedang,Kadang,Kadang,0,Tidak Pernah,4,3,Ya,0
+45,Laki-laki,25.1,Perokok Aktif,Sedang,9,Sedang,Sangat Sering,Jarang,3,Harian,12,7,Tidak,1
+51,Laki-laki,23.1,Tidak Merokok,Sedang,6,Sedang,Sangat Sering,Jarang,1,Sesekali,6,3,Tidak,1
+19,Perempuan,30.9,Perokok Aktif,Sedang,6,Sedang,Sering,Kadang,2,Sesekali,12,5,Tidak,1
+49,Perempuan,24.0,Tidak Merokok,Sedang,6,Rendah,Sangat Sering,Kadang,2,Mingguan,8,2,Ya,1
+40,Perempuan,34.1,Tidak Merokok,Rendah,6,Rendah,Sering,Jarang,5,Tidak Pernah,7,4,Ya,1
+39,Laki-laki,34.4,Perokok Aktif,Rendah,5,Sedang,Sering,Sangat Sering,1,Tidak Pernah,6,6,Tidak,1
+42,Perempuan,28.6,Tidak Merokok,Sedang,6,Rendah,Jarang,Tidak Pernah,3,Tidak Pernah,13,7,Ya,0
+39,Perempuan,33.8,Perokok Aktif,Tinggi,6,Sedang,Jarang,Sering,1,Tidak Pernah,0,6,Ya,0
+39,Laki-laki,30.9,Tidak Merokok,Rendah,5,Tinggi,Sering,Tidak Pernah,5,Sesekali,11,1,Tidak,1
+59,Perempuan,27.3,Tidak Merokok,Sedang,6,Tinggi,Kadang,Kadang,4,Tidak Pernah,9,3,Tidak,0
+23,Laki-laki,21.1,Perokok Aktif,Tinggi,8,Tinggi,Sering,Jarang,3,Tidak Pernah,12,6,Ya,1
+32,Perempuan,25.8,Tidak Merokok,Rendah,8,Rendah,Sering,Jarang,1,Harian,5,0,Ya,1
+60,Laki-laki,27.5,Perokok Aktif,Rendah,7,Tinggi,Jarang,Jarang,4,Tidak Pernah,9,3,Ya,1
+54,Perempuan,32.7,Perokok Aktif,Rendah,8,Sedang,Sering,Kadang,5,Sesekali,14,3,Tidak,1
+50,Perempuan,26.2,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,4,Tidak Pernah,14,1,Ya,0
+25,Laki-laki,33.3,Tidak Merokok,Rendah,4,Rendah,Jarang,Jarang,3,Tidak Pernah,8,1,Tidak,0
+61,Laki-laki,29.5,Tidak Merokok,Sedang,4,Tinggi,Kadang,Sangat Sering,5,Sesekali,12,4,Ya,0
+61,Perempuan,20.3,Tidak Merokok,Sedang,5,Rendah,Jarang,Jarang,5,Harian,6,6,Ya,1
+22,Laki-laki,34.9,Tidak Merokok,Sedang,8,Tinggi,Kadang,Kadang,5,Tidak Pernah,0,6,Tidak,0
+56,Laki-laki,27.0,Tidak Merokok,Rendah,4,Rendah,Kadang,Jarang,0,Tidak Pernah,8,3,Ya,0
+21,Laki-laki,24.7,Tidak Merokok,Sedang,7,Sedang,Jarang,Kadang,5,Tidak Pernah,2,3,Tidak,0
+23,Laki-laki,29.2,Tidak Merokok,Tinggi,5,Sedang,Sering,Sering,0,Tidak Pernah,13,2,Tidak,0
+62,Perempuan,19.9,Perokok Aktif,Tinggi,7,Rendah,Kadang,Kadang,4,Tidak Pernah,8,2,Ya,0
+49,Perempuan,28.8,Perokok Aktif,Tinggi,8,Rendah,Jarang,Jarang,0,Sesekali,3,6,Tidak,0
+47,Laki-laki,26.5,Mantan Perokok,Sedang,6,Sedang,Jarang,Jarang,4,Tidak Pernah,14,7,Ya,1
+64,Laki-laki,24.9,Tidak Merokok,Sedang,7,Rendah,Sering,Sering,0,Sesekali,8,5,Ya,1
+52,Laki-laki,34.2,Perokok Aktif,Rendah,6,Sedang,Sering,Jarang,4,Sesekali,12,5,Ya,1
+57,Laki-laki,26.9,Tidak Merokok,Rendah,5,Sedang,Jarang,Kadang,4,Tidak Pernah,14,0,Tidak,0
+33,Perempuan,21.7,Mantan Perokok,Rendah,7,Tinggi,Tidak Pernah,Jarang,5,Tidak Pernah,7,6,Ya,1
+30,Perempuan,25.8,Perokok Aktif,Sedang,7,Sedang,Sering,Jarang,5,Harian,6,6,Tidak,1
+59,Laki-laki,33.6,Tidak Merokok,Rendah,9,Rendah,Kadang,Jarang,4,Tidak Pernah,3,6,Tidak,1
+47,Laki-laki,21.0,Mantan Perokok,Rendah,5,Sedang,Tidak Pernah,Sering,5,Mingguan,8,0,Ya,1
+36,Laki-laki,21.6,Perokok Aktif,Tinggi,5,Rendah,Kadang,Sering,4,Tidak Pernah,3,2,Tidak,0
+34,Perempuan,18.2,Perokok Aktif,Rendah,4,Tinggi,Kadang,Kadang,5,Sesekali,0,5,Tidak,1
+36,Laki-laki,18.2,Mantan Perokok,Rendah,8,Tinggi,Sering,Jarang,2,Tidak Pernah,5,6,Tidak,0
+45,Perempuan,32.1,Tidak Merokok,Rendah,7,Sedang,Jarang,Kadang,0,Tidak Pernah,3,0,Tidak,0
+43,Laki-laki,30.4,Tidak Merokok,Sedang,7,Rendah,Kadang,Kadang,4,Tidak Pernah,9,3,Tidak,0
+54,Perempuan,24.0,Tidak Merokok,Sedang,5,Tinggi,Jarang,Kadang,1,Tidak Pernah,2,7,Ya,0
+43,Laki-laki,29.9,Perokok Aktif,Sedang,5,Tinggi,Sangat Sering,Tidak Pernah,5,Mingguan,11,5,Tidak,1
+40,Perempuan,24.7,Tidak Merokok,Sedang,8,Tinggi,Sering,Sangat Sering,5,Sesekali,4,1,Tidak,1
+26,Laki-laki,34.2,Perokok Aktif,Tinggi,5,Tinggi,Sering,Kadang,3,Tidak Pernah,2,5,Tidak,1
+29,Laki-laki,34.4,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sangat Sering,1,Sesekali,10,3,Tidak,0
+18,Laki-laki,24.7,Tidak Merokok,Tinggi,6,Rendah,Kadang,Tidak Pernah,1,Mingguan,8,2,Tidak,0
+18,Perempuan,32.5,Tidak Merokok,Tinggi,9,Sedang,Sangat Sering,Jarang,2,Sesekali,11,4,Tidak,0
+64,Laki-laki,31.1,Mantan Perokok,Sedang,6,Sedang,Tidak Pernah,Jarang,0,Tidak Pernah,5,4,Tidak,0
+51,Perempuan,23.3,Tidak Merokok,Rendah,6,Sedang,Sering,Sering,2,Mingguan,14,2,Ya,1
+49,Perempuan,21.9,Tidak Merokok,Rendah,8,Sedang,Jarang,Jarang,0,Tidak Pernah,2,7,Tidak,0
+65,Laki-laki,25.8,Tidak Merokok,Rendah,7,Rendah,Jarang,Sering,4,Sesekali,4,3,Ya,1
+42,Laki-laki,31.3,Tidak Merokok,Sedang,6,Sedang,Kadang,Sering,2,Sesekali,7,0,Ya,0
+57,Laki-laki,34.3,Tidak Merokok,Tinggi,9,Sedang,Sering,Sering,3,Mingguan,13,5,Ya,1
+62,Perempuan,31.0,Perokok Aktif,Sedang,5,Rendah,Sering,Sering,0,Harian,7,5,Ya,1
+18,Laki-laki,32.5,Tidak Merokok,Rendah,6,Sedang,Kadang,Sering,2,Harian,5,0,Ya,1
+33,Perempuan,28.3,Tidak Merokok,Sedang,9,Tinggi,Kadang,Sering,3,Tidak Pernah,4,4,Tidak,0
+56,Perempuan,32.2,Perokok Aktif,Tinggi,8,Tinggi,Sangat Sering,Kadang,1,Harian,14,6,Ya,1
+22,Laki-laki,31.3,Perokok Aktif,Sedang,5,Sedang,Jarang,Sering,5,Tidak Pernah,4,6,Tidak,1
+39,Laki-laki,24.4,Mantan Perokok,Tinggi,9,Sedang,Sering,Sering,4,Tidak Pernah,0,2,Ya,0
+46,Laki-laki,27.4,Tidak Merokok,Tinggi,6,Rendah,Kadang,Jarang,4,Sesekali,1,6,Ya,0
+20,Laki-laki,31.7,Perokok Aktif,Tinggi,7,Sedang,Jarang,Sangat Sering,1,Sesekali,14,2,Ya,1
+29,Laki-laki,18.8,Perokok Aktif,Tinggi,5,Sedang,Tidak Pernah,Tidak Pernah,2,Sesekali,11,6,Ya,1
+43,Laki-laki,31.7,Perokok Aktif,Sedang,5,Sedang,Kadang,Jarang,5,Sesekali,10,1,Tidak,1
+33,Perempuan,21.0,Tidak Merokok,Rendah,7,Tinggi,Jarang,Jarang,1,Harian,3,4,Tidak,0
+54,Perempuan,26.7,Mantan Perokok,Rendah,5,Sedang,Tidak Pernah,Jarang,3,Tidak Pernah,5,7,Ya,1
+39,Perempuan,31.7,Mantan Perokok,Sedang,6,Rendah,Tidak Pernah,Sering,5,Tidak Pernah,10,2,Tidak,0
+46,Laki-laki,22.3,Tidak Merokok,Rendah,5,Rendah,Jarang,Sangat Sering,0,Harian,6,1,Tidak,1
+31,Perempuan,22.2,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sering,2,Tidak Pernah,0,0,Ya,0
+45,Perempuan,24.8,Perokok Aktif,Rendah,7,Sedang,Sering,Sangat Sering,5,Sesekali,7,4,Ya,1
+22,Perempuan,33.2,Mantan Perokok,Tinggi,4,Tinggi,Jarang,Jarang,0,Sesekali,11,4,Tidak,0
+64,Perempuan,18.0,Tidak Merokok,Sedang,7,Sedang,Kadang,Jarang,1,Sesekali,0,2,Ya,0
+47,Perempuan,33.3,Mantan Perokok,Rendah,6,Sedang,Jarang,Kadang,4,Sesekali,8,2,Tidak,1
+63,Laki-laki,20.6,Tidak Merokok,Tinggi,8,Sedang,Kadang,Sering,5,Tidak Pernah,14,3,Tidak,1
+22,Laki-laki,34.8,Tidak Merokok,Sedang,7,Sedang,Sering,Tidak Pernah,5,Mingguan,3,6,Tidak,1
+29,Perempuan,34.2,Perokok Aktif,Sedang,8,Sedang,Kadang,Sangat Sering,0,Tidak Pernah,11,0,Ya,1
+33,Perempuan,26.4,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,0,Tidak Pernah,14,0,Tidak,0
+43,Perempuan,26.7,Tidak Merokok,Sedang,6,Sedang,Kadang,Sangat Sering,4,Tidak Pernah,6,5,Ya,1
+43,Laki-laki,26.2,Perokok Aktif,Rendah,6,Rendah,Kadang,Kadang,0,Sesekali,10,1,Tidak,0
+65,Laki-laki,28.8,Tidak Merokok,Sedang,4,Tinggi,Kadang,Kadang,0,Sesekali,13,7,Tidak,1
+38,Perempuan,19.5,Tidak Merokok,Sedang,9,Sedang,Sering,Sering,5,Harian,5,1,Ya,1
+56,Laki-laki,18.6,Perokok Aktif,Sedang,5,Rendah,Sangat Sering,Sering,4,Sesekali,14,3,Tidak,1
+53,Laki-laki,19.0,Mantan Perokok,Sedang,7,Rendah,Kadang,Jarang,4,Sesekali,12,5,Ya,1
+50,Perempuan,25.6,Mantan Perokok,Sedang,6,Rendah,Sering,Sangat Sering,5,Harian,8,0,Ya,1
+47,Laki-laki,22.7,Perokok Aktif,Rendah,7,Sedang,Tidak Pernah,Sering,1,Sesekali,13,6,Tidak,1
+54,Laki-laki,28.6,Tidak Merokok,Tinggi,9,Rendah,Sangat Sering,Tidak Pernah,1,Sesekali,1,6,Tidak,0
+40,Perempuan,34.9,Mantan Perokok,Rendah,9,Rendah,Jarang,Jarang,5,Sesekali,14,7,Tidak,0
+27,Laki-laki,24.6,Tidak Merokok,Sedang,8,Sedang,Jarang,Kadang,0,Tidak Pernah,14,6,Ya,0
+22,Laki-laki,27.8,Perokok Aktif,Sedang,5,Sedang,Tidak Pernah,Kadang,2,Mingguan,10,6,Tidak,1
+53,Perempuan,25.1,Tidak Merokok,Tinggi,4,Rendah,Sangat Sering,Sering,1,Tidak Pernah,6,1,Ya,1
+51,Laki-laki,32.4,Mantan Perokok,Sedang,7,Sedang,Sering,Tidak Pernah,1,Sesekali,10,0,Tidak,0
+48,Laki-laki,33.3,Tidak Merokok,Sedang,5,Tinggi,Sangat Sering,Kadang,5,Sesekali,4,6,Tidak,1
+27,Perempuan,32.9,Tidak Merokok,Sedang,4,Tinggi,Sering,Kadang,5,Harian,12,0,Tidak,1
+36,Perempuan,34.6,Perokok Aktif,Sedang,7,Sedang,Kadang,Jarang,2,Mingguan,6,5,Tidak,0
+49,Perempuan,18.5,Mantan Perokok,Rendah,5,Rendah,Sangat Sering,Kadang,2,Sesekali,0,1,Tidak,0
+18,Laki-laki,32.3,Mantan Perokok,Sedang,6,Tinggi,Sangat Sering,Jarang,4,Sesekali,10,2,Tidak,1
+22,Perempuan,30.8,Tidak Merokok,Sedang,7,Sedang,Kadang,Jarang,5,Tidak Pernah,10,2,Tidak,0
+62,Laki-laki,21.9,Tidak Merokok,Tinggi,5,Rendah,Jarang,Kadang,1,Sesekali,9,5,Tidak,0
+21,Perempuan,34.3,Mantan Perokok,Sedang,9,Tinggi,Kadang,Sangat Sering,3,Harian,8,1,Tidak,1
+33,Laki-laki,20.5,Perokok Aktif,Sedang,4,Sedang,Sangat Sering,Jarang,3,Harian,0,7,Tidak,1
+41,Perempuan,29.6,Mantan Perokok,Rendah,5,Tinggi,Sering,Kadang,0,Mingguan,13,3,Tidak,1
+33,Perempuan,21.8,Perokok Aktif,Tinggi,6,Tinggi,Sering,Jarang,1,Tidak Pernah,4,4,Ya,1
+19,Perempuan,25.3,Perokok Aktif,Tinggi,7,Sedang,Sangat Sering,Jarang,3,Mingguan,13,5,Ya,1
+45,Perempuan,30.2,Mantan Perokok,Rendah,7,Tinggi,Sering,Kadang,1,Harian,7,0,Tidak,1
+49,Laki-laki,27.6,Mantan Perokok,Rendah,7,Sedang,Sering,Sering,5,Tidak Pernah,0,5,Tidak,1
+44,Perempuan,25.3,Perokok Aktif,Sedang,6,Sedang,Sering,Tidak Pernah,1,Sesekali,6,4,Tidak,1
+37,Perempuan,23.5,Mantan Perokok,Rendah,4,Tinggi,Jarang,Sangat Sering,3,Mingguan,1,7,Ya,1
+41,Laki-laki,32.3,Perokok Aktif,Rendah,7,Sedang,Kadang,Tidak Pernah,1,Sesekali,6,5,Ya,1
+29,Perempuan,20.4,Mantan Perokok,Rendah,4,Tinggi,Kadang,Sering,2,Harian,6,1,Tidak,1
+52,Laki-laki,25.3,Mantan Perokok,Rendah,5,Tinggi,Sering,Sering,0,Sesekali,8,0,Tidak,1
+50,Perempuan,33.4,Tidak Merokok,Sedang,9,Tinggi,Kadang,Kadang,4,Sesekali,5,4,Ya,1
+50,Perempuan,32.4,Tidak Merokok,Sedang,9,Tinggi,Tidak Pernah,Jarang,3,Mingguan,3,6,Tidak,0
+60,Perempuan,24.8,Perokok Aktif,Rendah,4,Sedang,Tidak Pernah,Kadang,5,Sesekali,6,2,Tidak,1
+54,Laki-laki,31.0,Mantan Perokok,Rendah,4,Rendah,Kadang,Kadang,4,Mingguan,6,3,Ya,1
+29,Perempuan,32.0,Mantan Perokok,Rendah,9,Tinggi,Kadang,Sering,0,Sesekali,3,5,Ya,1
+20,Perempuan,33.1,Perokok Aktif,Sedang,7,Rendah,Jarang,Kadang,2,Tidak Pernah,1,5,Ya,0
+18,Perempuan,27.3,Mantan Perokok,Rendah,8,Rendah,Jarang,Kadang,2,Tidak Pernah,12,4,Ya,0
+50,Laki-laki,21.5,Tidak Merokok,Sedang,8,Rendah,Kadang,Sering,2,Tidak Pernah,10,3,Tidak,0
+57,Laki-laki,22.3,Perokok Aktif,Sedang,6,Tinggi,Tidak Pernah,Sangat Sering,2,Sesekali,8,5,Ya,0
+27,Perempuan,23.0,Mantan Perokok,Rendah,9,Tinggi,Jarang,Kadang,3,Harian,13,7,Ya,1
+60,Laki-laki,28.1,Tidak Merokok,Rendah,9,Sedang,Jarang,Sering,3,Tidak Pernah,7,2,Tidak,0
+61,Perempuan,18.6,Tidak Merokok,Rendah,6,Sedang,Kadang,Kadang,1,Tidak Pernah,4,4,Tidak,0
+46,Perempuan,28.8,Tidak Merokok,Sedang,8,Sedang,Kadang,Sering,5,Tidak Pernah,13,1,Tidak,0
+30,Perempuan,24.2,Tidak Merokok,Tinggi,5,Sedang,Jarang,Sering,1,Sesekali,4,0,Ya,0
+29,Perempuan,23.0,Tidak Merokok,Rendah,7,Sedang,Sering,Sering,5,Harian,0,2,Tidak,1
+48,Perempuan,33.0,Tidak Merokok,Tinggi,7,Sedang,Jarang,Jarang,0,Sesekali,10,3,Tidak,0
+63,Perempuan,25.8,Tidak Merokok,Rendah,5,Sedang,Jarang,Kadang,1,Sesekali,8,3,Tidak,1
+19,Perempuan,19.6,Tidak Merokok,Tinggi,5,Sedang,Jarang,Kadang,0,Sesekali,10,2,Tidak,0
+52,Laki-laki,32.1,Tidak Merokok,Sedang,8,Sedang,Jarang,Jarang,0,Tidak Pernah,13,6,Tidak,0
+40,Laki-laki,18.8,Mantan Perokok,Sedang,6,Sedang,Tidak Pernah,Jarang,0,Sesekali,9,1,Tidak,0
+34,Laki-laki,30.4,Perokok Aktif,Sedang,5,Tinggi,Tidak Pernah,Sering,2,Sesekali,10,5,Tidak,1
+43,Laki-laki,31.2,Mantan Perokok,Sedang,6,Rendah,Kadang,Kadang,4,Sesekali,7,1,Ya,1
+25,Laki-laki,24.0,Tidak Merokok,Tinggi,4,Sedang,Kadang,Jarang,4,Mingguan,4,5,Ya,0
+46,Laki-laki,32.0,Tidak Merokok,Tinggi,7,Sedang,Kadang,Sering,3,Mingguan,9,5,Ya,1
+43,Laki-laki,26.8,Tidak Merokok,Sedang,8,Rendah,Sering,Sering,0,Mingguan,5,3,Ya,0
+27,Perempuan,25.9,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Kadang,2,Harian,11,5,Ya,1
+43,Perempuan,18.8,Tidak Merokok,Rendah,8,Rendah,Sangat Sering,Jarang,1,Harian,9,2,Tidak,0
+51,Perempuan,22.9,Tidak Merokok,Tinggi,4,Sedang,Tidak Pernah,Sangat Sering,1,Sesekali,10,6,Ya,1
+58,Perempuan,33.8,Tidak Merokok,Sedang,7,Sedang,Kadang,Sering,3,Tidak Pernah,9,5,Tidak,0
+24,Laki-laki,24.7,Perokok Aktif,Sedang,4,Tinggi,Tidak Pernah,Jarang,3,Sesekali,7,2,Tidak,1
+21,Laki-laki,27.3,Tidak Merokok,Sedang,8,Sedang,Sering,Tidak Pernah,0,Mingguan,5,0,Ya,1
+62,Perempuan,27.0,Tidak Merokok,Tinggi,5,Rendah,Kadang,Kadang,0,Tidak Pernah,9,3,Tidak,0
+28,Perempuan,28.0,Perokok Aktif,Sedang,7,Tinggi,Tidak Pernah,Sering,1,Tidak Pernah,13,7,Ya,1
+46,Laki-laki,19.0,Tidak Merokok,Tinggi,4,Rendah,Kadang,Jarang,1,Tidak Pernah,3,1,Tidak,0
+53,Perempuan,24.2,Tidak Merokok,Tinggi,9,Tinggi,Tidak Pernah,Kadang,1,Sesekali,2,4,Tidak,0
+42,Perempuan,30.3,Mantan Perokok,Sedang,7,Tinggi,Sering,Kadang,1,Sesekali,6,1,Ya,1
+38,Perempuan,21.4,Mantan Perokok,Rendah,7,Sedang,Kadang,Sering,4,Tidak Pernah,12,1,Tidak,0
+53,Perempuan,21.5,Mantan Perokok,Tinggi,7,Tinggi,Jarang,Kadang,0,Tidak Pernah,1,6,Tidak,0
+27,Laki-laki,18.2,Tidak Merokok,Sedang,6,Tinggi,Jarang,Kadang,0,Sesekali,6,7,Ya,0
+54,Perempuan,25.4,Tidak Merokok,Tinggi,4,Tinggi,Tidak Pernah,Sangat Sering,1,Tidak Pernah,0,4,Tidak,0
+26,Perempuan,33.0,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,2,Tidak Pernah,12,6,Tidak,1
+41,Laki-laki,18.9,Tidak Merokok,Rendah,7,Rendah,Jarang,Jarang,1,Sesekali,9,7,Ya,0
+52,Laki-laki,21.2,Perokok Aktif,Tinggi,5,Tinggi,Kadang,Sering,5,Sesekali,4,3,Tidak,1
+52,Perempuan,23.3,Mantan Perokok,Sedang,7,Rendah,Sangat Sering,Jarang,3,Tidak Pernah,14,5,Ya,1
+65,Laki-laki,30.4,Tidak Merokok,Sedang,6,Rendah,Jarang,Sering,5,Sesekali,8,0,Tidak,0
+53,Perempuan,28.9,Mantan Perokok,Tinggi,8,Rendah,Sangat Sering,Tidak Pernah,2,Tidak Pernah,12,1,Ya,0
+35,Perempuan,25.1,Tidak Merokok,Sedang,6,Sedang,Kadang,Jarang,3,Mingguan,14,6,Tidak,0
+56,Laki-laki,30.9,Perokok Aktif,Sedang,5,Sedang,Jarang,Sangat Sering,2,Tidak Pernah,12,5,Tidak,1
+49,Perempuan,28.4,Tidak Merokok,Rendah,7,Tinggi,Kadang,Kadang,3,Tidak Pernah,0,1,Ya,1
+41,Perempuan,33.2,Tidak Merokok,Tinggi,4,Tinggi,Sering,Sering,1,Mingguan,7,3,Ya,1
+40,Perempuan,31.9,Tidak Merokok,Tinggi,9,Rendah,Kadang,Jarang,1,Sesekali,8,3,Ya,0
+49,Perempuan,22.3,Mantan Perokok,Rendah,7,Tinggi,Tidak Pernah,Jarang,2,Tidak Pernah,8,2,Tidak,0
+54,Laki-laki,22.6,Mantan Perokok,Tinggi,5,Tinggi,Jarang,Sering,3,Tidak Pernah,7,3,Ya,1
+29,Laki-laki,20.1,Tidak Merokok,Tinggi,4,Rendah,Sering,Kadang,4,Mingguan,3,7,Tidak,0
+30,Perempuan,23.7,Tidak Merokok,Sedang,6,Sedang,Kadang,Kadang,2,Mingguan,13,3,Tidak,0
+40,Laki-laki,35.0,Tidak Merokok,Sedang,8,Tinggi,Kadang,Tidak Pernah,2,Tidak Pernah,13,1,Tidak,0
+42,Perempuan,24.9,Tidak Merokok,Sedang,8,Sedang,Jarang,Kadang,5,Sesekali,6,0,Ya,0
+52,Perempuan,21.7,Perokok Aktif,Rendah,7,Tinggi,Sering,Sering,0,Tidak Pernah,0,6,Ya,1
+58,Perempuan,31.0,Tidak Merokok,Sedang,6,Tinggi,Sangat Sering,Sering,2,Sesekali,6,1,Tidak,1
+47,Perempuan,27.2,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Sering,4,Tidak Pernah,5,6,Tidak,0
+34,Perempuan,20.5,Mantan Perokok,Sedang,9,Rendah,Tidak Pernah,Sering,1,Tidak Pernah,4,5,Tidak,0
+37,Laki-laki,24.5,Tidak Merokok,Sedang,5,Sedang,Sering,Kadang,3,Tidak Pernah,0,6,Tidak,0
+65,Perempuan,25.0,Mantan Perokok,Rendah,8,Rendah,Sering,Kadang,0,Sesekali,7,3,Ya,1
+42,Laki-laki,30.8,Perokok Aktif,Rendah,6,Sedang,Kadang,Sering,3,Tidak Pernah,9,2,Tidak,1
+39,Laki-laki,18.4,Tidak Merokok,Sedang,7,Tinggi,Sangat Sering,Jarang,1,Tidak Pernah,0,0,Ya,0
+30,Perempuan,22.6,Perokok Aktif,Rendah,4,Sedang,Kadang,Jarang,2,Tidak Pernah,0,2,Tidak,0
+36,Perempuan,26.8,Mantan Perokok,Sedang,7,Tinggi,Jarang,Sangat Sering,5,Tidak Pernah,13,4,Tidak,1
+53,Perempuan,22.6,Tidak Merokok,Sedang,7,Sedang,Sering,Tidak Pernah,4,Mingguan,14,2,Ya,1
+29,Perempuan,28.7,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Jarang,0,Tidak Pernah,2,7,Tidak,0
+58,Perempuan,26.2,Tidak Merokok,Rendah,8,Sedang,Sangat Sering,Kadang,4,Sesekali,12,2,Tidak,1
+36,Laki-laki,24.1,Mantan Perokok,Sedang,6,Tinggi,Jarang,Sering,4,Tidak Pernah,7,5,Tidak,1
+29,Perempuan,34.1,Perokok Aktif,Sedang,4,Tinggi,Kadang,Kadang,4,Tidak Pernah,7,3,Ya,1
+26,Perempuan,28.7,Perokok Aktif,Rendah,6,Rendah,Sering,Kadang,4,Sesekali,13,7,Ya,1
+24,Laki-laki,20.2,Perokok Aktif,Rendah,5,Tinggi,Jarang,Sangat Sering,1,Harian,14,5,Ya,1
+45,Laki-laki,27.5,Perokok Aktif,Rendah,7,Sedang,Jarang,Sering,4,Tidak Pernah,6,3,Ya,1
+31,Perempuan,31.3,Mantan Perokok,Tinggi,8,Rendah,Sering,Sering,5,Tidak Pernah,4,7,Tidak,0
+48,Laki-laki,30.0,Tidak Merokok,Rendah,9,Sedang,Kadang,Tidak Pernah,4,Sesekali,14,5,Tidak,0
+36,Perempuan,20.9,Tidak Merokok,Sedang,4,Tinggi,Kadang,Jarang,1,Harian,7,3,Ya,1
+64,Laki-laki,34.5,Tidak Merokok,Tinggi,9,Sedang,Sering,Kadang,3,Harian,1,7,Tidak,1
+33,Laki-laki,25.6,Mantan Perokok,Tinggi,7,Sedang,Jarang,Jarang,1,Sesekali,7,7,Tidak,0
+22,Perempuan,20.7,Tidak Merokok,Rendah,6,Tinggi,Sangat Sering,Tidak Pernah,5,Sesekali,11,7,Ya,1
+52,Laki-laki,21.1,Tidak Merokok,Tinggi,9,Tinggi,Sering,Jarang,5,Sesekali,10,6,Ya,1
+29,Laki-laki,19.7,Tidak Merokok,Rendah,5,Sedang,Kadang,Kadang,2,Sesekali,1,3,Ya,0
+42,Laki-laki,31.7,Tidak Merokok,Sedang,6,Rendah,Kadang,Sering,1,Sesekali,9,7,Tidak,0
+38,Laki-laki,20.1,Mantan Perokok,Tinggi,7,Rendah,Sangat Sering,Sering,3,Mingguan,4,3,Tidak,0
+53,Laki-laki,20.1,Tidak Merokok,Sedang,9,Tinggi,Jarang,Tidak Pernah,2,Sesekali,10,2,Tidak,0
+40,Laki-laki,32.5,Mantan Perokok,Sedang,4,Tinggi,Jarang,Kadang,2,Sesekali,12,4,Ya,1
+33,Perempuan,23.9,Tidak Merokok,Rendah,9,Rendah,Jarang,Jarang,0,Sesekali,3,3,Tidak,0
+56,Perempuan,18.5,Mantan Perokok,Sedang,9,Sedang,Jarang,Kadang,4,Sesekali,14,4,Ya,1
+62,Laki-laki,18.9,Tidak Merokok,Sedang,8,Rendah,Kadang,Kadang,2,Sesekali,12,4,Tidak,0
+59,Perempuan,20.4,Tidak Merokok,Rendah,9,Tinggi,Sangat Sering,Kadang,2,Sesekali,0,1,Tidak,0
+56,Perempuan,21.6,Mantan Perokok,Tinggi,7,Rendah,Sering,Sering,5,Tidak Pernah,4,1,Ya,0
+31,Perempuan,29.3,Tidak Merokok,Tinggi,4,Rendah,Jarang,Sering,3,Tidak Pernah,6,0,Tidak,0
+48,Laki-laki,20.7,Tidak Merokok,Tinggi,7,Rendah,Kadang,Kadang,2,Sesekali,0,6,Tidak,0
+22,Perempuan,20.0,Tidak Merokok,Sedang,5,Sedang,Kadang,Sering,3,Mingguan,1,7,Tidak,1
+52,Laki-laki,31.0,Tidak Merokok,Sedang,6,Sedang,Tidak Pernah,Sering,4,Tidak Pernah,11,7,Ya,1
+40,Perempuan,29.4,Tidak Merokok,Tinggi,9,Rendah,Sering,Sering,5,Sesekali,14,7,Tidak,0
+46,Laki-laki,25.4,Tidak Merokok,Tinggi,8,Tinggi,Sering,Kadang,0,Tidak Pernah,13,5,Tidak,0
+60,Laki-laki,27.3,Mantan Perokok,Sedang,4,Rendah,Sering,Kadang,0,Tidak Pernah,8,1,Tidak,0
+28,Perempuan,23.3,Perokok Aktif,Rendah,8,Sedang,Jarang,Sering,4,Harian,11,3,Ya,1
+35,Perempuan,26.2,Tidak Merokok,Rendah,8,Tinggi,Kadang,Tidak Pernah,4,Mingguan,4,4,Tidak,0
+64,Laki-laki,26.6,Perokok Aktif,Sedang,8,Sedang,Tidak Pernah,Sering,5,Tidak Pernah,13,5,Ya,1
+29,Perempuan,24.6,Tidak Merokok,Sedang,9,Sedang,Jarang,Sangat Sering,5,Sesekali,12,7,Tidak,0
+26,Perempuan,33.4,Mantan Perokok,Tinggi,4,Rendah,Kadang,Sering,1,Tidak Pernah,6,0,Ya,0
+27,Perempuan,18.3,Mantan Perokok,Rendah,4,Tinggi,Sangat Sering,Tidak Pernah,2,Harian,1,7,Ya,1
+61,Laki-laki,31.3,Mantan Perokok,Rendah,8,Sedang,Sering,Kadang,2,Tidak Pernah,6,1,Tidak,0
+34,Laki-laki,20.1,Tidak Merokok,Sedang,6,Tinggi,Sangat Sering,Sering,2,Tidak Pernah,6,2,Ya,1
+55,Perempuan,31.6,Tidak Merokok,Sedang,9,Rendah,Sering,Sangat Sering,3,Sesekali,6,6,Tidak,1
+24,Perempuan,28.5,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Kadang,1,Mingguan,4,5,Tidak,0
+63,Perempuan,32.3,Tidak Merokok,Sedang,7,Tinggi,Kadang,Sering,2,Tidak Pernah,8,0,Ya,1
+30,Laki-laki,19.7,Tidak Merokok,Sedang,9,Tinggi,Tidak Pernah,Sering,3,Sesekali,1,3,Ya,0
+57,Laki-laki,27.5,Tidak Merokok,Sedang,8,Rendah,Jarang,Jarang,3,Tidak Pernah,3,5,Tidak,0
+59,Perempuan,26.5,Tidak Merokok,Sedang,5,Tinggi,Kadang,Sering,0,Harian,1,4,Ya,1
+26,Perempuan,30.0,Tidak Merokok,Rendah,8,Sedang,Sering,Jarang,3,Tidak Pernah,7,3,Tidak,0
+44,Perempuan,27.1,Mantan Perokok,Sedang,4,Sedang,Kadang,Kadang,4,Harian,11,3,Tidak,1
+19,Perempuan,27.2,Perokok Aktif,Tinggi,9,Rendah,Tidak Pernah,Kadang,5,Sesekali,10,5,Tidak,1
+22,Perempuan,25.3,Perokok Aktif,Rendah,9,Sedang,Tidak Pernah,Sering,3,Tidak Pernah,0,7,Tidak,1
+46,Perempuan,23.3,Tidak Merokok,Tinggi,7,Sedang,Tidak Pernah,Sering,4,Harian,8,2,Ya,1
+54,Laki-laki,26.2,Mantan Perokok,Sedang,5,Sedang,Tidak Pernah,Kadang,4,Harian,11,2,Tidak,1
+55,Perempuan,20.0,Perokok Aktif,Tinggi,9,Rendah,Jarang,Sering,0,Sesekali,12,7,Tidak,0
+36,Laki-laki,34.3,Tidak Merokok,Tinggi,7,Rendah,Kadang,Sering,0,Tidak Pernah,13,5,Tidak,0
+25,Perempuan,30.1,Tidak Merokok,Rendah,7,Tinggi,Sering,Sering,3,Sesekali,4,7,Tidak,1
+65,Perempuan,34.2,Perokok Aktif,Sedang,5,Tinggi,Kadang,Kadang,0,Sesekali,10,5,Tidak,1
+62,Laki-laki,21.9,Tidak Merokok,Rendah,8,Tinggi,Kadang,Tidak Pernah,0,Sesekali,11,5,Tidak,1
+18,Laki-laki,32.9,Tidak Merokok,Tinggi,8,Rendah,Jarang,Kadang,5,Sesekali,2,6,Ya,0
+39,Laki-laki,31.7,Tidak Merokok,Sedang,8,Sedang,Sangat Sering,Sering,2,Tidak Pernah,11,6,Tidak,1
+34,Laki-laki,29.5,Tidak Merokok,Sedang,6,Tinggi,Jarang,Jarang,3,Sesekali,10,4,Ya,0
+24,Perempuan,28.6,Perokok Aktif,Sedang,8,Tinggi,Sering,Sangat Sering,3,Sesekali,3,1,Ya,1
+42,Laki-laki,23.4,Mantan Perokok,Tinggi,5,Sedang,Sangat Sering,Sering,3,Tidak Pernah,0,3,Ya,1
+62,Perempuan,31.9,Tidak Merokok,Rendah,6,Tinggi,Sering,Sering,0,Sesekali,2,5,Ya,1
+21,Laki-laki,26.5,Tidak Merokok,Sedang,8,Tinggi,Tidak Pernah,Sering,5,Sesekali,10,6,Ya,1
+53,Perempuan,19.2,Mantan Perokok,Sedang,6,Tinggi,Kadang,Kadang,0,Sesekali,7,1,Tidak,0
+23,Perempuan,23.3,Mantan Perokok,Sedang,5,Rendah,Tidak Pernah,Sering,4,Tidak Pernah,11,4,Ya,1
+48,Perempuan,33.9,Tidak Merokok,Sedang,8,Rendah,Tidak Pernah,Kadang,1,Sesekali,1,3,Tidak,0
+36,Perempuan,32.5,Perokok Aktif,Sedang,4,Sedang,Tidak Pernah,Sering,1,Tidak Pernah,1,1,Ya,1
+61,Perempuan,34.7,Tidak Merokok,Rendah,9,Sedang,Sangat Sering,Sering,1,Sesekali,8,3,Ya,1
+56,Perempuan,28.7,Tidak Merokok,Tinggi,5,Rendah,Sangat Sering,Sering,2,Mingguan,4,7,Ya,1
+44,Laki-laki,22.2,Mantan Perokok,Rendah,7,Rendah,Jarang,Sering,0,Sesekali,4,2,Ya,0
+27,Perempuan,20.8,Tidak Merokok,Sedang,7,Tinggi,Kadang,Tidak Pernah,4,Tidak Pernah,0,5,Ya,0
+43,Laki-laki,21.2,Perokok Aktif,Rendah,5,Sedang,Sangat Sering,Tidak Pernah,4,Sesekali,12,7,Tidak,1
+36,Laki-laki,18.3,Mantan Perokok,Rendah,7,Sedang,Kadang,Sering,1,Harian,5,2,Tidak,1
+56,Perempuan,24.6,Perokok Aktif,Rendah,5,Sedang,Jarang,Jarang,5,Tidak Pernah,7,0,Ya,1
+20,Laki-laki,21.3,Tidak Merokok,Sedang,4,Sedang,Kadang,Kadang,2,Mingguan,5,4,Ya,1
+62,Perempuan,25.0,Tidak Merokok,Sedang,5,Tinggi,Sering,Kadang,2,Sesekali,13,5,Ya,1
+30,Laki-laki,33.9,Tidak Merokok,Rendah,8,Rendah,Kadang,Tidak Pernah,1,Mingguan,14,7,Tidak,1
+45,Perempuan,25.3,Tidak Merokok,Rendah,8,Tinggi,Sering,Tidak Pernah,1,Tidak Pernah,6,1,Tidak,0
+37,Laki-laki,32.9,Mantan Perokok,Tinggi,6,Sedang,Kadang,Sering,0,Tidak Pernah,13,3,Ya,1
+45,Perempuan,28.3,Perokok Aktif,Rendah,7,Rendah,Jarang,Kadang,5,Harian,3,6,Ya,1
+25,Perempuan,22.2,Mantan Perokok,Tinggi,9,Tinggi,Jarang,Kadang,2,Tidak Pernah,1,0,Tidak,0
+58,Perempuan,24.0,Perokok Aktif,Rendah,7,Sedang,Tidak Pernah,Sangat Sering,4,Tidak Pernah,0,4,Ya,1
+56,Perempuan,19.4,Mantan Perokok,Sedang,5,Sedang,Kadang,Jarang,1,Sesekali,11,4,Tidak,0
+18,Laki-laki,23.7,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Jarang,0,Tidak Pernah,5,4,Ya,0
+20,Perempuan,29.5,Tidak Merokok,Tinggi,9,Sedang,Sering,Sering,4,Mingguan,8,1,Tidak,1
+30,Laki-laki,19.2,Mantan Perokok,Sedang,7,Sedang,Kadang,Sering,2,Sesekali,9,7,Tidak,0
+45,Laki-laki,21.5,Tidak Merokok,Sedang,9,Tinggi,Sering,Kadang,1,Mingguan,4,5,Tidak,0
+42,Laki-laki,24.5,Tidak Merokok,Rendah,9,Rendah,Sangat Sering,Sangat Sering,5,Mingguan,11,2,Tidak,1
+50,Perempuan,34.7,Tidak Merokok,Sedang,8,Tinggi,Sering,Sangat Sering,1,Tidak Pernah,1,0,Ya,1
+55,Laki-laki,31.3,Perokok Aktif,Sedang,4,Sedang,Sangat Sering,Tidak Pernah,5,Tidak Pernah,0,7,Tidak,1
+23,Laki-laki,30.5,Tidak Merokok,Rendah,5,Rendah,Kadang,Jarang,0,Mingguan,2,1,Ya,0
+61,Laki-laki,20.0,Perokok Aktif,Rendah,7,Rendah,Jarang,Sering,0,Tidak Pernah,3,3,Tidak,0
+62,Perempuan,31.3,Perokok Aktif,Tinggi,8,Sedang,Sangat Sering,Jarang,2,Harian,6,1,Tidak,1
+49,Perempuan,31.3,Tidak Merokok,Rendah,6,Sedang,Sering,Tidak Pernah,5,Sesekali,8,3,Ya,1
+62,Laki-laki,28.2,Tidak Merokok,Sedang,9,Rendah,Sering,Sering,1,Tidak Pernah,7,3,Ya,0
+64,Perempuan,34.8,Tidak Merokok,Sedang,9,Rendah,Kadang,Kadang,0,Mingguan,8,4,Tidak,0
+38,Perempuan,23.5,Mantan Perokok,Tinggi,7,Tinggi,Kadang,Kadang,1,Tidak Pernah,6,1,Tidak,0
+33,Laki-laki,34.0,Mantan Perokok,Tinggi,4,Rendah,Tidak Pernah,Jarang,2,Tidak Pernah,9,2,Tidak,0
+38,Laki-laki,33.6,Perokok Aktif,Tinggi,4,Tinggi,Sering,Sering,5,Sesekali,7,3,Ya,1
+28,Perempuan,18.2,Mantan Perokok,Rendah,7,Sedang,Tidak Pernah,Kadang,1,Mingguan,7,6,Ya,1
+54,Laki-laki,25.7,Tidak Merokok,Tinggi,7,Sedang,Jarang,Jarang,4,Sesekali,0,4,Ya,0
+53,Perempuan,34.6,Tidak Merokok,Rendah,8,Sedang,Kadang,Jarang,1,Tidak Pernah,11,2,Tidak,0
+52,Perempuan,19.8,Mantan Perokok,Sedang,7,Rendah,Kadang,Kadang,3,Tidak Pernah,13,7,Tidak,0
+36,Perempuan,27.3,Tidak Merokok,Sedang,6,Tinggi,Tidak Pernah,Sangat Sering,3,Tidak Pernah,14,7,Tidak,1
+37,Perempuan,34.6,Tidak Merokok,Rendah,8,Rendah,Sering,Sangat Sering,2,Tidak Pernah,11,7,Tidak,0
+35,Perempuan,27.4,Tidak Merokok,Tinggi,9,Sedang,Sering,Jarang,2,Tidak Pernah,14,1,Tidak,0
+64,Perempuan,21.2,Tidak Merokok,Rendah,9,Sedang,Kadang,Sering,2,Sesekali,8,2,Tidak,0
+58,Laki-laki,27.9,Tidak Merokok,Sedang,9,Rendah,Kadang,Sering,4,Harian,1,1,Tidak,1
+31,Laki-laki,21.5,Tidak Merokok,Tinggi,9,Sedang,Sangat Sering,Sering,5,Tidak Pernah,11,3,Tidak,0
+32,Perempuan,26.8,Tidak Merokok,Tinggi,5,Tinggi,Tidak Pernah,Kadang,4,Tidak Pernah,10,7,Ya,1
+48,Perempuan,19.3,Tidak Merokok,Rendah,6,Sedang,Sering,Tidak Pernah,1,Mingguan,13,0,Tidak,0
+18,Perempuan,28.3,Mantan Perokok,Sedang,8,Tinggi,Tidak Pernah,Sering,0,Sesekali,6,0,Ya,1
+20,Laki-laki,26.8,Perokok Aktif,Tinggi,8,Tinggi,Jarang,Jarang,5,Harian,12,7,Ya,1
+33,Perempuan,30.6,Tidak Merokok,Rendah,9,Sedang,Kadang,Jarang,3,Tidak Pernah,9,5,Tidak,0
+40,Laki-laki,28.7,Perokok Aktif,Sedang,4,Sedang,Sering,Kadang,3,Tidak Pernah,9,5,Tidak,1
+28,Perempuan,27.3,Tidak Merokok,Rendah,8,Sedang,Tidak Pernah,Sangat Sering,3,Sesekali,12,3,Tidak,0
+29,Perempuan,29.7,Tidak Merokok,Sedang,6,Sedang,Jarang,Jarang,1,Sesekali,4,2,Ya,0
+27,Laki-laki,20.4,Perokok Aktif,Tinggi,7,Rendah,Kadang,Kadang,1,Sesekali,3,1,Tidak,0
+49,Laki-laki,28.1,Mantan Perokok,Sedang,6,Tinggi,Kadang,Jarang,2,Sesekali,0,7,Tidak,0
+33,Perempuan,20.9,Perokok Aktif,Sedang,9,Sedang,Kadang,Sering,0,Tidak Pernah,0,0,Ya,0
+25,Perempuan,33.7,Tidak Merokok,Sedang,9,Sedang,Jarang,Kadang,2,Sesekali,2,7,Tidak,0
+55,Perempuan,19.2,Tidak Merokok,Sedang,5,Sedang,Kadang,Jarang,1,Sesekali,13,1,Ya,1
+29,Laki-laki,25.3,Perokok Aktif,Rendah,8,Sedang,Jarang,Jarang,4,Tidak Pernah,14,3,Tidak,1
+41,Laki-laki,29.8,Tidak Merokok,Rendah,8,Tinggi,Jarang,Kadang,2,Sesekali,0,2,Tidak,0
+45,Laki-laki,25.8,Tidak Merokok,Sedang,8,Sedang,Kadang,Jarang,5,Sesekali,7,6,Ya,1
+25,Laki-laki,19.6,Mantan Perokok,Sedang,9,Rendah,Kadang,Tidak Pernah,1,Tidak Pernah,2,1,Ya,0
+45,Laki-laki,27.4,Perokok Aktif,Sedang,8,Rendah,Tidak Pernah,Sering,1,Tidak Pernah,10,7,Ya,1
+53,Laki-laki,28.9,Perokok Aktif,Rendah,4,Tinggi,Tidak Pernah,Kadang,4,Tidak Pernah,9,2,Ya,1
+43,Perempuan,30.0,Tidak Merokok,Sedang,4,Sedang,Kadang,Sering,4,Tidak Pernah,1,6,Ya,1
+25,Perempuan,24.3,Perokok Aktif,Rendah,7,Tinggi,Jarang,Jarang,4,Sesekali,5,0,Ya,1
+45,Laki-laki,27.6,Tidak Merokok,Tinggi,8,Rendah,Jarang,Kadang,0,Mingguan,3,1,Ya,0
+45,Perempuan,25.7,Tidak Merokok,Sedang,5,Rendah,Kadang,Kadang,5,Tidak Pernah,12,4,Ya,1
+54,Perempuan,29.4,Mantan Perokok,Rendah,7,Rendah,Jarang,Tidak Pernah,1,Tidak Pernah,12,0,Ya,0
+58,Laki-laki,27.9,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Kadang,4,Harian,13,2,Ya,1
+53,Perempuan,26.9,Tidak Merokok,Tinggi,8,Sedang,Sering,Tidak Pernah,0,Tidak Pernah,10,3,Tidak,0
+44,Laki-laki,22.2,Mantan Perokok,Rendah,4,Rendah,Sering,Sering,3,Tidak Pernah,13,4,Tidak,0
+34,Laki-laki,18.0,Tidak Merokok,Tinggi,5,Sedang,Kadang,Kadang,5,Tidak Pernah,12,5,Ya,1
+26,Perempuan,21.0,Tidak Merokok,Rendah,7,Sedang,Kadang,Kadang,3,Sesekali,10,1,Tidak,0
+50,Laki-laki,20.0,Tidak Merokok,Tinggi,5,Rendah,Sering,Jarang,3,Tidak Pernah,12,7,Tidak,0
+37,Laki-laki,25.6,Tidak Merokok,Tinggi,8,Sedang,Sangat Sering,Jarang,1,Sesekali,3,5,Tidak,1
+30,Laki-laki,28.4,Tidak Merokok,Sedang,6,Tinggi,Kadang,Kadang,0,Tidak Pernah,1,0,Ya,0
+45,Laki-laki,21.6,Perokok Aktif,Rendah,5,Rendah,Jarang,Kadang,0,Tidak Pernah,1,7,Tidak,0
+65,Laki-laki,34.0,Perokok Aktif,Rendah,5,Rendah,Kadang,Jarang,3,Tidak Pernah,10,1,Ya,1
+46,Laki-laki,18.1,Tidak Merokok,Sedang,9,Sedang,Kadang,Tidak Pernah,5,Sesekali,5,1,Ya,0
+30,Laki-laki,31.1,Perokok Aktif,Sedang,4,Tinggi,Kadang,Jarang,2,Sesekali,4,4,Ya,1
+63,Laki-laki,28.6,Tidak Merokok,Rendah,8,Tinggi,Kadang,Kadang,3,Tidak Pernah,8,4,Ya,1
+52,Perempuan,24.4,Tidak Merokok,Rendah,5,Sedang,Sering,Jarang,1,Tidak Pernah,3,4,Tidak,0
+23,Perempuan,18.9,Perokok Aktif,Sedang,8,Rendah,Kadang,Kadang,3,Sesekali,4,4,Tidak,0
+35,Perempuan,28.7,Tidak Merokok,Sedang,4,Tinggi,Jarang,Jarang,5,Mingguan,14,3,Tidak,1
+22,Laki-laki,24.6,Perokok Aktif,Rendah,9,Tinggi,Tidak Pernah,Kadang,5,Tidak Pernah,0,7,Ya,1
+64,Laki-laki,33.9,Tidak Merokok,Rendah,8,Sedang,Kadang,Jarang,3,Sesekali,11,7,Ya,1
+42,Perempuan,27.2,Perokok Aktif,Tinggi,4,Tinggi,Tidak Pernah,Kadang,0,Tidak Pernah,11,2,Ya,1
+19,Perempuan,34.0,Tidak Merokok,Sedang,4,Sedang,Jarang,Tidak Pernah,3,Tidak Pernah,1,4,Ya,0
+27,Perempuan,21.7,Tidak Merokok,Tinggi,7,Tinggi,Jarang,Jarang,4,Tidak Pernah,2,0,Tidak,0
+47,Laki-laki,30.3,Tidak Merokok,Sedang,9,Sedang,Jarang,Kadang,4,Mingguan,4,7,Tidak,0
+62,Perempuan,28.5,Mantan Perokok,Rendah,9,Sedang,Sangat Sering,Kadang,2,Tidak Pernah,11,1,Tidak,1
+22,Perempuan,30.6,Tidak Merokok,Rendah,8,Rendah,Jarang,Kadang,1,Mingguan,4,5,Tidak,0
+50,Laki-laki,21.6,Perokok Aktif,Rendah,6,Tinggi,Jarang,Sering,1,Sesekali,3,4,Ya,1
+18,Perempuan,29.3,Tidak Merokok,Tinggi,7,Tinggi,Tidak Pernah,Sering,0,Mingguan,13,0,Ya,0
+35,Laki-laki,26.5,Tidak Merokok,Sedang,9,Sedang,Kadang,Jarang,1,Tidak Pernah,9,3,Tidak,0
+49,Laki-laki,30.6,Tidak Merokok,Rendah,4,Sedang,Jarang,Sering,2,Tidak Pernah,2,0,Ya,1
+64,Laki-laki,23.6,Mantan Perokok,Tinggi,9,Rendah,Kadang,Kadang,4,Harian,8,5,Tidak,0
+28,Perempuan,33.1,Perokok Aktif,Rendah,6,Rendah,Jarang,Jarang,0,Sesekali,0,5,Tidak,0
+38,Perempuan,19.4,Tidak Merokok,Tinggi,5,Rendah,Kadang,Sangat Sering,5,Mingguan,5,0,Ya,0
+43,Laki-laki,31.7,Mantan Perokok,Tinggi,5,Sedang,Sering,Sering,4,Tidak Pernah,6,3,Tidak,1
+42,Perempuan,32.6,Tidak Merokok,Rendah,9,Tinggi,Tidak Pernah,Sangat Sering,2,Tidak Pernah,9,7,Tidak,1
+39,Perempuan,31.9,Mantan Perokok,Rendah,9,Rendah,Kadang,Jarang,0,Sesekali,3,5,Ya,0
+44,Perempuan,26.7,Perokok Aktif,Sedang,7,Rendah,Kadang,Jarang,3,Tidak Pernah,9,3,Tidak,0
+30,Perempuan,25.5,Tidak Merokok,Sedang,9,Sedang,Sering,Kadang,1,Sesekali,2,1,Ya,0
+50,Laki-laki,34.9,Tidak Merokok,Sedang,6,Rendah,Kadang,Kadang,2,Tidak Pernah,7,4,Tidak,0
+51,Perempuan,21.9,Perokok Aktif,Tinggi,9,Tinggi,Kadang,Jarang,0,Tidak Pernah,8,5,Ya,1
+58,Laki-laki,27.3,Perokok Aktif,Sedang,8,Sedang,Sering,Sering,4,Tidak Pernah,12,0,Ya,1
+52,Laki-laki,29.4,Mantan Perokok,Rendah,6,Rendah,Kadang,Kadang,0,Tidak Pernah,0,7,Tidak,0
+18,Perempuan,29.9,Tidak Merokok,Rendah,7,Rendah,Jarang,Kadang,3,Tidak Pernah,14,2,Ya,0
+38,Laki-laki,21.5,Tidak Merokok,Sedang,8,Rendah,Tidak Pernah,Kadang,2,Sesekali,14,2,Tidak,0
+65,Perempuan,29.1,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,0,Tidak Pernah,14,6,Tidak,0
+23,Perempuan,31.9,Perokok Aktif,Tinggi,5,Rendah,Sering,Tidak Pernah,5,Tidak Pernah,14,1,Ya,1
+45,Laki-laki,18.9,Mantan Perokok,Rendah,6,Sedang,Sangat Sering,Sangat Sering,2,Mingguan,10,2,Tidak,1
+34,Laki-laki,33.5,Tidak Merokok,Rendah,8,Sedang,Sangat Sering,Kadang,2,Sesekali,11,1,Tidak,0
+22,Laki-laki,18.5,Tidak Merokok,Rendah,7,Rendah,Sering,Tidak Pernah,4,Tidak Pernah,9,7,Ya,0
+48,Laki-laki,24.1,Tidak Merokok,Sedang,5,Rendah,Kadang,Sering,1,Sesekali,8,4,Tidak,0
+22,Perempuan,18.3,Tidak Merokok,Rendah,8,Sedang,Sering,Sangat Sering,5,Harian,6,6,Tidak,1
+55,Perempuan,19.3,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sering,3,Tidak Pernah,0,1,Tidak,0
+20,Perempuan,33.5,Tidak Merokok,Sedang,5,Tinggi,Kadang,Sering,0,Tidak Pernah,6,3,Tidak,0
+40,Laki-laki,24.0,Tidak Merokok,Tinggi,6,Rendah,Jarang,Kadang,1,Sesekali,4,3,Tidak,0
+54,Laki-laki,25.2,Tidak Merokok,Sedang,6,Rendah,Jarang,Sangat Sering,4,Tidak Pernah,9,6,Tidak,0
+54,Laki-laki,21.7,Tidak Merokok,Rendah,6,Rendah,Sering,Tidak Pernah,1,Mingguan,12,7,Tidak,0
+27,Perempuan,28.2,Tidak Merokok,Tinggi,5,Sedang,Kadang,Sering,2,Harian,12,7,Ya,1
+27,Laki-laki,28.1,Tidak Merokok,Rendah,8,Sedang,Jarang,Sering,2,Harian,6,3,Tidak,0
+36,Perempuan,24.3,Tidak Merokok,Sedang,9,Tinggi,Jarang,Tidak Pernah,3,Tidak Pernah,11,5,Ya,0
+34,Laki-laki,23.7,Tidak Merokok,Rendah,4,Sedang,Sering,Kadang,5,Tidak Pernah,8,3,Tidak,0
+38,Perempuan,33.0,Tidak Merokok,Tinggi,8,Rendah,Kadang,Kadang,0,Harian,7,3,Tidak,1
+31,Perempuan,24.5,Tidak Merokok,Tinggi,5,Sedang,Kadang,Sering,0,Sesekali,5,7,Tidak,0
+26,Laki-laki,26.4,Perokok Aktif,Sedang,4,Tinggi,Kadang,Tidak Pernah,4,Tidak Pernah,1,3,Ya,1
+63,Laki-laki,22.8,Perokok Aktif,Sedang,4,Sedang,Kadang,Sering,3,Sesekali,7,3,Tidak,1
+18,Perempuan,31.4,Mantan Perokok,Tinggi,4,Sedang,Tidak Pernah,Jarang,0,Tidak Pernah,11,5,Ya,1
+62,Perempuan,24.8,Tidak Merokok,Rendah,9,Tinggi,Kadang,Kadang,5,Tidak Pernah,13,3,Tidak,1
+30,Laki-laki,26.7,Perokok Aktif,Tinggi,7,Tinggi,Sering,Sering,2,Mingguan,3,3,Tidak,1
+21,Laki-laki,22.3,Mantan Perokok,Rendah,5,Tinggi,Jarang,Kadang,3,Tidak Pernah,7,4,Tidak,0
+18,Perempuan,34.8,Tidak Merokok,Tinggi,9,Rendah,Jarang,Kadang,1,Tidak Pernah,14,7,Ya,0
+57,Laki-laki,23.0,Tidak Merokok,Sedang,9,Sedang,Tidak Pernah,Tidak Pernah,3,Tidak Pernah,6,7,Tidak,0
+49,Perempuan,31.1,Perokok Aktif,Tinggi,7,Rendah,Kadang,Sering,3,Sesekali,3,5,Tidak,0
+51,Perempuan,25.3,Tidak Merokok,Sedang,4,Sedang,Tidak Pernah,Sangat Sering,5,Tidak Pernah,7,3,Tidak,0
+45,Laki-laki,21.5,Tidak Merokok,Sedang,7,Rendah,Kadang,Sangat Sering,5,Sesekali,10,1,Tidak,0
+48,Laki-laki,31.6,Mantan Perokok,Sedang,7,Tinggi,Kadang,Sering,0,Sesekali,10,6,Ya,1
+25,Laki-laki,23.7,Perokok Aktif,Rendah,9,Tinggi,Sering,Jarang,4,Mingguan,11,7,Ya,1
+56,Laki-laki,32.7,Tidak Merokok,Sedang,5,Sedang,Kadang,Jarang,4,Tidak Pernah,10,4,Tidak,1
+43,Laki-laki,33.6,Tidak Merokok,Sedang,6,Rendah,Jarang,Jarang,5,Mingguan,1,5,Tidak,0
+51,Perempuan,32.6,Tidak Merokok,Tinggi,7,Rendah,Kadang,Kadang,0,Tidak Pernah,8,2,Tidak,0
+20,Perempuan,18.6,Mantan Perokok,Sedang,7,Tinggi,Kadang,Jarang,0,Sesekali,5,0,Ya,0
+29,Laki-laki,31.4,Tidak Merokok,Rendah,4,Sedang,Tidak Pernah,Jarang,0,Tidak Pernah,6,5,Tidak,0
+18,Laki-laki,25.0,Tidak Merokok,Rendah,4,Tinggi,Kadang,Kadang,5,Tidak Pernah,9,6,Ya,1
+61,Laki-laki,32.9,Perokok Aktif,Sedang,9,Sedang,Sangat Sering,Jarang,4,Sesekali,0,4,Tidak,1
+22,Perempuan,28.8,Tidak Merokok,Rendah,4,Sedang,Jarang,Sering,0,Tidak Pernah,2,3,Tidak,0
+47,Laki-laki,32.2,Mantan Perokok,Rendah,8,Tinggi,Kadang,Sangat Sering,5,Tidak Pernah,13,4,Tidak,1
+47,Laki-laki,26.5,Tidak Merokok,Tinggi,7,Sedang,Sering,Kadang,1,Tidak Pernah,9,0,Tidak,0
+34,Perempuan,27.1,Tidak Merokok,Sedang,4,Sedang,Kadang,Sering,1,Sesekali,4,0,Ya,0
+65,Perempuan,20.5,Mantan Perokok,Sedang,5,Tinggi,Sering,Sering,2,Tidak Pernah,14,5,Ya,1
+64,Laki-laki,31.3,Tidak Merokok,Rendah,8,Rendah,Jarang,Jarang,1,Tidak Pernah,11,3,Ya,0
+40,Laki-laki,25.1,Tidak Merokok,Sedang,9,Rendah,Jarang,Tidak Pernah,3,Tidak Pernah,6,3,Ya,0
+32,Laki-laki,26.5,Tidak Merokok,Rendah,6,Sedang,Kadang,Tidak Pernah,2,Sesekali,0,1,Tidak,0
+54,Perempuan,31.3,Mantan Perokok,Sedang,7,Rendah,Sering,Jarang,1,Tidak Pernah,8,0,Ya,0
+38,Laki-laki,28.2,Perokok Aktif,Rendah,7,Tinggi,Sangat Sering,Sering,3,Tidak Pernah,4,3,Tidak,1
+31,Laki-laki,21.4,Perokok Aktif,Tinggi,5,Tinggi,Jarang,Sangat Sering,1,Tidak Pernah,12,0,Ya,1
+19,Laki-laki,28.0,Tidak Merokok,Sedang,6,Tinggi,Kadang,Sangat Sering,5,Tidak Pernah,11,7,Tidak,1
+28,Perempuan,24.9,Tidak Merokok,Sedang,6,Sedang,Jarang,Tidak Pernah,3,Mingguan,2,1,Tidak,0
+56,Perempuan,26.0,Tidak Merokok,Sedang,9,Rendah,Tidak Pernah,Sangat Sering,0,Sesekali,6,2,Ya,0
+55,Laki-laki,18.5,Perokok Aktif,Sedang,9,Rendah,Kadang,Jarang,5,Mingguan,9,0,Ya,1
+51,Laki-laki,21.6,Tidak Merokok,Rendah,8,Tinggi,Jarang,Sering,3,Tidak Pernah,7,7,Ya,1
+55,Perempuan,22.8,Perokok Aktif,Tinggi,7,Rendah,Jarang,Jarang,5,Harian,9,7,Tidak,0
+51,Perempuan,30.1,Tidak Merokok,Rendah,4,Sedang,Jarang,Tidak Pernah,0,Tidak Pernah,9,7,Tidak,1
+35,Perempuan,18.2,Perokok Aktif,Tinggi,9,Tinggi,Jarang,Kadang,3,Harian,2,1,Ya,1
+47,Perempuan,24.9,Perokok Aktif,Tinggi,5,Sedang,Sangat Sering,Sering,3,Tidak Pernah,6,1,Tidak,1
+32,Perempuan,33.7,Perokok Aktif,Rendah,5,Sedang,Sering,Jarang,5,Sesekali,6,6,Ya,1
+44,Perempuan,19.9,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Jarang,1,Tidak Pernah,3,1,Tidak,0
+51,Perempuan,26.8,Tidak Merokok,Sedang,9,Tinggi,Sering,Sangat Sering,3,Tidak Pernah,9,4,Ya,1
+55,Perempuan,31.4,Tidak Merokok,Rendah,9,Rendah,Kadang,Sangat Sering,1,Mingguan,8,5,Tidak,1
+50,Perempuan,34.0,Tidak Merokok,Tinggi,5,Tinggi,Sering,Tidak Pernah,3,Sesekali,0,3,Tidak,0
+41,Laki-laki,30.7,Tidak Merokok,Sedang,9,Sedang,Jarang,Sering,4,Harian,0,0,Tidak,0
+32,Laki-laki,30.2,Tidak Merokok,Sedang,4,Tinggi,Kadang,Jarang,2,Sesekali,4,5,Ya,1
+47,Laki-laki,32.1,Tidak Merokok,Sedang,4,Rendah,Sering,Kadang,1,Sesekali,12,4,Ya,1
+59,Perempuan,25.6,Mantan Perokok,Rendah,8,Rendah,Jarang,Kadang,1,Tidak Pernah,2,0,Tidak,0
+34,Laki-laki,31.7,Mantan Perokok,Tinggi,7,Tinggi,Sangat Sering,Kadang,0,Harian,9,5,Tidak,1
+22,Perempuan,18.1,Tidak Merokok,Rendah,4,Tinggi,Sering,Kadang,4,Sesekali,12,4,Ya,1
+46,Perempuan,33.7,Perokok Aktif,Rendah,8,Sedang,Sangat Sering,Kadang,0,Sesekali,8,7,Tidak,1
+21,Laki-laki,25.5,Tidak Merokok,Sedang,6,Tinggi,Jarang,Kadang,4,Tidak Pernah,4,3,Ya,1
+27,Perempuan,27.4,Tidak Merokok,Sedang,7,Tinggi,Jarang,Sering,4,Sesekali,6,1,Ya,1
+34,Laki-laki,22.3,Tidak Merokok,Sedang,4,Rendah,Jarang,Sering,5,Harian,0,5,Tidak,0
+27,Laki-laki,30.6,Perokok Aktif,Rendah,6,Sedang,Sangat Sering,Kadang,5,Tidak Pernah,1,7,Tidak,1
+34,Laki-laki,19.3,Tidak Merokok,Rendah,8,Tinggi,Jarang,Jarang,5,Tidak Pernah,14,5,Ya,0
+37,Perempuan,32.8,Tidak Merokok,Rendah,4,Sedang,Kadang,Kadang,3,Tidak Pernah,10,7,Tidak,1
+41,Laki-laki,32.1,Mantan Perokok,Tinggi,4,Sedang,Kadang,Sering,0,Mingguan,11,0,Tidak,1
+22,Perempuan,21.7,Tidak Merokok,Rendah,9,Tinggi,Jarang,Kadang,2,Tidak Pernah,3,1,Ya,0
+51,Laki-laki,31.8,Mantan Perokok,Tinggi,6,Sedang,Jarang,Kadang,4,Tidak Pernah,14,6,Tidak,1
+23,Laki-laki,31.4,Perokok Aktif,Tinggi,4,Rendah,Kadang,Jarang,4,Tidak Pernah,8,3,Tidak,0
+19,Laki-laki,28.7,Perokok Aktif,Tinggi,5,Tinggi,Sering,Kadang,1,Sesekali,4,7,Ya,1
+30,Perempuan,24.3,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Jarang,3,Tidak Pernah,4,0,Tidak,0
+60,Perempuan,22.6,Tidak Merokok,Rendah,9,Tinggi,Sering,Sangat Sering,2,Tidak Pernah,8,2,Ya,1
+60,Perempuan,21.9,Tidak Merokok,Rendah,4,Tinggi,Kadang,Sering,5,Harian,7,2,Tidak,1
+65,Laki-laki,23.4,Tidak Merokok,Sedang,9,Rendah,Kadang,Jarang,4,Harian,1,2,Tidak,0
+28,Laki-laki,33.4,Tidak Merokok,Rendah,7,Rendah,Kadang,Kadang,1,Tidak Pernah,6,3,Ya,1
+64,Perempuan,19.3,Tidak Merokok,Sedang,6,Sedang,Jarang,Sering,0,Sesekali,0,7,Tidak,0
+40,Perempuan,32.1,Perokok Aktif,Sedang,7,Sedang,Kadang,Jarang,4,Sesekali,9,2,Tidak,1
+33,Perempuan,23.9,Perokok Aktif,Tinggi,8,Sedang,Sering,Kadang,1,Tidak Pernah,10,5,Ya,1
+48,Perempuan,26.9,Tidak Merokok,Rendah,7,Sedang,Jarang,Sering,0,Tidak Pernah,10,6,Tidak,0
+28,Perempuan,31.5,Tidak Merokok,Tinggi,5,Sedang,Kadang,Sering,3,Sesekali,14,0,Ya,1
+33,Perempuan,33.0,Tidak Merokok,Rendah,9,Rendah,Tidak Pernah,Jarang,5,Tidak Pernah,8,6,Tidak,0
+25,Laki-laki,23.9,Tidak Merokok,Sedang,9,Sedang,Sering,Kadang,0,Tidak Pernah,2,6,Tidak,1
+21,Perempuan,25.9,Mantan Perokok,Sedang,5,Sedang,Kadang,Sangat Sering,4,Mingguan,12,6,Tidak,1
+57,Laki-laki,25.0,Mantan Perokok,Tinggi,9,Sedang,Kadang,Sangat Sering,2,Sesekali,1,5,Tidak,0
+21,Laki-laki,18.2,Perokok Aktif,Sedang,7,Rendah,Tidak Pernah,Sering,0,Sesekali,3,2,Tidak,0
+42,Perempuan,23.0,Mantan Perokok,Tinggi,8,Sedang,Sangat Sering,Sangat Sering,2,Tidak Pernah,3,6,Tidak,1
+20,Perempuan,25.8,Tidak Merokok,Tinggi,4,Rendah,Jarang,Kadang,2,Sesekali,2,7,Tidak,0
+49,Laki-laki,25.0,Mantan Perokok,Tinggi,5,Sedang,Kadang,Kadang,0,Tidak Pernah,1,6,Tidak,0
+20,Perempuan,30.3,Tidak Merokok,Rendah,7,Tinggi,Kadang,Kadang,3,Sesekali,4,0,Tidak,0
+44,Perempuan,24.5,Mantan Perokok,Tinggi,7,Rendah,Sering,Jarang,0,Mingguan,3,7,Ya,0
+46,Laki-laki,26.3,Tidak Merokok,Tinggi,7,Sedang,Jarang,Kadang,1,Mingguan,4,5,Tidak,0
+49,Laki-laki,25.3,Tidak Merokok,Rendah,4,Sedang,Sering,Kadang,5,Tidak Pernah,12,3,Tidak,1
+36,Laki-laki,30.6,Tidak Merokok,Rendah,6,Rendah,Jarang,Sering,2,Sesekali,11,1,Tidak,0
+38,Perempuan,32.7,Tidak Merokok,Rendah,9,Rendah,Kadang,Sering,5,Harian,11,5,Tidak,1
+22,Laki-laki,27.0,Perokok Aktif,Rendah,9,Tinggi,Kadang,Kadang,4,Sesekali,7,4,Ya,1
+35,Perempuan,31.4,Tidak Merokok,Sedang,8,Sedang,Sering,Jarang,2,Tidak Pernah,10,2,Ya,0
+45,Laki-laki,23.0,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Jarang,4,Sesekali,14,4,Ya,1
+59,Laki-laki,27.2,Tidak Merokok,Sedang,9,Sedang,Sering,Jarang,1,Tidak Pernah,1,7,Tidak,0
+39,Laki-laki,23.9,Mantan Perokok,Sedang,8,Sedang,Jarang,Sering,1,Mingguan,8,1,Tidak,0
+38,Perempuan,25.0,Tidak Merokok,Tinggi,8,Sedang,Sangat Sering,Jarang,5,Sesekali,9,3,Tidak,0
+23,Perempuan,30.5,Perokok Aktif,Rendah,7,Sedang,Tidak Pernah,Kadang,1,Tidak Pernah,0,5,Tidak,1
+18,Laki-laki,33.0,Perokok Aktif,Tinggi,5,Rendah,Kadang,Kadang,0,Tidak Pernah,7,3,Tidak,1
+22,Laki-laki,20.1,Mantan Perokok,Sedang,7,Sedang,Kadang,Sering,2,Tidak Pernah,11,1,Tidak,0
+58,Laki-laki,28.8,Mantan Perokok,Sedang,4,Sedang,Kadang,Sering,4,Harian,4,4,Tidak,1
+29,Perempuan,27.9,Tidak Merokok,Rendah,9,Rendah,Jarang,Sering,5,Tidak Pernah,1,5,Ya,0
+43,Laki-laki,20.0,Tidak Merokok,Sedang,8,Rendah,Kadang,Jarang,5,Sesekali,7,2,Tidak,0
+63,Perempuan,21.6,Perokok Aktif,Rendah,5,Rendah,Jarang,Kadang,1,Harian,4,0,Tidak,1
+51,Laki-laki,23.3,Tidak Merokok,Tinggi,9,Sedang,Jarang,Jarang,1,Tidak Pernah,9,6,Tidak,0
+31,Laki-laki,20.8,Tidak Merokok,Rendah,8,Sedang,Tidak Pernah,Jarang,4,Tidak Pernah,14,3,Tidak,0
+43,Laki-laki,22.1,Mantan Perokok,Tinggi,8,Tinggi,Kadang,Jarang,2,Sesekali,13,7,Tidak,1
+62,Laki-laki,22.5,Tidak Merokok,Sedang,7,Rendah,Tidak Pernah,Jarang,2,Sesekali,9,1,Ya,0
+44,Laki-laki,23.7,Perokok Aktif,Rendah,5,Rendah,Jarang,Jarang,5,Tidak Pernah,12,5,Ya,1
+26,Laki-laki,30.7,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Jarang,4,Tidak Pernah,13,7,Tidak,0
+43,Perempuan,27.7,Perokok Aktif,Rendah,9,Tinggi,Jarang,Jarang,5,Sesekali,2,4,Ya,1
+64,Laki-laki,34.8,Tidak Merokok,Tinggi,8,Rendah,Sering,Kadang,3,Harian,6,2,Ya,1
+39,Perempuan,25.1,Perokok Aktif,Tinggi,5,Sedang,Sangat Sering,Sangat Sering,2,Tidak Pernah,3,7,Ya,1
+64,Laki-laki,30.8,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Sering,4,Tidak Pernah,10,4,Tidak,1
+47,Laki-laki,32.8,Tidak Merokok,Rendah,9,Rendah,Kadang,Tidak Pernah,4,Tidak Pernah,10,2,Tidak,0
+60,Perempuan,29.5,Perokok Aktif,Sedang,7,Sedang,Kadang,Kadang,5,Mingguan,9,5,Ya,1
+65,Laki-laki,25.0,Tidak Merokok,Sedang,6,Rendah,Kadang,Sering,1,Tidak Pernah,11,0,Tidak,0
+34,Perempuan,30.8,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Jarang,4,Mingguan,14,0,Tidak,0
+43,Perempuan,21.5,Tidak Merokok,Rendah,6,Sedang,Jarang,Sering,5,Tidak Pernah,5,7,Ya,1
+53,Laki-laki,23.6,Mantan Perokok,Sedang,5,Sedang,Kadang,Kadang,0,Harian,9,6,Ya,1
+18,Perempuan,27.3,Tidak Merokok,Sedang,8,Sedang,Jarang,Sangat Sering,1,Sesekali,7,7,Tidak,0
+25,Perempuan,27.8,Perokok Aktif,Rendah,4,Sedang,Tidak Pernah,Sering,1,Sesekali,0,1,Tidak,1
+52,Laki-laki,18.4,Tidak Merokok,Rendah,4,Sedang,Kadang,Sering,2,Tidak Pernah,1,1,Ya,1
+32,Perempuan,34.1,Tidak Merokok,Sedang,8,Rendah,Kadang,Sering,3,Mingguan,13,2,Ya,0
+64,Laki-laki,29.8,Perokok Aktif,Tinggi,4,Sedang,Jarang,Jarang,2,Tidak Pernah,12,2,Ya,1
+39,Laki-laki,26.4,Mantan Perokok,Tinggi,8,Rendah,Kadang,Jarang,0,Tidak Pernah,7,2,Ya,0
+31,Laki-laki,33.9,Perokok Aktif,Sedang,4,Sedang,Sering,Kadang,5,Tidak Pernah,14,7,Tidak,1
+43,Laki-laki,25.5,Perokok Aktif,Sedang,9,Rendah,Sering,Jarang,1,Mingguan,6,2,Tidak,0
+45,Perempuan,34.7,Tidak Merokok,Rendah,9,Sedang,Kadang,Jarang,1,Mingguan,9,6,Tidak,0
+40,Laki-laki,26.7,Tidak Merokok,Tinggi,6,Rendah,Kadang,Jarang,4,Sesekali,8,7,Tidak,0
+31,Laki-laki,19.9,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Sering,3,Sesekali,1,5,Ya,1
+41,Perempuan,31.0,Mantan Perokok,Tinggi,7,Sedang,Jarang,Tidak Pernah,3,Tidak Pernah,7,5,Tidak,0
+19,Laki-laki,29.5,Perokok Aktif,Tinggi,8,Sedang,Tidak Pernah,Jarang,4,Mingguan,5,0,Ya,0
+62,Laki-laki,31.1,Tidak Merokok,Rendah,4,Tinggi,Jarang,Kadang,0,Mingguan,14,1,Tidak,1
+43,Perempuan,34.2,Tidak Merokok,Tinggi,9,Sedang,Kadang,Kadang,3,Sesekali,0,6,Tidak,0
+31,Perempuan,31.2,Tidak Merokok,Sedang,9,Tinggi,Kadang,Jarang,1,Sesekali,3,1,Tidak,0
+24,Perempuan,28.4,Perokok Aktif,Rendah,8,Rendah,Sangat Sering,Sangat Sering,0,Harian,13,3,Tidak,1
+20,Perempuan,32.6,Tidak Merokok,Sedang,7,Sedang,Sering,Kadang,2,Mingguan,14,1,Tidak,0
+64,Perempuan,29.4,Tidak Merokok,Rendah,4,Sedang,Jarang,Kadang,2,Sesekali,1,1,Tidak,0
+40,Perempuan,24.9,Tidak Merokok,Rendah,4,Tinggi,Jarang,Tidak Pernah,0,Tidak Pernah,6,4,Tidak,0
+63,Perempuan,33.1,Perokok Aktif,Sedang,7,Rendah,Tidak Pernah,Kadang,1,Sesekali,8,4,Tidak,0
+60,Laki-laki,21.8,Mantan Perokok,Sedang,7,Tinggi,Sering,Sering,2,Sesekali,5,6,Tidak,1
+64,Perempuan,30.1,Mantan Perokok,Tinggi,7,Sedang,Sering,Jarang,5,Tidak Pernah,3,3,Tidak,0
+62,Perempuan,33.0,Tidak Merokok,Rendah,9,Tinggi,Sangat Sering,Kadang,1,Tidak Pernah,4,2,Tidak,1
+35,Perempuan,30.4,Tidak Merokok,Rendah,8,Sedang,Kadang,Tidak Pernah,4,Tidak Pernah,10,3,Ya,1
+55,Laki-laki,29.9,Mantan Perokok,Rendah,7,Rendah,Sering,Sangat Sering,3,Sesekali,0,3,Ya,1
+52,Laki-laki,30.8,Perokok Aktif,Rendah,8,Tinggi,Kadang,Tidak Pernah,0,Tidak Pernah,12,0,Tidak,0
+32,Perempuan,25.9,Tidak Merokok,Rendah,6,Tinggi,Sering,Sering,3,Tidak Pernah,3,5,Tidak,1
+42,Perempuan,32.9,Tidak Merokok,Sedang,4,Sedang,Sering,Jarang,4,Mingguan,12,1,Ya,1
+54,Perempuan,21.5,Tidak Merokok,Sedang,4,Rendah,Kadang,Kadang,2,Sesekali,9,0,Tidak,0
+45,Laki-laki,20.2,Tidak Merokok,Tinggi,5,Rendah,Kadang,Sering,5,Tidak Pernah,2,6,Ya,0
+27,Laki-laki,22.9,Perokok Aktif,Tinggi,6,Sedang,Sering,Jarang,1,Tidak Pernah,8,5,Tidak,0
+56,Perempuan,27.0,Tidak Merokok,Sedang,7,Rendah,Kadang,Kadang,1,Mingguan,5,6,Ya,1
+34,Laki-laki,26.7,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Jarang,4,Mingguan,14,1,Tidak,0
+56,Perempuan,32.0,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Tidak Pernah,0,Tidak Pernah,3,6,Tidak,0
+39,Laki-laki,24.9,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Sering,3,Harian,2,3,Ya,0
+43,Laki-laki,26.2,Tidak Merokok,Sedang,7,Rendah,Kadang,Tidak Pernah,5,Tidak Pernah,11,7,Ya,0
+61,Perempuan,18.2,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Sering,2,Harian,14,1,Tidak,0
+42,Perempuan,25.0,Tidak Merokok,Tinggi,8,Sedang,Jarang,Jarang,0,Tidak Pernah,12,2,Tidak,0
+34,Perempuan,29.0,Mantan Perokok,Tinggi,4,Sedang,Jarang,Jarang,5,Tidak Pernah,3,2,Tidak,0
+30,Perempuan,18.3,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sering,5,Tidak Pernah,7,3,Tidak,0
+37,Laki-laki,22.8,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,4,Tidak Pernah,11,6,Ya,1
+42,Laki-laki,21.5,Perokok Aktif,Rendah,8,Sedang,Tidak Pernah,Jarang,4,Sesekali,4,4,Tidak,0
+21,Laki-laki,18.7,Mantan Perokok,Tinggi,6,Tinggi,Jarang,Kadang,1,Mingguan,12,2,Tidak,0
+27,Perempuan,26.1,Perokok Aktif,Sedang,8,Sedang,Jarang,Jarang,2,Mingguan,14,3,Tidak,0
+20,Laki-laki,21.1,Tidak Merokok,Rendah,7,Tinggi,Sering,Sering,0,Tidak Pernah,10,0,Tidak,1
+58,Perempuan,30.6,Tidak Merokok,Sedang,7,Tinggi,Jarang,Jarang,1,Tidak Pernah,0,4,Tidak,0
+62,Laki-laki,32.4,Tidak Merokok,Sedang,7,Tinggi,Sering,Jarang,2,Tidak Pernah,4,2,Tidak,0
+35,Perempuan,27.3,Tidak Merokok,Tinggi,8,Rendah,Kadang,Sering,3,Tidak Pernah,7,7,Ya,1
+64,Perempuan,34.7,Tidak Merokok,Sedang,8,Sedang,Sangat Sering,Tidak Pernah,3,Sesekali,10,3,Ya,1
+53,Laki-laki,25.7,Perokok Aktif,Rendah,8,Sedang,Jarang,Jarang,1,Tidak Pernah,14,3,Tidak,1
+64,Perempuan,26.7,Tidak Merokok,Tinggi,4,Rendah,Jarang,Kadang,0,Sesekali,11,0,Tidak,0
+39,Perempuan,34.8,Tidak Merokok,Tinggi,8,Sedang,Tidak Pernah,Sering,2,Sesekali,3,7,Tidak,0
+51,Laki-laki,21.9,Mantan Perokok,Sedang,7,Rendah,Jarang,Sangat Sering,3,Tidak Pernah,13,0,Tidak,0
+64,Perempuan,34.0,Tidak Merokok,Rendah,5,Sedang,Kadang,Sering,3,Sesekali,1,4,Ya,1
+25,Perempuan,18.7,Mantan Perokok,Sedang,8,Sedang,Tidak Pernah,Kadang,0,Tidak Pernah,12,5,Tidak,1
+57,Perempuan,25.6,Mantan Perokok,Sedang,5,Sedang,Jarang,Kadang,1,Tidak Pernah,14,2,Ya,0
+61,Laki-laki,19.2,Perokok Aktif,Rendah,7,Tinggi,Sering,Kadang,4,Mingguan,2,3,Ya,1
+36,Laki-laki,30.4,Perokok Aktif,Rendah,8,Sedang,Kadang,Jarang,5,Sesekali,13,4,Ya,1
+59,Perempuan,28.3,Tidak Merokok,Sedang,4,Sedang,Tidak Pernah,Sangat Sering,2,Tidak Pernah,10,6,Tidak,1
+58,Laki-laki,30.0,Tidak Merokok,Sedang,4,Sedang,Tidak Pernah,Jarang,3,Sesekali,8,4,Ya,1
+54,Perempuan,24.4,Perokok Aktif,Sedang,5,Tinggi,Tidak Pernah,Jarang,5,Tidak Pernah,13,6,Tidak,1
+23,Perempuan,24.3,Perokok Aktif,Rendah,9,Sedang,Sangat Sering,Sering,5,Sesekali,6,0,Ya,1
+43,Perempuan,18.8,Tidak Merokok,Sedang,4,Sedang,Sering,Sering,4,Sesekali,2,3,Tidak,1
+51,Perempuan,23.9,Perokok Aktif,Tinggi,4,Rendah,Sering,Tidak Pernah,5,Sesekali,4,1,Tidak,0
+62,Perempuan,33.8,Tidak Merokok,Rendah,4,Sedang,Sangat Sering,Tidak Pernah,0,Mingguan,2,5,Tidak,1
+23,Laki-laki,24.4,Perokok Aktif,Rendah,7,Rendah,Kadang,Kadang,1,Sesekali,9,5,Ya,1
+54,Perempuan,32.1,Tidak Merokok,Sedang,4,Tinggi,Jarang,Kadang,2,Tidak Pernah,3,0,Ya,1
+50,Laki-laki,32.3,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Kadang,0,Tidak Pernah,11,6,Tidak,0
+39,Laki-laki,24.3,Perokok Aktif,Sedang,8,Tinggi,Sering,Jarang,1,Mingguan,7,3,Ya,1
+38,Perempuan,28.7,Tidak Merokok,Rendah,4,Tinggi,Sering,Sangat Sering,0,Tidak Pernah,13,7,Tidak,1
+23,Perempuan,19.6,Tidak Merokok,Rendah,9,Sedang,Kadang,Jarang,3,Sesekali,2,4,Tidak,0
+23,Laki-laki,19.8,Tidak Merokok,Tinggi,9,Tinggi,Kadang,Kadang,3,Sesekali,2,5,Ya,0
+65,Laki-laki,18.8,Perokok Aktif,Rendah,4,Sedang,Sangat Sering,Kadang,4,Sesekali,10,4,Ya,1
+21,Laki-laki,27.9,Perokok Aktif,Sedang,4,Sedang,Tidak Pernah,Jarang,0,Mingguan,10,2,Tidak,0
+47,Perempuan,25.2,Mantan Perokok,Sedang,6,Rendah,Sering,Jarang,5,Sesekali,7,1,Tidak,0
+28,Laki-laki,27.3,Mantan Perokok,Rendah,4,Rendah,Jarang,Sangat Sering,3,Sesekali,9,0,Ya,1
+47,Perempuan,26.9,Perokok Aktif,Tinggi,4,Sedang,Kadang,Sering,1,Mingguan,12,6,Tidak,0
+48,Perempuan,24.0,Tidak Merokok,Sedang,8,Sedang,Jarang,Jarang,4,Sesekali,9,5,Tidak,0
+41,Perempuan,29.5,Tidak Merokok,Sedang,9,Rendah,Kadang,Sering,5,Tidak Pernah,6,7,Tidak,0
+26,Laki-laki,30.9,Mantan Perokok,Rendah,6,Tinggi,Kadang,Jarang,2,Sesekali,6,2,Ya,0
+20,Perempuan,18.2,Tidak Merokok,Rendah,9,Rendah,Jarang,Kadang,0,Sesekali,9,7,Ya,0
+48,Perempuan,21.5,Tidak Merokok,Sedang,6,Rendah,Sering,Tidak Pernah,3,Mingguan,1,2,Tidak,0
+57,Perempuan,30.1,Tidak Merokok,Sedang,9,Tinggi,Kadang,Sering,5,Tidak Pernah,11,1,Ya,0
+54,Perempuan,24.6,Tidak Merokok,Rendah,4,Sedang,Sering,Tidak Pernah,1,Tidak Pernah,6,0,Ya,1
+53,Perempuan,29.3,Perokok Aktif,Rendah,9,Tinggi,Jarang,Kadang,0,Harian,9,0,Tidak,1
+41,Laki-laki,23.9,Tidak Merokok,Rendah,9,Sedang,Sering,Sering,1,Sesekali,10,4,Ya,1
+48,Perempuan,24.6,Mantan Perokok,Tinggi,6,Tinggi,Jarang,Jarang,4,Tidak Pernah,9,0,Ya,0
+23,Perempuan,20.7,Tidak Merokok,Tinggi,5,Sedang,Jarang,Kadang,3,Sesekali,2,2,Ya,0
+19,Laki-laki,22.4,Tidak Merokok,Tinggi,6,Rendah,Tidak Pernah,Tidak Pernah,3,Harian,13,4,Tidak,0
+37,Perempuan,28.3,Tidak Merokok,Rendah,6,Sedang,Kadang,Sering,4,Mingguan,6,0,Ya,1
+45,Laki-laki,25.4,Perokok Aktif,Tinggi,6,Rendah,Sering,Jarang,1,Sesekali,12,6,Tidak,1
+28,Perempuan,31.2,Mantan Perokok,Rendah,7,Tinggi,Jarang,Kadang,0,Tidak Pernah,3,6,Tidak,0
+21,Laki-laki,32.5,Perokok Aktif,Sedang,7,Rendah,Jarang,Sangat Sering,1,Mingguan,12,1,Tidak,1
+32,Laki-laki,27.2,Mantan Perokok,Tinggi,7,Sedang,Sering,Jarang,0,Sesekali,7,2,Ya,0
+23,Perempuan,30.9,Mantan Perokok,Rendah,6,Rendah,Kadang,Tidak Pernah,5,Mingguan,7,3,Ya,1
+47,Perempuan,23.2,Mantan Perokok,Sedang,5,Tinggi,Sering,Sering,4,Tidak Pernah,5,1,Tidak,1
+55,Perempuan,25.1,Perokok Aktif,Rendah,6,Sedang,Jarang,Sering,2,Tidak Pernah,12,1,Ya,1
+19,Laki-laki,30.1,Perokok Aktif,Rendah,4,Tinggi,Sering,Sangat Sering,0,Sesekali,11,0,Tidak,1
+32,Laki-laki,24.6,Tidak Merokok,Sedang,5,Rendah,Jarang,Jarang,3,Tidak Pernah,2,4,Tidak,0
+28,Laki-laki,28.0,Tidak Merokok,Sedang,7,Rendah,Sangat Sering,Kadang,5,Sesekali,5,7,Tidak,1
+25,Perempuan,21.2,Mantan Perokok,Tinggi,9,Rendah,Kadang,Sering,3,Harian,5,4,Ya,0
+43,Laki-laki,28.2,Mantan Perokok,Sedang,9,Tinggi,Kadang,Sering,5,Sesekali,2,6,Tidak,1
+62,Laki-laki,32.6,Tidak Merokok,Sedang,8,Tinggi,Tidak Pernah,Kadang,3,Mingguan,10,2,Ya,0
+61,Perempuan,32.8,Perokok Aktif,Rendah,5,Rendah,Jarang,Jarang,1,Sesekali,3,0,Ya,1
+22,Laki-laki,30.3,Perokok Aktif,Rendah,7,Rendah,Tidak Pernah,Jarang,1,Mingguan,14,4,Tidak,0
+23,Laki-laki,30.7,Tidak Merokok,Tinggi,5,Tinggi,Jarang,Jarang,1,Mingguan,1,6,Tidak,0
+43,Perempuan,27.5,Perokok Aktif,Rendah,5,Rendah,Jarang,Sangat Sering,5,Sesekali,14,5,Tidak,1
+21,Laki-laki,27.9,Tidak Merokok,Sedang,9,Rendah,Sering,Jarang,5,Sesekali,0,7,Tidak,0
+36,Perempuan,20.3,Tidak Merokok,Rendah,6,Rendah,Tidak Pernah,Kadang,3,Sesekali,1,3,Tidak,0
+37,Perempuan,25.5,Tidak Merokok,Sedang,4,Rendah,Sering,Kadang,0,Sesekali,6,5,Ya,0
+50,Perempuan,25.7,Tidak Merokok,Sedang,8,Rendah,Tidak Pernah,Kadang,5,Tidak Pernah,9,7,Ya,0
+37,Perempuan,34.3,Perokok Aktif,Rendah,7,Rendah,Jarang,Kadang,3,Mingguan,4,0,Tidak,1
+29,Perempuan,25.3,Tidak Merokok,Rendah,5,Sedang,Sering,Sering,0,Harian,8,0,Ya,1
+64,Laki-laki,27.3,Tidak Merokok,Sedang,8,Tinggi,Sering,Kadang,1,Sesekali,2,4,Tidak,0
+18,Laki-laki,27.1,Tidak Merokok,Sedang,5,Sedang,Kadang,Jarang,5,Sesekali,1,7,Ya,1
+43,Perempuan,28.8,Tidak Merokok,Rendah,9,Tinggi,Tidak Pernah,Kadang,2,Sesekali,14,1,Ya,1
+31,Perempuan,30.7,Tidak Merokok,Sedang,4,Rendah,Kadang,Sering,1,Sesekali,3,0,Ya,0
+55,Laki-laki,21.8,Mantan Perokok,Rendah,9,Sedang,Kadang,Sangat Sering,4,Sesekali,1,1,Tidak,1
+54,Perempuan,27.0,Tidak Merokok,Tinggi,8,Sedang,Jarang,Kadang,0,Mingguan,10,2,Tidak,1
+28,Perempuan,32.0,Perokok Aktif,Sedang,7,Tinggi,Kadang,Sering,2,Tidak Pernah,6,6,Ya,1
+53,Perempuan,25.9,Perokok Aktif,Rendah,5,Rendah,Kadang,Kadang,1,Tidak Pernah,9,2,Ya,1
+30,Laki-laki,22.7,Tidak Merokok,Sedang,4,Tinggi,Tidak Pernah,Kadang,5,Mingguan,5,7,Tidak,1
+60,Laki-laki,29.1,Perokok Aktif,Sedang,9,Rendah,Sangat Sering,Sangat Sering,2,Sesekali,7,7,Ya,1
+20,Perempuan,32.0,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,3,Mingguan,12,4,Tidak,1
+50,Perempuan,19.1,Tidak Merokok,Sedang,9,Tinggi,Tidak Pernah,Tidak Pernah,0,Tidak Pernah,4,2,Tidak,0
+23,Laki-laki,31.2,Tidak Merokok,Rendah,5,Sedang,Kadang,Sangat Sering,4,Tidak Pernah,1,5,Tidak,1
+27,Laki-laki,32.0,Tidak Merokok,Rendah,5,Sedang,Tidak Pernah,Sering,3,Harian,12,7,Tidak,1
+22,Perempuan,25.8,Tidak Merokok,Rendah,7,Tinggi,Sering,Kadang,2,Tidak Pernah,3,5,Ya,0
+40,Perempuan,34.7,Perokok Aktif,Sedang,4,Sedang,Kadang,Sangat Sering,1,Mingguan,0,5,Tidak,1
+27,Laki-laki,31.4,Tidak Merokok,Rendah,6,Rendah,Jarang,Jarang,0,Mingguan,1,4,Tidak,0
+61,Laki-laki,31.2,Mantan Perokok,Sedang,9,Tinggi,Tidak Pernah,Kadang,5,Sesekali,3,4,Tidak,0
+19,Laki-laki,30.7,Tidak Merokok,Sedang,5,Rendah,Tidak Pernah,Kadang,4,Tidak Pernah,5,5,Ya,1
+30,Perempuan,20.6,Perokok Aktif,Sedang,8,Tinggi,Kadang,Jarang,1,Sesekali,3,1,Tidak,0
+57,Laki-laki,21.7,Tidak Merokok,Tinggi,9,Rendah,Sering,Sering,4,Mingguan,3,5,Tidak,1
+19,Perempuan,25.9,Tidak Merokok,Tinggi,7,Tinggi,Tidak Pernah,Jarang,5,Tidak Pernah,13,1,Tidak,0
+37,Laki-laki,22.5,Tidak Merokok,Sedang,7,Sedang,Jarang,Jarang,0,Tidak Pernah,10,2,Ya,1
+18,Laki-laki,25.1,Tidak Merokok,Sedang,5,Tinggi,Jarang,Kadang,2,Tidak Pernah,9,1,Ya,1
+54,Laki-laki,33.1,Tidak Merokok,Rendah,5,Sedang,Jarang,Kadang,4,Tidak Pernah,9,7,Tidak,1
+26,Laki-laki,32.0,Perokok Aktif,Tinggi,5,Rendah,Jarang,Jarang,0,Mingguan,1,0,Tidak,0
+34,Perempuan,28.7,Tidak Merokok,Rendah,6,Sedang,Kadang,Sangat Sering,4,Mingguan,8,3,Ya,1
+26,Perempuan,32.6,Mantan Perokok,Rendah,5,Rendah,Kadang,Kadang,1,Harian,11,0,Tidak,1
+28,Laki-laki,31.3,Mantan Perokok,Sedang,9,Tinggi,Sangat Sering,Jarang,4,Sesekali,9,0,Ya,1
+32,Perempuan,25.3,Perokok Aktif,Rendah,9,Tinggi,Sangat Sering,Jarang,1,Mingguan,7,4,Ya,1
+41,Laki-laki,21.4,Tidak Merokok,Rendah,4,Sedang,Kadang,Sering,1,Tidak Pernah,7,3,Ya,1
+55,Laki-laki,26.7,Tidak Merokok,Sedang,8,Tinggi,Sering,Kadang,0,Sesekali,4,4,Ya,1
+52,Laki-laki,30.5,Perokok Aktif,Sedang,5,Rendah,Sangat Sering,Jarang,3,Sesekali,2,1,Ya,1
+47,Laki-laki,25.4,Mantan Perokok,Sedang,9,Sedang,Tidak Pernah,Jarang,5,Harian,5,5,Ya,1
+48,Perempuan,29.3,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Kadang,4,Mingguan,13,6,Ya,1
+22,Laki-laki,19.6,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Jarang,2,Harian,8,6,Tidak,0
+61,Laki-laki,30.7,Tidak Merokok,Rendah,6,Rendah,Kadang,Sering,1,Mingguan,7,6,Tidak,1
+31,Perempuan,31.8,Mantan Perokok,Sedang,8,Tinggi,Sering,Sangat Sering,3,Mingguan,6,1,Tidak,1
+28,Laki-laki,30.0,Mantan Perokok,Rendah,7,Rendah,Jarang,Jarang,1,Tidak Pernah,13,3,Ya,0
+26,Laki-laki,34.4,Tidak Merokok,Sedang,9,Sedang,Kadang,Sering,3,Mingguan,10,2,Ya,0
+51,Laki-laki,32.1,Mantan Perokok,Rendah,5,Rendah,Kadang,Sangat Sering,3,Sesekali,14,1,Tidak,0
+29,Perempuan,33.4,Mantan Perokok,Sedang,9,Tinggi,Tidak Pernah,Sangat Sering,2,Tidak Pernah,7,0,Tidak,0
+52,Laki-laki,33.9,Tidak Merokok,Sedang,8,Rendah,Jarang,Sangat Sering,3,Tidak Pernah,3,3,Ya,1
+52,Perempuan,31.6,Mantan Perokok,Sedang,7,Sedang,Tidak Pernah,Sering,2,Sesekali,5,3,Ya,1
+18,Laki-laki,29.5,Perokok Aktif,Sedang,6,Rendah,Tidak Pernah,Kadang,0,Tidak Pernah,14,1,Tidak,0
+57,Laki-laki,18.1,Tidak Merokok,Sedang,4,Tinggi,Sering,Kadang,1,Sesekali,14,1,Tidak,0
+39,Perempuan,25.9,Perokok Aktif,Rendah,5,Sedang,Sering,Kadang,2,Sesekali,13,4,Tidak,1
+46,Laki-laki,27.7,Tidak Merokok,Rendah,4,Tinggi,Sering,Sering,5,Harian,4,4,Tidak,1
+25,Laki-laki,23.2,Tidak Merokok,Rendah,6,Rendah,Sering,Jarang,1,Mingguan,11,0,Tidak,1
+28,Perempuan,23.4,Tidak Merokok,Sedang,8,Tinggi,Sering,Jarang,5,Sesekali,1,7,Tidak,1
+58,Perempuan,34.3,Tidak Merokok,Sedang,8,Rendah,Kadang,Jarang,4,Tidak Pernah,7,3,Ya,0
+54,Perempuan,33.2,Tidak Merokok,Sedang,6,Rendah,Kadang,Sering,5,Tidak Pernah,2,6,Tidak,1
+31,Perempuan,32.4,Tidak Merokok,Rendah,9,Sedang,Kadang,Sering,0,Tidak Pernah,13,2,Ya,1
+47,Perempuan,24.9,Perokok Aktif,Sedang,6,Rendah,Kadang,Kadang,4,Tidak Pernah,4,2,Tidak,0
+52,Laki-laki,18.2,Tidak Merokok,Tinggi,5,Rendah,Jarang,Jarang,4,Harian,7,3,Tidak,0
+38,Perempuan,19.4,Mantan Perokok,Rendah,7,Tinggi,Sering,Sering,3,Sesekali,10,0,Tidak,1
+54,Laki-laki,23.3,Tidak Merokok,Rendah,4,Tinggi,Jarang,Tidak Pernah,5,Tidak Pernah,14,6,Tidak,1
+22,Laki-laki,18.3,Perokok Aktif,Rendah,4,Tinggi,Kadang,Kadang,3,Tidak Pernah,8,4,Ya,1
+36,Laki-laki,18.3,Mantan Perokok,Sedang,8,Rendah,Kadang,Kadang,5,Sesekali,12,4,Ya,0
+31,Perempuan,33.6,Tidak Merokok,Sedang,9,Rendah,Jarang,Sangat Sering,4,Sesekali,14,4,Tidak,0
+43,Perempuan,30.0,Perokok Aktif,Rendah,8,Sedang,Sangat Sering,Kadang,3,Tidak Pernah,8,2,Tidak,1
+21,Laki-laki,23.3,Tidak Merokok,Sedang,5,Rendah,Jarang,Kadang,1,Harian,13,2,Ya,1
+42,Perempuan,20.3,Perokok Aktif,Rendah,6,Tinggi,Jarang,Sering,5,Tidak Pernah,4,0,Tidak,1
+62,Perempuan,26.7,Tidak Merokok,Sedang,4,Rendah,Jarang,Kadang,5,Tidak Pernah,1,2,Ya,0
+59,Perempuan,18.1,Mantan Perokok,Sedang,5,Tinggi,Sering,Jarang,3,Tidak Pernah,6,1,Ya,1
+42,Perempuan,34.0,Perokok Aktif,Sedang,8,Sedang,Kadang,Kadang,5,Sesekali,10,2,Ya,1
+35,Laki-laki,25.1,Tidak Merokok,Rendah,8,Tinggi,Kadang,Sangat Sering,4,Tidak Pernah,10,4,Tidak,1
+57,Laki-laki,24.8,Tidak Merokok,Tinggi,4,Rendah,Sering,Kadang,3,Tidak Pernah,6,0,Ya,0
+25,Perempuan,24.6,Perokok Aktif,Sedang,8,Tinggi,Jarang,Sering,3,Tidak Pernah,14,3,Tidak,1
+56,Laki-laki,19.2,Tidak Merokok,Rendah,9,Rendah,Jarang,Sangat Sering,2,Sesekali,11,3,Ya,0
+57,Perempuan,28.9,Tidak Merokok,Rendah,8,Sedang,Jarang,Sering,2,Tidak Pernah,12,0,Ya,1
+31,Perempuan,30.5,Tidak Merokok,Sedang,7,Tinggi,Sering,Sering,4,Tidak Pernah,7,1,Tidak,1
+49,Laki-laki,29.5,Tidak Merokok,Tinggi,6,Rendah,Kadang,Sering,1,Tidak Pernah,7,3,Tidak,0
+55,Laki-laki,20.4,Perokok Aktif,Tinggi,8,Sedang,Jarang,Sangat Sering,5,Tidak Pernah,4,4,Ya,1
+50,Laki-laki,27.8,Tidak Merokok,Sedang,7,Sedang,Tidak Pernah,Sangat Sering,0,Sesekali,14,3,Ya,1
+40,Perempuan,27.7,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Sangat Sering,5,Tidak Pernah,0,3,Tidak,0
+32,Laki-laki,32.8,Mantan Perokok,Rendah,8,Sedang,Kadang,Kadang,0,Tidak Pernah,12,4,Ya,1
+50,Perempuan,24.4,Perokok Aktif,Rendah,9,Sedang,Tidak Pernah,Kadang,4,Sesekali,10,2,Tidak,1
+42,Laki-laki,24.3,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Jarang,1,Tidak Pernah,12,1,Tidak,0
+34,Laki-laki,28.5,Tidak Merokok,Tinggi,8,Sedang,Jarang,Kadang,1,Tidak Pernah,3,6,Ya,0
+50,Perempuan,28.8,Perokok Aktif,Sedang,4,Sedang,Kadang,Sangat Sering,1,Tidak Pernah,3,4,Tidak,1
+64,Perempuan,26.0,Mantan Perokok,Tinggi,7,Rendah,Kadang,Sering,2,Harian,14,4,Tidak,1
+19,Perempuan,25.5,Tidak Merokok,Tinggi,7,Tinggi,Kadang,Kadang,4,Sesekali,10,5,Ya,1
+31,Perempuan,26.4,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Kadang,0,Mingguan,2,0,Ya,0
+57,Perempuan,32.6,Tidak Merokok,Tinggi,6,Sedang,Kadang,Jarang,1,Mingguan,7,7,Ya,0
+57,Perempuan,25.8,Tidak Merokok,Tinggi,9,Sedang,Sangat Sering,Kadang,4,Harian,2,1,Tidak,1
+56,Perempuan,34.0,Tidak Merokok,Rendah,7,Sedang,Jarang,Sering,5,Mingguan,12,2,Tidak,0
+23,Perempuan,26.6,Perokok Aktif,Tinggi,5,Tinggi,Kadang,Kadang,0,Sesekali,4,5,Ya,1
+23,Laki-laki,34.1,Tidak Merokok,Rendah,9,Sedang,Kadang,Jarang,2,Tidak Pernah,1,6,Ya,1
+20,Perempuan,32.2,Mantan Perokok,Tinggi,7,Rendah,Jarang,Kadang,3,Tidak Pernah,5,4,Ya,0
+24,Perempuan,24.2,Tidak Merokok,Sedang,6,Sedang,Sering,Jarang,0,Sesekali,14,6,Ya,0
+25,Laki-laki,32.7,Perokok Aktif,Sedang,5,Rendah,Jarang,Sangat Sering,5,Harian,5,6,Ya,1
+59,Perempuan,19.9,Mantan Perokok,Sedang,9,Rendah,Jarang,Kadang,0,Sesekali,7,6,Tidak,0
+32,Laki-laki,33.7,Tidak Merokok,Rendah,5,Sedang,Jarang,Sangat Sering,0,Sesekali,7,5,Ya,1
+64,Laki-laki,28.7,Tidak Merokok,Rendah,4,Sedang,Jarang,Jarang,3,Sesekali,0,7,Ya,1
+46,Perempuan,18.9,Tidak Merokok,Tinggi,8,Sedang,Kadang,Jarang,1,Tidak Pernah,4,2,Tidak,0
+50,Laki-laki,29.0,Perokok Aktif,Tinggi,4,Sedang,Kadang,Kadang,5,Tidak Pernah,1,5,Ya,1
+47,Perempuan,34.6,Perokok Aktif,Rendah,9,Tinggi,Sering,Sering,3,Sesekali,9,5,Ya,1
+56,Laki-laki,19.2,Tidak Merokok,Tinggi,8,Sedang,Sering,Kadang,0,Tidak Pernah,11,7,Ya,1
+44,Laki-laki,27.4,Tidak Merokok,Tinggi,4,Sedang,Jarang,Jarang,5,Sesekali,4,5,Ya,0
+53,Laki-laki,30.7,Tidak Merokok,Sedang,8,Rendah,Kadang,Tidak Pernah,2,Mingguan,9,4,Tidak,0
+46,Perempuan,31.8,Mantan Perokok,Rendah,7,Rendah,Sering,Kadang,0,Mingguan,11,4,Tidak,1
+55,Perempuan,25.0,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Jarang,2,Tidak Pernah,8,0,Ya,1
+50,Laki-laki,21.5,Tidak Merokok,Sedang,8,Sedang,Kadang,Jarang,4,Mingguan,3,3,Ya,0
+54,Laki-laki,18.7,Tidak Merokok,Tinggi,7,Tinggi,Sering,Sering,2,Tidak Pernah,7,1,Ya,1
+44,Perempuan,27.9,Tidak Merokok,Tinggi,6,Sedang,Kadang,Tidak Pernah,0,Tidak Pernah,0,0,Tidak,0
+50,Perempuan,25.7,Mantan Perokok,Tinggi,4,Sedang,Tidak Pernah,Jarang,3,Sesekali,7,2,Tidak,0
+21,Laki-laki,34.1,Tidak Merokok,Sedang,6,Rendah,Jarang,Tidak Pernah,0,Tidak Pernah,5,5,Tidak,0
+39,Laki-laki,19.0,Mantan Perokok,Rendah,9,Rendah,Kadang,Sangat Sering,0,Tidak Pernah,7,4,Ya,1
+19,Perempuan,29.7,Tidak Merokok,Rendah,7,Tinggi,Sangat Sering,Kadang,4,Tidak Pernah,5,5,Ya,1
+27,Perempuan,18.4,Tidak Merokok,Rendah,6,Sedang,Jarang,Sangat Sering,1,Sesekali,10,4,Tidak,0
+22,Perempuan,20.9,Mantan Perokok,Rendah,6,Rendah,Sangat Sering,Jarang,0,Tidak Pernah,2,6,Tidak,0
+27,Perempuan,25.7,Perokok Aktif,Sedang,7,Tinggi,Jarang,Sering,4,Sesekali,14,1,Tidak,1
+50,Perempuan,25.7,Perokok Aktif,Sedang,5,Tinggi,Jarang,Jarang,3,Sesekali,11,0,Ya,1
+55,Laki-laki,29.7,Tidak Merokok,Tinggi,8,Sedang,Kadang,Kadang,4,Sesekali,14,0,Tidak,0
+30,Perempuan,33.5,Tidak Merokok,Rendah,9,Rendah,Kadang,Sering,4,Mingguan,10,2,Tidak,0
+48,Laki-laki,28.9,Perokok Aktif,Sedang,9,Sedang,Jarang,Sering,2,Tidak Pernah,7,6,Tidak,0
+64,Perempuan,34.2,Tidak Merokok,Rendah,4,Rendah,Jarang,Sering,1,Tidak Pernah,4,0,Ya,0
+53,Laki-laki,33.0,Tidak Merokok,Rendah,8,Tinggi,Sering,Sering,1,Tidak Pernah,11,0,Tidak,1
+62,Perempuan,27.9,Perokok Aktif,Rendah,4,Sedang,Sangat Sering,Jarang,5,Tidak Pernah,9,3,Ya,1
+41,Perempuan,32.2,Perokok Aktif,Sedang,9,Sedang,Jarang,Kadang,3,Sesekali,4,7,Tidak,1
+32,Laki-laki,28.9,Perokok Aktif,Rendah,8,Sedang,Tidak Pernah,Kadang,5,Tidak Pernah,14,1,Ya,1
+46,Laki-laki,19.3,Perokok Aktif,Sedang,6,Rendah,Sering,Sering,4,Tidak Pernah,11,5,Tidak,1
+25,Perempuan,30.6,Perokok Aktif,Rendah,5,Rendah,Kadang,Jarang,3,Mingguan,6,7,Tidak,0
+22,Perempuan,19.6,Tidak Merokok,Tinggi,6,Tinggi,Tidak Pernah,Sangat Sering,3,Sesekali,5,0,Ya,0
+46,Perempuan,28.1,Tidak Merokok,Tinggi,5,Rendah,Sangat Sering,Kadang,1,Sesekali,8,2,Tidak,0
+64,Perempuan,29.9,Mantan Perokok,Tinggi,7,Rendah,Tidak Pernah,Sering,1,Mingguan,6,5,Ya,0
+21,Perempuan,19.1,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Jarang,1,Mingguan,2,4,Ya,0
+29,Laki-laki,21.9,Tidak Merokok,Tinggi,4,Sedang,Kadang,Kadang,0,Sesekali,10,6,Ya,0
+62,Laki-laki,33.6,Tidak Merokok,Tinggi,7,Tinggi,Kadang,Sering,4,Tidak Pernah,10,6,Ya,1
+19,Perempuan,28.5,Tidak Merokok,Sedang,8,Rendah,Jarang,Kadang,3,Harian,11,0,Tidak,0
+44,Laki-laki,22.2,Mantan Perokok,Rendah,7,Sedang,Kadang,Sangat Sering,4,Sesekali,4,0,Ya,1
+48,Laki-laki,29.7,Tidak Merokok,Rendah,9,Sedang,Sangat Sering,Sering,3,Tidak Pernah,8,5,Tidak,1
+53,Laki-laki,28.1,Tidak Merokok,Rendah,7,Tinggi,Kadang,Kadang,3,Tidak Pernah,10,7,Tidak,1
+53,Perempuan,26.5,Tidak Merokok,Sedang,5,Rendah,Kadang,Sering,5,Sesekali,12,4,Tidak,1
+43,Laki-laki,34.6,Mantan Perokok,Sedang,9,Sedang,Jarang,Sering,3,Harian,14,3,Tidak,1
+60,Perempuan,29.6,Tidak Merokok,Tinggi,7,Tinggi,Sering,Kadang,3,Tidak Pernah,9,1,Ya,0
+44,Laki-laki,24.4,Tidak Merokok,Tinggi,4,Sedang,Sangat Sering,Jarang,2,Tidak Pernah,13,3,Tidak,0
+22,Perempuan,31.6,Mantan Perokok,Sedang,6,Sedang,Sering,Kadang,2,Mingguan,1,7,Ya,1
+37,Laki-laki,33.0,Tidak Merokok,Sedang,5,Rendah,Kadang,Sering,5,Harian,0,2,Tidak,1
+28,Perempuan,20.1,Tidak Merokok,Tinggi,5,Rendah,Sangat Sering,Sering,0,Tidak Pernah,10,5,Tidak,1
+27,Perempuan,21.4,Tidak Merokok,Rendah,8,Sedang,Jarang,Jarang,1,Tidak Pernah,7,0,Tidak,0
+57,Laki-laki,21.7,Tidak Merokok,Tinggi,6,Sedang,Kadang,Jarang,3,Sesekali,7,3,Ya,0
+55,Perempuan,29.8,Perokok Aktif,Rendah,5,Tinggi,Kadang,Kadang,4,Tidak Pernah,1,1,Tidak,1
+23,Perempuan,28.3,Tidak Merokok,Sedang,7,Tinggi,Kadang,Tidak Pernah,2,Mingguan,13,2,Tidak,0
+25,Perempuan,28.5,Mantan Perokok,Rendah,5,Sedang,Sering,Sering,1,Tidak Pernah,12,6,Tidak,1
+40,Perempuan,34.0,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Sering,0,Tidak Pernah,7,7,Ya,1
+64,Perempuan,31.2,Tidak Merokok,Sedang,5,Rendah,Tidak Pernah,Kadang,1,Tidak Pernah,4,3,Tidak,0
+43,Perempuan,20.2,Mantan Perokok,Rendah,8,Sedang,Jarang,Sering,3,Tidak Pernah,1,0,Ya,0
+63,Perempuan,23.9,Tidak Merokok,Rendah,5,Rendah,Jarang,Kadang,1,Tidak Pernah,6,1,Tidak,0
+60,Perempuan,25.4,Tidak Merokok,Sedang,5,Rendah,Kadang,Kadang,3,Tidak Pernah,6,0,Tidak,0
+29,Laki-laki,24.7,Tidak Merokok,Tinggi,8,Tinggi,Jarang,Jarang,5,Mingguan,2,0,Ya,0
+43,Laki-laki,29.4,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Kadang,2,Tidak Pernah,13,2,Ya,1
+30,Perempuan,33.2,Mantan Perokok,Sedang,6,Sedang,Kadang,Sering,2,Harian,0,1,Tidak,1
+57,Perempuan,23.2,Tidak Merokok,Rendah,9,Sedang,Sering,Jarang,3,Tidak Pernah,10,4,Ya,1
+35,Laki-laki,27.4,Perokok Aktif,Sedang,4,Sedang,Sangat Sering,Kadang,4,Sesekali,3,6,Ya,1
+42,Laki-laki,31.4,Mantan Perokok,Sedang,8,Rendah,Sangat Sering,Jarang,2,Tidak Pernah,1,7,Tidak,0
+50,Laki-laki,25.1,Tidak Merokok,Tinggi,8,Sedang,Sering,Jarang,4,Tidak Pernah,3,0,Tidak,0
+64,Perempuan,20.9,Tidak Merokok,Rendah,5,Sedang,Tidak Pernah,Jarang,3,Sesekali,7,7,Tidak,0
+57,Laki-laki,26.1,Tidak Merokok,Sedang,5,Tinggi,Sering,Jarang,5,Sesekali,1,1,Ya,1
+60,Perempuan,18.9,Perokok Aktif,Sedang,4,Rendah,Jarang,Sangat Sering,3,Mingguan,0,0,Ya,1
+29,Perempuan,34.0,Tidak Merokok,Tinggi,5,Rendah,Sering,Sering,5,Mingguan,10,3,Tidak,1
+61,Laki-laki,19.3,Perokok Aktif,Tinggi,7,Sedang,Kadang,Jarang,2,Sesekali,13,3,Tidak,0
+53,Perempuan,25.5,Tidak Merokok,Tinggi,5,Tinggi,Sering,Sering,4,Tidak Pernah,14,1,Tidak,1
+65,Perempuan,27.0,Perokok Aktif,Sedang,5,Sedang,Kadang,Tidak Pernah,3,Mingguan,14,6,Tidak,1
+21,Perempuan,34.8,Tidak Merokok,Rendah,7,Tinggi,Tidak Pernah,Kadang,2,Sesekali,2,2,Ya,1
+22,Perempuan,20.8,Perokok Aktif,Tinggi,4,Tinggi,Kadang,Jarang,5,Harian,9,4,Ya,1
+54,Laki-laki,19.9,Tidak Merokok,Sedang,7,Tinggi,Jarang,Jarang,3,Mingguan,6,3,Tidak,1
+25,Laki-laki,18.1,Tidak Merokok,Rendah,8,Tinggi,Sangat Sering,Sering,5,Tidak Pernah,12,2,Tidak,1
+59,Perempuan,20.6,Tidak Merokok,Sedang,7,Tinggi,Kadang,Jarang,1,Tidak Pernah,11,4,Tidak,0
+45,Perempuan,21.5,Tidak Merokok,Tinggi,6,Rendah,Kadang,Sering,5,Sesekali,5,3,Tidak,0
+48,Laki-laki,28.7,Perokok Aktif,Rendah,8,Tinggi,Sangat Sering,Kadang,1,Sesekali,5,4,Tidak,1
+26,Perempuan,21.7,Tidak Merokok,Sedang,5,Sedang,Kadang,Tidak Pernah,2,Sesekali,6,5,Tidak,0
+46,Laki-laki,18.3,Tidak Merokok,Sedang,8,Tinggi,Jarang,Sering,3,Mingguan,7,0,Ya,1
+31,Perempuan,32.1,Mantan Perokok,Rendah,4,Rendah,Jarang,Kadang,2,Tidak Pernah,2,1,Tidak,0
+57,Perempuan,24.2,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,0,Tidak Pernah,2,3,Tidak,0
+58,Laki-laki,24.0,Tidak Merokok,Tinggi,7,Sedang,Sering,Jarang,5,Tidak Pernah,9,3,Ya,1
+39,Laki-laki,23.1,Mantan Perokok,Tinggi,8,Sedang,Sering,Tidak Pernah,2,Sesekali,12,7,Tidak,0
+28,Laki-laki,34.6,Tidak Merokok,Rendah,5,Rendah,Sangat Sering,Sangat Sering,2,Sesekali,7,0,Ya,1
+40,Laki-laki,20.9,Perokok Aktif,Tinggi,4,Sedang,Tidak Pernah,Kadang,1,Tidak Pernah,11,3,Tidak,0
+18,Perempuan,33.3,Tidak Merokok,Tinggi,9,Tinggi,Jarang,Tidak Pernah,5,Sesekali,12,3,Tidak,0
+63,Laki-laki,31.2,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Sering,1,Tidak Pernah,13,5,Tidak,1
+54,Perempuan,19.3,Mantan Perokok,Sedang,9,Rendah,Sering,Jarang,3,Tidak Pernah,12,3,Tidak,0
+38,Laki-laki,34.8,Mantan Perokok,Tinggi,6,Tinggi,Tidak Pernah,Jarang,2,Sesekali,6,3,Tidak,0
+43,Laki-laki,22.6,Tidak Merokok,Sedang,9,Rendah,Tidak Pernah,Jarang,5,Tidak Pernah,9,3,Tidak,0
+63,Perempuan,19.7,Mantan Perokok,Rendah,4,Rendah,Kadang,Kadang,2,Sesekali,4,2,Tidak,0
+53,Laki-laki,32.1,Tidak Merokok,Tinggi,7,Sedang,Kadang,Tidak Pernah,3,Mingguan,3,3,Ya,0
+40,Laki-laki,30.0,Tidak Merokok,Sedang,6,Tinggi,Sering,Kadang,4,Mingguan,5,0,Ya,1
+18,Laki-laki,28.5,Perokok Aktif,Rendah,8,Sedang,Kadang,Sering,3,Tidak Pernah,8,5,Tidak,1
+57,Laki-laki,20.7,Tidak Merokok,Sedang,5,Sedang,Kadang,Jarang,1,Sesekali,5,3,Tidak,0
+32,Perempuan,26.1,Tidak Merokok,Sedang,4,Sedang,Kadang,Jarang,1,Sesekali,7,4,Ya,0
+38,Perempuan,31.3,Perokok Aktif,Tinggi,6,Sedang,Sering,Kadang,2,Mingguan,0,5,Ya,1
+64,Laki-laki,23.2,Perokok Aktif,Sedang,6,Rendah,Jarang,Kadang,1,Mingguan,11,5,Ya,1
+26,Laki-laki,23.3,Tidak Merokok,Rendah,4,Tinggi,Jarang,Sangat Sering,5,Tidak Pernah,13,4,Tidak,1
+26,Laki-laki,18.1,Tidak Merokok,Sedang,8,Tinggi,Jarang,Kadang,3,Tidak Pernah,5,0,Tidak,1
+27,Perempuan,21.0,Mantan Perokok,Sedang,8,Sedang,Jarang,Tidak Pernah,2,Sesekali,13,2,Ya,0
+43,Perempuan,32.9,Perokok Aktif,Rendah,7,Sedang,Sering,Jarang,3,Sesekali,13,6,Tidak,1
+58,Perempuan,25.5,Perokok Aktif,Sedang,9,Tinggi,Tidak Pernah,Jarang,3,Tidak Pernah,1,7,Ya,1
+52,Perempuan,34.7,Tidak Merokok,Tinggi,8,Sedang,Sangat Sering,Sering,2,Tidak Pernah,2,6,Tidak,0
+42,Laki-laki,24.7,Tidak Merokok,Rendah,7,Rendah,Jarang,Tidak Pernah,4,Sesekali,5,0,Tidak,0
+43,Laki-laki,30.2,Tidak Merokok,Sedang,9,Rendah,Sering,Jarang,1,Tidak Pernah,1,2,Tidak,0
+28,Laki-laki,22.8,Perokok Aktif,Rendah,6,Sedang,Sering,Kadang,0,Tidak Pernah,3,1,Ya,1
+55,Perempuan,24.2,Mantan Perokok,Rendah,4,Tinggi,Kadang,Jarang,0,Tidak Pernah,5,4,Ya,1
+19,Laki-laki,21.2,Mantan Perokok,Sedang,8,Rendah,Kadang,Kadang,0,Tidak Pernah,4,7,Tidak,0
+24,Perempuan,23.9,Perokok Aktif,Rendah,7,Rendah,Jarang,Jarang,1,Sesekali,5,5,Ya,0
+35,Perempuan,27.3,Tidak Merokok,Tinggi,6,Sedang,Kadang,Sangat Sering,4,Tidak Pernah,14,5,Tidak,1
+44,Laki-laki,34.9,Tidak Merokok,Rendah,8,Tinggi,Jarang,Jarang,3,Tidak Pernah,5,5,Tidak,0
+51,Laki-laki,29.3,Tidak Merokok,Sedang,5,Rendah,Kadang,Sangat Sering,2,Tidak Pernah,7,4,Ya,1
+44,Laki-laki,21.4,Tidak Merokok,Rendah,6,Rendah,Sering,Jarang,4,Tidak Pernah,8,4,Tidak,0
+34,Perempuan,18.8,Tidak Merokok,Tinggi,8,Sedang,Jarang,Sering,0,Sesekali,4,7,Ya,0
+60,Perempuan,20.1,Tidak Merokok,Sedang,6,Sedang,Sering,Jarang,5,Tidak Pernah,5,6,Tidak,0
+61,Laki-laki,27.6,Mantan Perokok,Sedang,4,Rendah,Jarang,Sering,1,Sesekali,5,6,Tidak,0
+41,Laki-laki,31.0,Perokok Aktif,Rendah,4,Rendah,Kadang,Jarang,1,Tidak Pernah,5,6,Ya,1
+42,Perempuan,34.0,Tidak Merokok,Sedang,4,Sedang,Sangat Sering,Kadang,2,Tidak Pernah,1,2,Tidak,1
+24,Laki-laki,18.3,Tidak Merokok,Rendah,9,Sedang,Kadang,Sering,5,Tidak Pernah,3,5,Ya,1
+23,Perempuan,26.9,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Kadang,3,Tidak Pernah,0,0,Tidak,0
+41,Perempuan,26.0,Perokok Aktif,Sedang,4,Sedang,Sering,Kadang,4,Sesekali,13,2,Ya,1
+50,Laki-laki,29.2,Perokok Aktif,Sedang,5,Rendah,Sangat Sering,Tidak Pernah,5,Sesekali,11,5,Tidak,1
+46,Laki-laki,27.5,Mantan Perokok,Sedang,4,Sedang,Jarang,Jarang,4,Mingguan,0,4,Tidak,0
+60,Laki-laki,29.7,Tidak Merokok,Sedang,9,Sedang,Kadang,Kadang,4,Tidak Pernah,0,4,Ya,0
+39,Laki-laki,29.2,Tidak Merokok,Sedang,6,Rendah,Kadang,Tidak Pernah,3,Tidak Pernah,6,4,Tidak,0
+43,Perempuan,20.0,Tidak Merokok,Sedang,8,Tinggi,Tidak Pernah,Jarang,3,Tidak Pernah,0,5,Tidak,0
+45,Perempuan,31.6,Mantan Perokok,Sedang,8,Tinggi,Tidak Pernah,Jarang,3,Mingguan,5,6,Tidak,1
+38,Perempuan,20.1,Perokok Aktif,Sedang,4,Rendah,Jarang,Jarang,2,Tidak Pernah,1,4,Tidak,0
+24,Laki-laki,29.9,Perokok Aktif,Sedang,8,Rendah,Kadang,Kadang,1,Tidak Pernah,5,1,Tidak,1
+34,Perempuan,25.1,Tidak Merokok,Rendah,4,Rendah,Sering,Kadang,0,Tidak Pernah,5,4,Ya,1
+37,Laki-laki,26.7,Perokok Aktif,Tinggi,4,Rendah,Sering,Sangat Sering,3,Tidak Pernah,11,7,Tidak,0
+58,Laki-laki,33.4,Perokok Aktif,Sedang,7,Sedang,Kadang,Kadang,1,Harian,10,7,Tidak,1
+37,Laki-laki,33.1,Tidak Merokok,Sedang,7,Sedang,Tidak Pernah,Sangat Sering,3,Sesekali,2,5,Ya,0
+39,Laki-laki,31.9,Tidak Merokok,Tinggi,7,Tinggi,Jarang,Sering,0,Mingguan,14,6,Ya,1
+45,Laki-laki,26.7,Perokok Aktif,Rendah,5,Rendah,Jarang,Sangat Sering,5,Sesekali,7,2,Tidak,1
+57,Laki-laki,30.5,Tidak Merokok,Tinggi,7,Sedang,Kadang,Sering,3,Sesekali,10,4,Tidak,0
+24,Perempuan,26.7,Perokok Aktif,Tinggi,4,Tinggi,Tidak Pernah,Sering,1,Tidak Pernah,3,6,Tidak,0
+18,Laki-laki,32.8,Perokok Aktif,Tinggi,9,Sedang,Kadang,Kadang,2,Sesekali,12,6,Tidak,1
+49,Perempuan,24.8,Mantan Perokok,Tinggi,9,Rendah,Sangat Sering,Jarang,5,Tidak Pernah,6,3,Ya,1
+30,Perempuan,34.5,Perokok Aktif,Sedang,6,Rendah,Sering,Jarang,5,Tidak Pernah,3,1,Tidak,0
+47,Laki-laki,33.8,Mantan Perokok,Rendah,7,Sedang,Sering,Sangat Sering,5,Sesekali,0,7,Tidak,1
+40,Laki-laki,30.6,Mantan Perokok,Sedang,9,Tinggi,Kadang,Sangat Sering,0,Mingguan,5,5,Ya,1
+36,Laki-laki,22.8,Tidak Merokok,Rendah,7,Tinggi,Jarang,Sering,1,Sesekali,4,4,Ya,0
+49,Perempuan,20.2,Tidak Merokok,Rendah,6,Tinggi,Tidak Pernah,Sering,4,Sesekali,8,3,Tidak,1
+47,Laki-laki,32.5,Tidak Merokok,Tinggi,9,Tinggi,Sering,Sangat Sering,4,Tidak Pernah,14,5,Tidak,1
+46,Perempuan,20.8,Mantan Perokok,Rendah,4,Sedang,Kadang,Kadang,4,Tidak Pernah,13,2,Ya,1
+62,Laki-laki,32.5,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Kadang,2,Tidak Pernah,13,1,Ya,0
+46,Laki-laki,26.3,Tidak Merokok,Tinggi,7,Tinggi,Jarang,Kadang,3,Sesekali,14,6,Ya,1
+47,Perempuan,24.9,Tidak Merokok,Tinggi,9,Sedang,Kadang,Kadang,3,Harian,8,4,Ya,0
+33,Perempuan,33.4,Mantan Perokok,Tinggi,9,Rendah,Tidak Pernah,Tidak Pernah,3,Tidak Pernah,11,2,Ya,0
+57,Laki-laki,28.3,Perokok Aktif,Tinggi,6,Sedang,Tidak Pernah,Kadang,2,Tidak Pernah,10,5,Tidak,0
+36,Perempuan,27.8,Perokok Aktif,Tinggi,4,Rendah,Jarang,Sering,4,Sesekali,12,3,Ya,1
+35,Perempuan,27.5,Tidak Merokok,Sedang,8,Rendah,Kadang,Kadang,5,Mingguan,7,5,Tidak,0
+18,Perempuan,24.3,Perokok Aktif,Rendah,9,Tinggi,Tidak Pernah,Sering,3,Sesekali,14,7,Tidak,1
+31,Perempuan,31.4,Mantan Perokok,Tinggi,5,Tinggi,Tidak Pernah,Jarang,5,Tidak Pernah,6,5,Tidak,0
+64,Perempuan,22.3,Tidak Merokok,Tinggi,6,Rendah,Sering,Jarang,5,Harian,13,1,Tidak,0
+19,Laki-laki,34.0,Mantan Perokok,Sedang,9,Sedang,Kadang,Sering,2,Mingguan,1,4,Ya,0
+45,Laki-laki,33.2,Tidak Merokok,Rendah,9,Tinggi,Kadang,Sering,2,Tidak Pernah,13,2,Ya,1
+47,Perempuan,23.7,Perokok Aktif,Sedang,6,Sedang,Kadang,Jarang,1,Harian,7,1,Ya,0
+55,Laki-laki,30.4,Tidak Merokok,Rendah,6,Sedang,Sangat Sering,Kadang,3,Sesekali,2,3,Tidak,1
+21,Laki-laki,27.7,Tidak Merokok,Tinggi,7,Tinggi,Tidak Pernah,Kadang,4,Tidak Pernah,5,6,Ya,1
+18,Perempuan,23.7,Mantan Perokok,Tinggi,9,Tinggi,Jarang,Sangat Sering,0,Sesekali,9,4,Tidak,0
+25,Laki-laki,34.8,Tidak Merokok,Rendah,8,Tinggi,Kadang,Kadang,2,Mingguan,6,6,Tidak,1
+46,Perempuan,18.4,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Jarang,5,Sesekali,11,1,Tidak,0
+56,Perempuan,22.3,Mantan Perokok,Rendah,4,Rendah,Kadang,Kadang,1,Tidak Pernah,5,3,Tidak,0
+20,Laki-laki,26.8,Tidak Merokok,Sedang,4,Tinggi,Kadang,Sering,0,Harian,4,3,Tidak,0
+49,Perempuan,26.9,Mantan Perokok,Rendah,8,Rendah,Sangat Sering,Sering,2,Tidak Pernah,3,2,Tidak,0
+27,Perempuan,28.0,Tidak Merokok,Sedang,6,Tinggi,Sering,Sering,1,Sesekali,1,7,Tidak,1
+27,Perempuan,30.8,Mantan Perokok,Sedang,6,Rendah,Sangat Sering,Jarang,5,Sesekali,8,5,Ya,1
+36,Perempuan,28.6,Mantan Perokok,Rendah,6,Sedang,Tidak Pernah,Sering,3,Tidak Pernah,13,3,Tidak,1
+63,Perempuan,28.2,Tidak Merokok,Sedang,9,Sedang,Sering,Sering,1,Tidak Pernah,6,7,Tidak,0
+51,Laki-laki,18.9,Mantan Perokok,Rendah,6,Rendah,Tidak Pernah,Sering,2,Mingguan,6,3,Ya,1
+50,Laki-laki,24.4,Mantan Perokok,Sedang,6,Tinggi,Kadang,Jarang,3,Tidak Pernah,3,5,Tidak,0
+40,Perempuan,21.9,Perokok Aktif,Rendah,9,Rendah,Sering,Sering,5,Sesekali,13,0,Tidak,1
+45,Perempuan,22.5,Mantan Perokok,Sedang,9,Tinggi,Jarang,Kadang,4,Sesekali,4,3,Tidak,0
+49,Laki-laki,27.4,Perokok Aktif,Tinggi,8,Tinggi,Kadang,Sering,1,Sesekali,5,4,Tidak,0
+24,Perempuan,21.4,Tidak Merokok,Tinggi,7,Sedang,Tidak Pernah,Kadang,0,Sesekali,11,6,Tidak,0
+46,Laki-laki,23.0,Tidak Merokok,Tinggi,9,Tinggi,Jarang,Jarang,5,Tidak Pernah,10,6,Ya,1
+25,Perempuan,22.0,Perokok Aktif,Tinggi,5,Rendah,Sangat Sering,Jarang,3,Tidak Pernah,11,1,Ya,0
+18,Perempuan,34.1,Tidak Merokok,Rendah,6,Tinggi,Jarang,Kadang,5,Mingguan,1,5,Tidak,1
+20,Perempuan,34.1,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Kadang,3,Sesekali,3,5,Tidak,0
+41,Perempuan,28.4,Tidak Merokok,Sedang,4,Sedang,Kadang,Kadang,5,Tidak Pernah,14,5,Tidak,1
+40,Perempuan,33.7,Tidak Merokok,Tinggi,8,Sedang,Sering,Kadang,4,Harian,12,4,Ya,1
+25,Perempuan,31.4,Tidak Merokok,Tinggi,7,Sedang,Tidak Pernah,Sering,1,Mingguan,3,5,Ya,0
+64,Perempuan,28.0,Perokok Aktif,Rendah,9,Tinggi,Jarang,Jarang,0,Tidak Pernah,11,4,Tidak,0
+54,Laki-laki,18.1,Tidak Merokok,Sedang,6,Rendah,Sering,Jarang,4,Harian,12,7,Ya,1
+20,Laki-laki,31.1,Tidak Merokok,Rendah,6,Sedang,Tidak Pernah,Sering,1,Sesekali,3,7,Ya,1
+50,Laki-laki,29.9,Perokok Aktif,Tinggi,6,Rendah,Jarang,Kadang,0,Tidak Pernah,6,6,Tidak,0
+45,Perempuan,28.5,Perokok Aktif,Sedang,7,Tinggi,Sering,Kadang,5,Tidak Pernah,12,2,Ya,1
+64,Perempuan,30.9,Tidak Merokok,Rendah,6,Rendah,Kadang,Kadang,0,Sesekali,6,0,Tidak,1
+25,Perempuan,26.7,Tidak Merokok,Sedang,9,Sedang,Sering,Kadang,2,Mingguan,6,5,Ya,0
+51,Perempuan,30.0,Perokok Aktif,Sedang,7,Rendah,Tidak Pernah,Jarang,0,Tidak Pernah,6,6,Ya,0
+52,Perempuan,33.9,Mantan Perokok,Tinggi,6,Sedang,Sangat Sering,Kadang,1,Tidak Pernah,1,0,Tidak,0
+49,Perempuan,24.4,Mantan Perokok,Rendah,4,Tinggi,Sangat Sering,Sangat Sering,4,Tidak Pernah,4,6,Tidak,1
+41,Perempuan,30.0,Perokok Aktif,Tinggi,4,Tinggi,Jarang,Kadang,4,Sesekali,9,5,Ya,1
+31,Laki-laki,26.1,Mantan Perokok,Sedang,5,Tinggi,Tidak Pernah,Tidak Pernah,2,Tidak Pernah,1,4,Tidak,0
+49,Perempuan,29.5,Tidak Merokok,Tinggi,6,Sedang,Sangat Sering,Sering,1,Tidak Pernah,4,6,Ya,1
+63,Laki-laki,31.0,Mantan Perokok,Tinggi,6,Tinggi,Kadang,Kadang,0,Sesekali,11,1,Tidak,0
+60,Laki-laki,18.8,Tidak Merokok,Rendah,7,Sedang,Kadang,Jarang,2,Mingguan,5,0,Ya,1
+33,Perempuan,29.0,Perokok Aktif,Rendah,7,Tinggi,Kadang,Sering,5,Sesekali,2,0,Tidak,1
+21,Perempuan,21.9,Mantan Perokok,Sedang,6,Sedang,Sering,Jarang,3,Tidak Pernah,5,4,Tidak,0
+54,Laki-laki,29.4,Tidak Merokok,Rendah,5,Sedang,Sering,Sangat Sering,5,Tidak Pernah,14,7,Ya,1
+38,Laki-laki,26.0,Tidak Merokok,Tinggi,6,Rendah,Jarang,Kadang,1,Tidak Pernah,4,0,Ya,0
+31,Perempuan,31.2,Tidak Merokok,Sedang,9,Sedang,Jarang,Sering,2,Harian,3,2,Tidak,0
+48,Perempuan,20.1,Tidak Merokok,Tinggi,7,Rendah,Sering,Kadang,4,Mingguan,9,4,Ya,1
+65,Laki-laki,28.6,Mantan Perokok,Rendah,6,Tinggi,Sering,Jarang,2,Tidak Pernah,8,0,Ya,1
+35,Perempuan,22.7,Tidak Merokok,Rendah,7,Sedang,Kadang,Sering,3,Tidak Pernah,10,0,Ya,1
+24,Perempuan,32.5,Perokok Aktif,Sedang,6,Tinggi,Sangat Sering,Sangat Sering,1,Sesekali,13,0,Tidak,1
+27,Perempuan,33.8,Tidak Merokok,Rendah,8,Rendah,Sering,Sering,2,Sesekali,7,4,Tidak,0
+24,Laki-laki,34.9,Mantan Perokok,Sedang,7,Rendah,Jarang,Kadang,5,Sesekali,11,7,Ya,1
+50,Laki-laki,31.5,Perokok Aktif,Tinggi,5,Tinggi,Sering,Sangat Sering,0,Mingguan,6,1,Tidak,1
+40,Laki-laki,30.8,Mantan Perokok,Sedang,8,Sedang,Kadang,Jarang,5,Mingguan,10,3,Tidak,1
+38,Perempuan,21.7,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Tidak Pernah,1,Sesekali,14,6,Ya,0
+36,Perempuan,23.7,Perokok Aktif,Rendah,6,Tinggi,Jarang,Tidak Pernah,2,Mingguan,0,5,Tidak,1
+65,Laki-laki,25.9,Tidak Merokok,Rendah,9,Sedang,Sering,Sering,5,Mingguan,8,6,Tidak,1
+36,Laki-laki,31.1,Tidak Merokok,Tinggi,7,Rendah,Sangat Sering,Sering,2,Mingguan,8,0,Tidak,0
+53,Laki-laki,33.6,Tidak Merokok,Tinggi,8,Tinggi,Jarang,Kadang,5,Harian,5,6,Ya,1
+46,Perempuan,21.2,Tidak Merokok,Sedang,9,Rendah,Jarang,Sangat Sering,1,Tidak Pernah,6,3,Tidak,0
+35,Laki-laki,33.7,Perokok Aktif,Tinggi,5,Tinggi,Kadang,Sering,4,Tidak Pernah,12,3,Tidak,1
+19,Laki-laki,29.8,Tidak Merokok,Sedang,7,Rendah,Sering,Kadang,5,Mingguan,2,0,Tidak,0
+18,Perempuan,28.4,Perokok Aktif,Rendah,8,Sedang,Sering,Jarang,0,Mingguan,4,0,Tidak,0
+64,Perempuan,21.4,Perokok Aktif,Rendah,9,Rendah,Kadang,Sangat Sering,5,Harian,6,5,Ya,1
+22,Perempuan,18.9,Tidak Merokok,Tinggi,8,Tinggi,Kadang,Jarang,1,Tidak Pernah,0,7,Tidak,0
+37,Laki-laki,27.7,Mantan Perokok,Rendah,8,Rendah,Jarang,Kadang,5,Sesekali,11,3,Tidak,0
+28,Perempuan,29.1,Tidak Merokok,Sedang,9,Tinggi,Kadang,Jarang,0,Tidak Pernah,0,1,Ya,0
+59,Perempuan,21.6,Tidak Merokok,Sedang,4,Sedang,Jarang,Jarang,0,Sesekali,4,3,Ya,0
+19,Laki-laki,27.5,Tidak Merokok,Sedang,6,Rendah,Sering,Kadang,1,Tidak Pernah,8,1,Ya,0
+20,Perempuan,32.6,Perokok Aktif,Sedang,7,Tinggi,Tidak Pernah,Jarang,2,Tidak Pernah,6,7,Tidak,1
+40,Laki-laki,32.2,Perokok Aktif,Rendah,7,Sedang,Kadang,Sangat Sering,5,Tidak Pernah,0,6,Tidak,1
+29,Laki-laki,33.8,Tidak Merokok,Rendah,7,Rendah,Jarang,Kadang,4,Sesekali,12,2,Tidak,0
+37,Perempuan,24.2,Tidak Merokok,Sedang,8,Rendah,Kadang,Sering,0,Tidak Pernah,12,1,Ya,0
+22,Perempuan,23.4,Perokok Aktif,Sedang,9,Sedang,Jarang,Sering,0,Tidak Pernah,14,5,Tidak,0
+54,Perempuan,30.7,Tidak Merokok,Sedang,6,Rendah,Jarang,Sering,5,Tidak Pernah,11,4,Tidak,0
+55,Perempuan,25.3,Perokok Aktif,Sedang,5,Rendah,Jarang,Sangat Sering,2,Tidak Pernah,4,7,Ya,1
+47,Perempuan,19.5,Mantan Perokok,Rendah,7,Rendah,Sering,Jarang,5,Harian,14,6,Ya,1
+26,Perempuan,22.8,Tidak Merokok,Tinggi,9,Sedang,Jarang,Tidak Pernah,1,Tidak Pernah,7,0,Ya,0
+51,Laki-laki,25.1,Perokok Aktif,Sedang,6,Sedang,Sering,Tidak Pernah,4,Tidak Pernah,7,7,Tidak,1
+61,Laki-laki,23.0,Tidak Merokok,Rendah,6,Rendah,Kadang,Sering,5,Mingguan,11,2,Tidak,1
+52,Perempuan,23.6,Perokok Aktif,Sedang,4,Tinggi,Kadang,Sangat Sering,0,Sesekali,1,3,Tidak,1
+39,Laki-laki,23.0,Perokok Aktif,Tinggi,9,Tinggi,Kadang,Jarang,0,Sesekali,6,1,Ya,0
+61,Perempuan,18.7,Tidak Merokok,Tinggi,7,Rendah,Sangat Sering,Sering,1,Sesekali,9,2,Tidak,0
+41,Laki-laki,28.8,Tidak Merokok,Rendah,8,Rendah,Jarang,Tidak Pernah,2,Harian,4,6,Tidak,0
+34,Laki-laki,28.2,Perokok Aktif,Sedang,6,Tinggi,Jarang,Jarang,5,Tidak Pernah,8,4,Tidak,0
+27,Laki-laki,29.1,Perokok Aktif,Rendah,6,Sedang,Sangat Sering,Sering,3,Harian,2,7,Ya,1
+47,Perempuan,21.3,Tidak Merokok,Rendah,5,Sedang,Jarang,Tidak Pernah,2,Mingguan,0,1,Tidak,0
+63,Laki-laki,23.0,Perokok Aktif,Sedang,4,Sedang,Sering,Kadang,0,Sesekali,12,5,Tidak,1
+40,Perempuan,28.5,Tidak Merokok,Sedang,6,Tinggi,Jarang,Sering,5,Sesekali,3,3,Ya,0
+49,Laki-laki,28.2,Tidak Merokok,Tinggi,6,Rendah,Kadang,Sering,0,Sesekali,6,3,Ya,0
+34,Laki-laki,26.6,Perokok Aktif,Rendah,8,Tinggi,Jarang,Kadang,4,Tidak Pernah,0,1,Tidak,1
+34,Laki-laki,24.0,Tidak Merokok,Rendah,8,Tinggi,Sangat Sering,Kadang,2,Tidak Pernah,1,7,Tidak,0
+31,Laki-laki,33.5,Perokok Aktif,Sedang,5,Sedang,Kadang,Kadang,3,Harian,13,4,Tidak,1
+26,Laki-laki,23.8,Tidak Merokok,Rendah,9,Tinggi,Jarang,Tidak Pernah,4,Sesekali,4,7,Ya,1
+57,Perempuan,25.7,Mantan Perokok,Rendah,5,Rendah,Tidak Pernah,Sering,3,Tidak Pernah,8,0,Ya,1
+19,Perempuan,29.5,Tidak Merokok,Rendah,5,Sedang,Jarang,Jarang,4,Mingguan,13,0,Ya,1
+62,Laki-laki,27.2,Tidak Merokok,Sedang,8,Sedang,Sering,Tidak Pernah,2,Sesekali,0,3,Tidak,0
+42,Laki-laki,23.9,Mantan Perokok,Rendah,9,Sedang,Jarang,Kadang,0,Tidak Pernah,11,6,Tidak,0
+56,Laki-laki,25.4,Tidak Merokok,Sedang,8,Rendah,Jarang,Sering,3,Sesekali,3,6,Tidak,0
+26,Laki-laki,31.5,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,2,Sesekali,11,4,Ya,1
+39,Perempuan,22.7,Tidak Merokok,Rendah,7,Rendah,Kadang,Tidak Pernah,3,Tidak Pernah,13,3,Tidak,0
+60,Laki-laki,20.4,Tidak Merokok,Sedang,7,Rendah,Jarang,Jarang,2,Harian,2,0,Tidak,0
+63,Perempuan,23.3,Perokok Aktif,Rendah,4,Rendah,Jarang,Kadang,4,Tidak Pernah,13,3,Tidak,1
+21,Laki-laki,32.4,Tidak Merokok,Sedang,7,Tinggi,Sering,Kadang,2,Sesekali,4,7,Tidak,1
+43,Perempuan,19.5,Mantan Perokok,Rendah,9,Rendah,Sangat Sering,Jarang,4,Tidak Pernah,4,1,Tidak,0
+46,Laki-laki,34.9,Tidak Merokok,Sedang,8,Sedang,Jarang,Sering,0,Sesekali,9,6,Tidak,1
+62,Laki-laki,27.2,Tidak Merokok,Rendah,7,Rendah,Sering,Sering,4,Tidak Pernah,1,6,Ya,1
+51,Perempuan,34.7,Tidak Merokok,Rendah,9,Rendah,Tidak Pernah,Sering,1,Tidak Pernah,4,5,Tidak,1
+40,Laki-laki,34.0,Tidak Merokok,Sedang,8,Sedang,Jarang,Kadang,0,Mingguan,8,1,Ya,0
+54,Laki-laki,25.7,Tidak Merokok,Tinggi,9,Rendah,Kadang,Kadang,5,Tidak Pernah,4,5,Tidak,0
+28,Laki-laki,21.4,Mantan Perokok,Rendah,4,Sedang,Jarang,Kadang,5,Mingguan,14,4,Tidak,1
+23,Perempuan,20.8,Perokok Aktif,Sedang,5,Sedang,Kadang,Kadang,2,Sesekali,10,0,Ya,1
+35,Laki-laki,22.1,Tidak Merokok,Sedang,4,Tinggi,Sering,Tidak Pernah,2,Harian,9,4,Tidak,1
+38,Laki-laki,30.1,Tidak Merokok,Sedang,7,Tinggi,Sangat Sering,Sering,1,Sesekali,1,4,Tidak,0
+59,Perempuan,22.6,Tidak Merokok,Tinggi,8,Sedang,Tidak Pernah,Kadang,2,Tidak Pernah,6,0,Tidak,0
+53,Perempuan,23.8,Tidak Merokok,Rendah,9,Tinggi,Jarang,Jarang,0,Tidak Pernah,14,2,Tidak,0
+58,Perempuan,25.6,Tidak Merokok,Tinggi,7,Rendah,Sangat Sering,Jarang,0,Mingguan,5,2,Tidak,0
+55,Laki-laki,33.5,Tidak Merokok,Sedang,7,Sedang,Jarang,Jarang,4,Mingguan,6,3,Tidak,0
+51,Laki-laki,21.2,Tidak Merokok,Rendah,5,Tinggi,Kadang,Sangat Sering,3,Tidak Pernah,7,2,Ya,1
+34,Laki-laki,18.1,Tidak Merokok,Tinggi,7,Rendah,Jarang,Jarang,2,Sesekali,9,1,Ya,0
+54,Perempuan,19.0,Tidak Merokok,Sedang,5,Rendah,Jarang,Sering,1,Sesekali,4,6,Ya,1
+42,Laki-laki,33.4,Tidak Merokok,Sedang,8,Rendah,Jarang,Kadang,5,Harian,1,5,Tidak,0
+55,Laki-laki,29.0,Tidak Merokok,Sedang,8,Sedang,Sering,Sering,0,Harian,6,6,Ya,1
+29,Perempuan,22.6,Tidak Merokok,Sedang,9,Sedang,Sering,Kadang,0,Harian,6,4,Tidak,0
+40,Perempuan,21.0,Tidak Merokok,Rendah,5,Sedang,Jarang,Sangat Sering,0,Mingguan,7,6,Ya,1
+59,Perempuan,23.0,Tidak Merokok,Sedang,4,Sedang,Sering,Jarang,3,Harian,6,3,Tidak,1
+39,Perempuan,20.0,Tidak Merokok,Rendah,8,Sedang,Jarang,Kadang,3,Tidak Pernah,9,4,Ya,0
+38,Perempuan,34.0,Tidak Merokok,Tinggi,9,Tinggi,Tidak Pernah,Jarang,2,Mingguan,6,0,Tidak,0
+44,Laki-laki,31.3,Tidak Merokok,Tinggi,4,Rendah,Sering,Kadang,5,Sesekali,13,7,Tidak,1
+48,Perempuan,25.9,Tidak Merokok,Sedang,8,Tinggi,Kadang,Kadang,1,Harian,12,6,Tidak,1
+23,Laki-laki,32.7,Tidak Merokok,Sedang,8,Sedang,Jarang,Kadang,3,Sesekali,8,2,Tidak,0
+44,Laki-laki,22.2,Tidak Merokok,Rendah,9,Tinggi,Jarang,Kadang,4,Tidak Pernah,7,7,Tidak,0
+57,Perempuan,30.2,Mantan Perokok,Rendah,9,Tinggi,Sangat Sering,Tidak Pernah,3,Sesekali,14,0,Tidak,1
+51,Perempuan,32.6,Tidak Merokok,Tinggi,6,Sedang,Sering,Sering,0,Sesekali,1,3,Tidak,0
+29,Perempuan,24.1,Tidak Merokok,Rendah,7,Rendah,Sering,Kadang,1,Tidak Pernah,1,5,Ya,0
+62,Laki-laki,30.9,Perokok Aktif,Sedang,7,Sedang,Tidak Pernah,Jarang,2,Tidak Pernah,6,1,Tidak,0
+24,Perempuan,23.0,Tidak Merokok,Tinggi,4,Tinggi,Sering,Sangat Sering,3,Sesekali,9,2,Tidak,1
+27,Perempuan,23.1,Tidak Merokok,Tinggi,7,Sedang,Jarang,Sangat Sering,0,Tidak Pernah,14,0,Ya,1
+62,Perempuan,19.8,Perokok Aktif,Sedang,4,Rendah,Sangat Sering,Sering,4,Tidak Pernah,10,5,Tidak,1
+34,Perempuan,25.5,Perokok Aktif,Sedang,8,Rendah,Tidak Pernah,Sering,4,Tidak Pernah,12,7,Tidak,1
+43,Perempuan,30.4,Tidak Merokok,Sedang,6,Tinggi,Jarang,Tidak Pernah,2,Harian,14,6,Tidak,1
+38,Laki-laki,34.0,Tidak Merokok,Tinggi,6,Rendah,Kadang,Sangat Sering,2,Mingguan,9,2,Tidak,0
+45,Laki-laki,28.3,Tidak Merokok,Sedang,8,Rendah,Sering,Kadang,3,Tidak Pernah,2,4,Ya,0
+63,Laki-laki,32.7,Tidak Merokok,Sedang,9,Sedang,Sering,Jarang,2,Mingguan,0,1,Ya,0
+19,Perempuan,32.0,Mantan Perokok,Rendah,5,Tinggi,Jarang,Sering,5,Sesekali,8,6,Ya,0
+60,Perempuan,20.9,Tidak Merokok,Rendah,5,Sedang,Kadang,Jarang,5,Tidak Pernah,13,7,Ya,1
+18,Perempuan,26.3,Tidak Merokok,Sedang,7,Sedang,Sering,Kadang,0,Tidak Pernah,14,5,Tidak,0
+53,Laki-laki,20.0,Perokok Aktif,Tinggi,9,Sedang,Tidak Pernah,Jarang,0,Sesekali,13,2,Ya,0
+43,Perempuan,29.6,Perokok Aktif,Tinggi,4,Rendah,Sering,Kadang,0,Sesekali,13,6,Tidak,0
+46,Perempuan,34.1,Tidak Merokok,Tinggi,6,Tinggi,Sangat Sering,Kadang,5,Mingguan,2,1,Tidak,1
+38,Perempuan,20.3,Mantan Perokok,Sedang,7,Sedang,Tidak Pernah,Kadang,3,Tidak Pernah,0,5,Tidak,0
+28,Laki-laki,30.5,Tidak Merokok,Tinggi,8,Sedang,Tidak Pernah,Tidak Pernah,3,Tidak Pernah,5,4,Ya,0
+57,Perempuan,28.7,Perokok Aktif,Tinggi,9,Tinggi,Jarang,Kadang,2,Harian,3,7,Ya,1
+28,Laki-laki,27.9,Tidak Merokok,Sedang,6,Tinggi,Tidak Pernah,Kadang,3,Tidak Pernah,13,4,Ya,0
+53,Perempuan,24.6,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,0,Sesekali,0,0,Ya,0
+56,Laki-laki,24.0,Tidak Merokok,Sedang,4,Rendah,Sering,Sangat Sering,1,Tidak Pernah,3,7,Tidak,1
+57,Laki-laki,18.8,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Kadang,0,Tidak Pernah,7,3,Tidak,0
+52,Laki-laki,21.7,Tidak Merokok,Rendah,7,Sedang,Jarang,Sering,5,Tidak Pernah,10,0,Tidak,1
+51,Perempuan,18.3,Perokok Aktif,Tinggi,8,Tinggi,Kadang,Jarang,1,Tidak Pernah,6,1,Tidak,1
+64,Perempuan,27.9,Mantan Perokok,Rendah,6,Tinggi,Kadang,Jarang,2,Tidak Pernah,14,7,Ya,1
+41,Laki-laki,19.8,Tidak Merokok,Sedang,4,Rendah,Sangat Sering,Jarang,4,Tidak Pernah,11,0,Tidak,0
+39,Laki-laki,32.8,Tidak Merokok,Sedang,6,Tinggi,Tidak Pernah,Kadang,3,Sesekali,0,5,Ya,1
+22,Perempuan,26.9,Tidak Merokok,Sedang,8,Sedang,Kadang,Jarang,3,Sesekali,9,2,Tidak,0
+50,Perempuan,29.9,Perokok Aktif,Sedang,6,Sedang,Sangat Sering,Kadang,5,Tidak Pernah,11,5,Tidak,1
+53,Laki-laki,25.0,Perokok Aktif,Tinggi,7,Rendah,Kadang,Kadang,0,Mingguan,8,0,Ya,0
+64,Perempuan,27.5,Perokok Aktif,Sedang,5,Tinggi,Jarang,Jarang,0,Tidak Pernah,5,3,Ya,1
+37,Perempuan,34.0,Perokok Aktif,Rendah,6,Sedang,Jarang,Kadang,1,Tidak Pernah,1,5,Ya,1
+36,Perempuan,19.4,Tidak Merokok,Sedang,9,Sedang,Sering,Sangat Sering,3,Sesekali,2,5,Tidak,1
+52,Perempuan,22.3,Tidak Merokok,Rendah,5,Tinggi,Jarang,Jarang,5,Sesekali,6,5,Ya,1
+60,Laki-laki,31.3,Mantan Perokok,Rendah,8,Sedang,Sangat Sering,Sering,2,Sesekali,2,3,Tidak,1
+34,Perempuan,19.7,Perokok Aktif,Sedang,5,Sedang,Sering,Sering,0,Tidak Pernah,12,7,Tidak,1
+62,Perempuan,19.3,Tidak Merokok,Tinggi,6,Tinggi,Jarang,Kadang,3,Mingguan,2,5,Tidak,1
+60,Laki-laki,24.1,Tidak Merokok,Sedang,6,Tinggi,Kadang,Sering,4,Sesekali,4,1,Tidak,1
+51,Laki-laki,19.6,Perokok Aktif,Sedang,9,Tinggi,Tidak Pernah,Sangat Sering,5,Tidak Pernah,2,4,Ya,1
+26,Perempuan,27.9,Tidak Merokok,Sedang,4,Tinggi,Jarang,Kadang,1,Tidak Pernah,2,3,Tidak,0
+43,Perempuan,21.8,Tidak Merokok,Rendah,9,Sedang,Sering,Sering,0,Mingguan,10,1,Tidak,1
+19,Perempuan,33.2,Mantan Perokok,Tinggi,6,Sedang,Kadang,Sering,0,Sesekali,4,3,Tidak,0
+26,Perempuan,31.3,Tidak Merokok,Sedang,5,Rendah,Jarang,Kadang,2,Tidak Pernah,13,3,Tidak,0
+26,Laki-laki,29.9,Tidak Merokok,Tinggi,9,Sedang,Sering,Jarang,0,Tidak Pernah,4,7,Tidak,0
+57,Laki-laki,28.5,Perokok Aktif,Rendah,9,Sedang,Jarang,Sangat Sering,5,Tidak Pernah,11,4,Ya,1
+34,Laki-laki,32.7,Mantan Perokok,Rendah,4,Tinggi,Kadang,Sering,3,Sesekali,8,2,Tidak,1
+18,Perempuan,21.8,Perokok Aktif,Tinggi,6,Rendah,Kadang,Jarang,3,Mingguan,0,7,Tidak,1
+42,Perempuan,32.8,Tidak Merokok,Sedang,6,Rendah,Jarang,Jarang,3,Tidak Pernah,13,7,Ya,0
+60,Perempuan,31.4,Tidak Merokok,Rendah,8,Rendah,Sangat Sering,Sangat Sering,4,Tidak Pernah,0,1,Tidak,1
+57,Perempuan,30.7,Mantan Perokok,Rendah,4,Rendah,Kadang,Tidak Pernah,4,Harian,10,3,Ya,1
+59,Laki-laki,27.5,Tidak Merokok,Tinggi,8,Sedang,Kadang,Sering,0,Sesekali,13,6,Tidak,0
+42,Laki-laki,22.2,Tidak Merokok,Sedang,8,Rendah,Kadang,Jarang,4,Sesekali,8,3,Tidak,0
+56,Perempuan,25.2,Perokok Aktif,Sedang,8,Rendah,Jarang,Tidak Pernah,4,Tidak Pernah,4,0,Tidak,0
+52,Laki-laki,31.5,Tidak Merokok,Rendah,7,Rendah,Jarang,Tidak Pernah,2,Sesekali,3,5,Tidak,0
+20,Perempuan,18.5,Tidak Merokok,Sedang,8,Tinggi,Kadang,Kadang,4,Sesekali,1,2,Tidak,0
+54,Perempuan,31.3,Tidak Merokok,Tinggi,9,Tinggi,Sangat Sering,Tidak Pernah,1,Tidak Pernah,11,4,Ya,1
+61,Laki-laki,22.1,Tidak Merokok,Rendah,5,Rendah,Sering,Kadang,1,Harian,8,6,Tidak,1
+61,Perempuan,20.5,Tidak Merokok,Sedang,9,Tinggi,Jarang,Kadang,1,Mingguan,5,1,Ya,0
+47,Perempuan,20.0,Tidak Merokok,Tinggi,9,Sedang,Kadang,Kadang,0,Sesekali,14,3,Ya,0
+55,Laki-laki,18.5,Mantan Perokok,Rendah,6,Rendah,Tidak Pernah,Sering,3,Sesekali,8,5,Ya,1
+51,Perempuan,26.9,Perokok Aktif,Sedang,7,Sedang,Tidak Pernah,Kadang,2,Sesekali,4,1,Tidak,0
+29,Perempuan,21.7,Tidak Merokok,Sedang,8,Rendah,Kadang,Kadang,0,Tidak Pernah,3,7,Tidak,0
+36,Laki-laki,34.8,Tidak Merokok,Sedang,6,Tinggi,Kadang,Kadang,3,Tidak Pernah,6,4,Tidak,0
+54,Perempuan,27.8,Tidak Merokok,Sedang,4,Rendah,Jarang,Kadang,2,Mingguan,4,2,Tidak,0
+61,Laki-laki,20.3,Tidak Merokok,Sedang,4,Tinggi,Kadang,Sangat Sering,2,Sesekali,7,0,Ya,1
+34,Perempuan,29.7,Mantan Perokok,Sedang,6,Rendah,Sering,Sering,2,Mingguan,7,7,Tidak,1
+27,Laki-laki,33.3,Mantan Perokok,Sedang,5,Sedang,Jarang,Jarang,1,Tidak Pernah,12,2,Ya,1
+64,Laki-laki,30.7,Perokok Aktif,Sedang,6,Tinggi,Sering,Sering,1,Sesekali,1,7,Tidak,1
+29,Laki-laki,19.3,Tidak Merokok,Rendah,6,Rendah,Jarang,Jarang,1,Sesekali,12,0,Tidak,1
+33,Perempuan,33.2,Tidak Merokok,Sedang,7,Sedang,Kadang,Jarang,2,Sesekali,14,1,Tidak,0
+41,Laki-laki,31.5,Tidak Merokok,Tinggi,4,Sedang,Sering,Kadang,5,Mingguan,4,2,Tidak,0
+36,Laki-laki,20.7,Tidak Merokok,Sedang,4,Sedang,Kadang,Sering,2,Harian,9,7,Tidak,1
+25,Laki-laki,18.9,Mantan Perokok,Sedang,8,Rendah,Sangat Sering,Kadang,1,Tidak Pernah,7,2,Tidak,0
+48,Laki-laki,27.5,Perokok Aktif,Sedang,9,Rendah,Tidak Pernah,Sering,2,Tidak Pernah,2,2,Tidak,0
+38,Laki-laki,20.7,Tidak Merokok,Tinggi,6,Sedang,Kadang,Kadang,1,Tidak Pernah,6,4,Ya,0
+34,Perempuan,32.2,Perokok Aktif,Tinggi,6,Sedang,Kadang,Jarang,1,Sesekali,2,1,Ya,1
+40,Perempuan,24.1,Tidak Merokok,Rendah,5,Sedang,Kadang,Sangat Sering,1,Tidak Pernah,14,6,Ya,1
+54,Perempuan,33.5,Tidak Merokok,Sedang,4,Rendah,Sering,Kadang,5,Sesekali,5,0,Ya,1
+33,Perempuan,27.6,Mantan Perokok,Sedang,5,Sedang,Sering,Sering,3,Tidak Pernah,1,2,Ya,1
+23,Perempuan,21.1,Tidak Merokok,Sedang,7,Sedang,Sering,Sering,2,Sesekali,5,1,Tidak,0
+25,Perempuan,20.4,Tidak Merokok,Rendah,8,Sedang,Jarang,Sangat Sering,0,Mingguan,5,6,Tidak,0
+42,Perempuan,27.8,Mantan Perokok,Tinggi,5,Sedang,Jarang,Tidak Pernah,1,Sesekali,7,5,Tidak,0
+35,Laki-laki,31.0,Perokok Aktif,Rendah,4,Rendah,Kadang,Jarang,5,Sesekali,4,4,Ya,1
+42,Perempuan,31.3,Tidak Merokok,Sedang,7,Rendah,Kadang,Sering,0,Tidak Pernah,13,4,Ya,0
+29,Laki-laki,22.7,Tidak Merokok,Sedang,6,Rendah,Sangat Sering,Kadang,3,Tidak Pernah,0,5,Ya,0
+32,Laki-laki,21.5,Perokok Aktif,Rendah,7,Sedang,Jarang,Kadang,2,Sesekali,14,1,Tidak,0
+43,Perempuan,18.3,Perokok Aktif,Tinggi,9,Rendah,Jarang,Jarang,5,Sesekali,7,0,Tidak,0
+58,Laki-laki,29.5,Mantan Perokok,Tinggi,5,Sedang,Kadang,Jarang,1,Harian,11,1,Tidak,1
+62,Laki-laki,19.3,Tidak Merokok,Sedang,4,Sedang,Sering,Kadang,1,Harian,8,1,Tidak,1
+43,Laki-laki,25.2,Perokok Aktif,Sedang,5,Sedang,Sangat Sering,Jarang,1,Mingguan,0,3,Tidak,1
+64,Laki-laki,28.2,Tidak Merokok,Rendah,6,Sedang,Jarang,Jarang,5,Tidak Pernah,4,6,Ya,0
+49,Perempuan,33.9,Mantan Perokok,Sedang,6,Rendah,Tidak Pernah,Tidak Pernah,0,Sesekali,11,4,Tidak,0
+27,Perempuan,23.3,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,3,Tidak Pernah,5,0,Tidak,0
+33,Perempuan,22.2,Mantan Perokok,Sedang,9,Tinggi,Jarang,Sering,2,Tidak Pernah,3,3,Tidak,0
+24,Perempuan,29.1,Tidak Merokok,Tinggi,8,Sedang,Sangat Sering,Sering,3,Tidak Pernah,13,5,Ya,1
+34,Perempuan,28.5,Tidak Merokok,Rendah,7,Tinggi,Kadang,Tidak Pernah,1,Tidak Pernah,10,1,Ya,0
+40,Perempuan,23.6,Tidak Merokok,Tinggi,7,Tinggi,Jarang,Jarang,3,Tidak Pernah,1,5,Ya,0
+43,Perempuan,33.8,Tidak Merokok,Rendah,6,Sedang,Jarang,Kadang,0,Sesekali,4,4,Tidak,0
+38,Perempuan,32.4,Mantan Perokok,Tinggi,5,Rendah,Jarang,Jarang,4,Harian,13,3,Tidak,1
+39,Perempuan,21.8,Perokok Aktif,Rendah,5,Sedang,Sering,Sering,4,Tidak Pernah,13,6,Tidak,0
+24,Perempuan,22.1,Perokok Aktif,Sedang,9,Rendah,Tidak Pernah,Sering,2,Harian,3,3,Tidak,0
+31,Laki-laki,26.7,Tidak Merokok,Rendah,8,Sedang,Jarang,Sering,2,Tidak Pernah,12,0,Ya,0
+32,Perempuan,31.2,Mantan Perokok,Tinggi,5,Tinggi,Sangat Sering,Kadang,3,Tidak Pernah,6,6,Tidak,1
+24,Laki-laki,18.7,Mantan Perokok,Sedang,7,Tinggi,Jarang,Kadang,2,Sesekali,5,1,Ya,0
+26,Laki-laki,29.8,Tidak Merokok,Rendah,5,Sedang,Sering,Kadang,5,Sesekali,2,7,Tidak,1
+65,Laki-laki,29.0,Tidak Merokok,Sedang,8,Sedang,Jarang,Tidak Pernah,0,Tidak Pernah,8,7,Tidak,0
+25,Laki-laki,21.9,Mantan Perokok,Sedang,7,Sedang,Kadang,Tidak Pernah,1,Tidak Pernah,13,0,Tidak,0
+40,Perempuan,29.6,Perokok Aktif,Sedang,5,Tinggi,Tidak Pernah,Tidak Pernah,1,Sesekali,3,3,Tidak,0
+46,Laki-laki,34.0,Mantan Perokok,Tinggi,7,Tinggi,Jarang,Kadang,3,Tidak Pernah,14,6,Tidak,1
+35,Perempuan,18.8,Tidak Merokok,Sedang,6,Tinggi,Kadang,Jarang,1,Sesekali,10,3,Tidak,0
+48,Perempuan,23.4,Tidak Merokok,Rendah,6,Rendah,Jarang,Jarang,3,Sesekali,4,0,Ya,0
+47,Laki-laki,25.4,Tidak Merokok,Rendah,9,Sedang,Kadang,Kadang,2,Tidak Pernah,13,3,Tidak,0
+56,Perempuan,33.3,Perokok Aktif,Sedang,6,Rendah,Jarang,Sangat Sering,2,Mingguan,2,6,Tidak,1
+52,Laki-laki,34.4,Mantan Perokok,Sedang,5,Rendah,Kadang,Jarang,5,Tidak Pernah,7,2,Tidak,0
+35,Laki-laki,25.5,Tidak Merokok,Sedang,8,Tinggi,Sangat Sering,Kadang,5,Sesekali,10,4,Tidak,1
+59,Perempuan,30.8,Perokok Aktif,Rendah,7,Tinggi,Tidak Pernah,Jarang,0,Mingguan,6,1,Tidak,1
+56,Perempuan,27.0,Tidak Merokok,Sedang,4,Rendah,Jarang,Sangat Sering,1,Harian,10,4,Tidak,1
+34,Laki-laki,27.1,Perokok Aktif,Tinggi,6,Rendah,Sering,Jarang,5,Sesekali,10,1,Ya,0
+31,Perempuan,22.7,Tidak Merokok,Rendah,6,Rendah,Kadang,Sering,0,Sesekali,14,6,Tidak,0
+48,Perempuan,21.7,Tidak Merokok,Sedang,4,Tinggi,Tidak Pernah,Jarang,4,Tidak Pernah,6,3,Tidak,0
+41,Perempuan,22.9,Tidak Merokok,Tinggi,4,Rendah,Kadang,Sering,5,Sesekali,7,7,Tidak,0
+52,Laki-laki,27.5,Tidak Merokok,Sedang,5,Rendah,Jarang,Jarang,0,Sesekali,6,6,Ya,0
+61,Laki-laki,18.5,Tidak Merokok,Rendah,7,Rendah,Jarang,Jarang,3,Tidak Pernah,2,0,Tidak,0
+62,Perempuan,33.4,Mantan Perokok,Sedang,6,Sedang,Sangat Sering,Jarang,3,Mingguan,2,7,Ya,1
+51,Perempuan,20.7,Mantan Perokok,Tinggi,8,Tinggi,Sering,Jarang,0,Tidak Pernah,1,0,Tidak,0
+20,Perempuan,21.7,Mantan Perokok,Rendah,5,Rendah,Kadang,Sering,2,Mingguan,12,3,Ya,1
+54,Perempuan,26.8,Tidak Merokok,Sedang,5,Sedang,Jarang,Kadang,4,Mingguan,0,1,Tidak,0
+60,Perempuan,30.1,Tidak Merokok,Rendah,8,Rendah,Tidak Pernah,Kadang,0,Sesekali,4,3,Ya,0
+57,Laki-laki,19.6,Tidak Merokok,Sedang,8,Sedang,Sering,Sangat Sering,5,Sesekali,11,1,Ya,1
+43,Perempuan,23.4,Mantan Perokok,Sedang,9,Sedang,Tidak Pernah,Kadang,2,Tidak Pernah,3,3,Tidak,0
+40,Laki-laki,34.5,Tidak Merokok,Sedang,8,Rendah,Jarang,Sangat Sering,0,Harian,14,7,Ya,1
+61,Perempuan,22.5,Perokok Aktif,Rendah,4,Rendah,Jarang,Jarang,1,Tidak Pernah,12,3,Ya,1
+56,Laki-laki,23.3,Mantan Perokok,Sedang,6,Tinggi,Kadang,Sangat Sering,5,Sesekali,10,3,Ya,1
+32,Perempuan,32.2,Tidak Merokok,Sedang,9,Rendah,Jarang,Tidak Pernah,5,Sesekali,1,7,Tidak,0
+21,Laki-laki,18.9,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,3,Harian,0,0,Tidak,0
+46,Perempuan,25.9,Tidak Merokok,Sedang,9,Sedang,Sering,Kadang,1,Mingguan,13,1,Ya,1
+39,Laki-laki,24.5,Tidak Merokok,Sedang,6,Rendah,Kadang,Kadang,1,Sesekali,13,5,Tidak,0
+42,Laki-laki,23.4,Perokok Aktif,Tinggi,9,Sedang,Tidak Pernah,Kadang,5,Tidak Pernah,2,3,Ya,0
+30,Laki-laki,22.9,Perokok Aktif,Sedang,4,Tinggi,Sering,Kadang,4,Tidak Pernah,12,4,Tidak,1
+35,Laki-laki,19.6,Tidak Merokok,Sedang,7,Sedang,Jarang,Sangat Sering,2,Tidak Pernah,5,4,Tidak,0
+50,Laki-laki,23.4,Mantan Perokok,Tinggi,6,Rendah,Kadang,Sangat Sering,3,Mingguan,12,6,Tidak,1
+33,Laki-laki,18.7,Mantan Perokok,Rendah,5,Sedang,Kadang,Sangat Sering,1,Sesekali,1,6,Tidak,1
+62,Perempuan,31.3,Mantan Perokok,Rendah,6,Sedang,Jarang,Sangat Sering,3,Mingguan,9,0,Ya,1
+59,Laki-laki,24.8,Tidak Merokok,Sedang,6,Sedang,Jarang,Sering,5,Sesekali,14,2,Ya,1
+61,Perempuan,25.5,Tidak Merokok,Sedang,6,Sedang,Sering,Sangat Sering,2,Sesekali,12,5,Tidak,1
+19,Perempuan,33.2,Tidak Merokok,Tinggi,7,Rendah,Sangat Sering,Sering,0,Tidak Pernah,6,0,Ya,0
+52,Perempuan,29.2,Perokok Aktif,Tinggi,4,Sedang,Kadang,Kadang,1,Tidak Pernah,10,2,Ya,1
+59,Perempuan,18.1,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Sering,2,Tidak Pernah,6,0,Ya,0
+51,Perempuan,34.0,Tidak Merokok,Sedang,4,Sedang,Jarang,Sangat Sering,3,Sesekali,10,6,Tidak,1
+47,Laki-laki,22.0,Perokok Aktif,Sedang,9,Sedang,Jarang,Sering,5,Tidak Pernah,2,4,Tidak,0
+30,Laki-laki,19.8,Mantan Perokok,Rendah,9,Rendah,Jarang,Kadang,2,Sesekali,13,3,Ya,0
+30,Laki-laki,31.1,Perokok Aktif,Tinggi,9,Sedang,Kadang,Tidak Pernah,0,Sesekali,0,1,Ya,0
+35,Perempuan,26.5,Tidak Merokok,Tinggi,4,Tinggi,Kadang,Sering,2,Sesekali,8,6,Tidak,1
+49,Laki-laki,25.4,Tidak Merokok,Sedang,8,Sedang,Tidak Pernah,Sangat Sering,5,Tidak Pernah,10,3,Ya,1
+49,Laki-laki,22.2,Perokok Aktif,Rendah,7,Sedang,Jarang,Kadang,3,Tidak Pernah,4,4,Tidak,0
+52,Laki-laki,27.3,Tidak Merokok,Rendah,8,Sedang,Kadang,Jarang,1,Tidak Pernah,1,7,Ya,1
+56,Laki-laki,22.7,Tidak Merokok,Rendah,9,Tinggi,Jarang,Jarang,1,Sesekali,14,1,Tidak,0
+63,Laki-laki,33.3,Tidak Merokok,Tinggi,7,Tinggi,Sangat Sering,Kadang,4,Tidak Pernah,7,2,Ya,1
+46,Perempuan,21.7,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,3,Mingguan,11,2,Ya,1
+46,Laki-laki,33.0,Tidak Merokok,Tinggi,9,Rendah,Sering,Kadang,4,Mingguan,9,4,Tidak,0
+61,Perempuan,27.5,Perokok Aktif,Sedang,4,Tinggi,Sering,Sangat Sering,4,Tidak Pernah,9,1,Tidak,1
+33,Perempuan,32.1,Perokok Aktif,Sedang,7,Sedang,Sering,Sering,5,Sesekali,3,3,Tidak,1
+61,Perempuan,30.1,Perokok Aktif,Sedang,4,Sedang,Tidak Pernah,Kadang,5,Sesekali,10,4,Tidak,1
+64,Perempuan,29.8,Tidak Merokok,Sedang,4,Tinggi,Sangat Sering,Sangat Sering,5,Sesekali,9,2,Ya,1
+27,Perempuan,23.5,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Kadang,0,Tidak Pernah,11,7,Ya,0
+47,Laki-laki,22.0,Tidak Merokok,Tinggi,8,Rendah,Tidak Pernah,Jarang,3,Tidak Pernah,6,4,Ya,0
+42,Laki-laki,21.6,Perokok Aktif,Sedang,8,Tinggi,Kadang,Kadang,1,Tidak Pernah,13,7,Ya,1
+56,Laki-laki,32.6,Tidak Merokok,Sedang,8,Sedang,Jarang,Sering,3,Tidak Pernah,12,3,Tidak,1
+37,Perempuan,31.9,Mantan Perokok,Sedang,6,Sedang,Jarang,Sering,5,Mingguan,4,0,Tidak,0
+22,Laki-laki,25.5,Mantan Perokok,Rendah,5,Rendah,Jarang,Sangat Sering,0,Sesekali,12,7,Tidak,0
+18,Laki-laki,20.3,Tidak Merokok,Sedang,9,Sedang,Jarang,Jarang,3,Harian,2,7,Tidak,0
+47,Perempuan,24.5,Tidak Merokok,Tinggi,9,Rendah,Kadang,Jarang,3,Tidak Pernah,9,5,Tidak,0
+20,Perempuan,28.5,Perokok Aktif,Rendah,9,Sedang,Jarang,Tidak Pernah,4,Tidak Pernah,7,5,Tidak,0
+62,Perempuan,25.7,Perokok Aktif,Rendah,8,Sedang,Kadang,Sering,3,Sesekali,1,6,Ya,1
+31,Perempuan,31.3,Tidak Merokok,Rendah,8,Tinggi,Sangat Sering,Sering,4,Tidak Pernah,0,5,Tidak,1
+47,Laki-laki,35.0,Tidak Merokok,Sedang,5,Sedang,Kadang,Kadang,4,Tidak Pernah,4,0,Tidak,0
+21,Perempuan,21.2,Perokok Aktif,Rendah,4,Tinggi,Kadang,Kadang,2,Sesekali,10,3,Ya,1
+35,Perempuan,25.8,Tidak Merokok,Sedang,8,Tinggi,Sangat Sering,Sangat Sering,5,Tidak Pernah,3,6,Ya,1
+54,Laki-laki,25.3,Tidak Merokok,Rendah,9,Sedang,Tidak Pernah,Sangat Sering,0,Sesekali,10,1,Tidak,1
+42,Laki-laki,23.2,Tidak Merokok,Rendah,4,Rendah,Kadang,Jarang,4,Tidak Pernah,9,7,Tidak,0
+65,Perempuan,21.4,Tidak Merokok,Sedang,8,Tinggi,Sering,Sering,3,Sesekali,14,4,Ya,1
+18,Laki-laki,19.1,Tidak Merokok,Rendah,7,Sedang,Sangat Sering,Kadang,4,Mingguan,6,3,Tidak,1
+63,Perempuan,33.1,Tidak Merokok,Tinggi,6,Rendah,Kadang,Jarang,4,Tidak Pernah,14,0,Ya,0
+32,Perempuan,25.1,Tidak Merokok,Rendah,8,Rendah,Tidak Pernah,Kadang,4,Harian,12,7,Tidak,0
+26,Laki-laki,26.4,Tidak Merokok,Sedang,7,Tinggi,Sangat Sering,Jarang,1,Sesekali,8,6,Ya,1
+32,Laki-laki,33.6,Perokok Aktif,Rendah,5,Rendah,Jarang,Jarang,1,Harian,5,2,Ya,1
+41,Perempuan,31.2,Perokok Aktif,Sedang,7,Rendah,Jarang,Kadang,1,Tidak Pernah,10,5,Tidak,0
+21,Perempuan,20.2,Perokok Aktif,Tinggi,5,Sedang,Jarang,Kadang,1,Sesekali,0,5,Tidak,0
+29,Perempuan,27.6,Mantan Perokok,Tinggi,8,Tinggi,Kadang,Kadang,2,Tidak Pernah,14,3,Tidak,0
+54,Laki-laki,25.5,Tidak Merokok,Rendah,5,Sedang,Sering,Kadang,4,Mingguan,7,7,Ya,1
+54,Perempuan,31.6,Tidak Merokok,Sedang,7,Rendah,Sering,Tidak Pernah,2,Sesekali,1,5,Tidak,0
+60,Perempuan,30.3,Perokok Aktif,Sedang,6,Rendah,Sering,Sering,3,Sesekali,3,5,Ya,1
+23,Perempuan,29.7,Tidak Merokok,Rendah,4,Sedang,Tidak Pernah,Kadang,5,Harian,2,7,Ya,1
+56,Perempuan,23.8,Tidak Merokok,Rendah,4,Rendah,Kadang,Kadang,0,Tidak Pernah,5,3,Tidak,0
+63,Perempuan,31.7,Mantan Perokok,Tinggi,6,Sedang,Sering,Sangat Sering,2,Tidak Pernah,1,3,Tidak,1
+41,Laki-laki,18.9,Tidak Merokok,Tinggi,9,Rendah,Kadang,Jarang,1,Sesekali,4,6,Ya,0
+28,Perempuan,20.7,Tidak Merokok,Tinggi,4,Tinggi,Sangat Sering,Kadang,1,Sesekali,10,0,Ya,1
+30,Perempuan,23.7,Perokok Aktif,Tinggi,8,Sedang,Sering,Kadang,3,Tidak Pernah,8,0,Tidak,0
+51,Perempuan,19.3,Perokok Aktif,Sedang,9,Rendah,Kadang,Sering,4,Sesekali,14,5,Tidak,1
+42,Perempuan,22.0,Tidak Merokok,Rendah,8,Tinggi,Tidak Pernah,Sering,0,Harian,2,6,Tidak,1
+24,Laki-laki,32.1,Perokok Aktif,Rendah,7,Rendah,Kadang,Jarang,2,Sesekali,1,3,Tidak,0
+21,Laki-laki,34.1,Mantan Perokok,Rendah,7,Sedang,Sangat Sering,Sering,4,Tidak Pernah,1,3,Tidak,1
+25,Laki-laki,23.2,Mantan Perokok,Sedang,9,Tinggi,Jarang,Tidak Pernah,4,Tidak Pernah,14,5,Tidak,0
+37,Perempuan,22.5,Tidak Merokok,Tinggi,9,Sedang,Sering,Sangat Sering,5,Harian,8,1,Tidak,0
+46,Perempuan,22.8,Tidak Merokok,Tinggi,9,Sedang,Jarang,Jarang,5,Sesekali,5,2,Ya,0
+62,Laki-laki,22.7,Mantan Perokok,Tinggi,9,Sedang,Kadang,Sering,2,Harian,1,4,Tidak,0
+63,Laki-laki,18.6,Perokok Aktif,Tinggi,5,Rendah,Kadang,Jarang,2,Tidak Pernah,2,4,Ya,1
+27,Laki-laki,33.8,Mantan Perokok,Tinggi,9,Rendah,Kadang,Kadang,2,Sesekali,14,7,Tidak,0
+60,Perempuan,21.6,Tidak Merokok,Rendah,9,Tinggi,Sering,Sangat Sering,2,Sesekali,13,5,Ya,1
+51,Perempuan,25.1,Tidak Merokok,Tinggi,7,Sedang,Jarang,Sering,1,Tidak Pernah,0,6,Tidak,0
+43,Laki-laki,18.2,Perokok Aktif,Sedang,8,Rendah,Jarang,Jarang,4,Sesekali,1,7,Tidak,0
+58,Laki-laki,32.6,Tidak Merokok,Rendah,7,Rendah,Sering,Kadang,4,Sesekali,14,4,Tidak,1
+20,Laki-laki,30.4,Tidak Merokok,Tinggi,4,Tinggi,Jarang,Jarang,1,Sesekali,1,0,Tidak,0
+23,Perempuan,34.1,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Kadang,4,Mingguan,10,6,Ya,1
+22,Perempuan,31.3,Tidak Merokok,Rendah,5,Sedang,Tidak Pernah,Jarang,2,Mingguan,1,7,Tidak,0
+22,Perempuan,23.3,Mantan Perokok,Rendah,8,Tinggi,Tidak Pernah,Jarang,0,Mingguan,6,6,Ya,0
+64,Laki-laki,22.2,Mantan Perokok,Sedang,9,Tinggi,Kadang,Kadang,5,Mingguan,2,7,Ya,1
+40,Laki-laki,29.9,Tidak Merokok,Sedang,7,Rendah,Sering,Jarang,5,Sesekali,12,0,Ya,0
+26,Perempuan,24.2,Tidak Merokok,Tinggi,4,Rendah,Tidak Pernah,Kadang,4,Tidak Pernah,14,1,Ya,0
+52,Laki-laki,27.6,Perokok Aktif,Rendah,7,Rendah,Jarang,Jarang,0,Mingguan,13,5,Tidak,1
+37,Perempuan,18.1,Tidak Merokok,Rendah,9,Tinggi,Tidak Pernah,Jarang,5,Sesekali,10,0,Tidak,0
+59,Laki-laki,19.1,Tidak Merokok,Rendah,9,Tinggi,Kadang,Sering,0,Tidak Pernah,3,5,Tidak,0
+52,Laki-laki,27.1,Perokok Aktif,Rendah,6,Sedang,Tidak Pernah,Tidak Pernah,1,Sesekali,1,5,Ya,1
+35,Laki-laki,27.6,Tidak Merokok,Rendah,7,Rendah,Kadang,Kadang,3,Tidak Pernah,4,7,Ya,0
+34,Laki-laki,30.8,Perokok Aktif,Tinggi,8,Sedang,Sering,Kadang,4,Sesekali,13,6,Ya,1
+41,Perempuan,20.2,Tidak Merokok,Sedang,7,Tinggi,Kadang,Kadang,1,Tidak Pernah,8,3,Ya,0
+20,Laki-laki,26.7,Mantan Perokok,Sedang,5,Tinggi,Jarang,Sering,1,Tidak Pernah,11,2,Ya,0
+49,Perempuan,21.3,Tidak Merokok,Rendah,4,Rendah,Kadang,Kadang,0,Harian,8,2,Ya,1
+52,Perempuan,19.6,Perokok Aktif,Rendah,8,Sedang,Sangat Sering,Jarang,4,Mingguan,6,5,Tidak,1
+55,Perempuan,25.0,Tidak Merokok,Tinggi,6,Rendah,Jarang,Sering,1,Mingguan,11,2,Tidak,0
+30,Laki-laki,20.8,Tidak Merokok,Sedang,4,Tinggi,Jarang,Sangat Sering,2,Sesekali,7,2,Tidak,1
+64,Perempuan,21.8,Perokok Aktif,Tinggi,4,Sedang,Kadang,Tidak Pernah,1,Mingguan,12,4,Ya,1
+42,Perempuan,23.4,Tidak Merokok,Sedang,5,Rendah,Jarang,Kadang,2,Mingguan,13,6,Tidak,0
+26,Perempuan,22.4,Tidak Merokok,Rendah,5,Tinggi,Kadang,Jarang,3,Sesekali,4,4,Tidak,1
+21,Laki-laki,19.5,Tidak Merokok,Sedang,5,Rendah,Sering,Jarang,2,Harian,4,3,Ya,1
+31,Laki-laki,19.5,Mantan Perokok,Rendah,8,Tinggi,Kadang,Jarang,2,Tidak Pernah,11,1,Ya,0
+54,Perempuan,21.3,Tidak Merokok,Tinggi,7,Rendah,Kadang,Kadang,0,Harian,2,6,Ya,0
+51,Laki-laki,18.9,Tidak Merokok,Rendah,4,Sedang,Kadang,Jarang,1,Tidak Pernah,5,0,Ya,0
+28,Perempuan,28.6,Mantan Perokok,Sedang,7,Tinggi,Tidak Pernah,Sangat Sering,3,Sesekali,0,7,Tidak,1
+58,Perempuan,22.9,Tidak Merokok,Rendah,7,Sedang,Jarang,Kadang,1,Tidak Pernah,2,7,Ya,0
+20,Laki-laki,22.8,Perokok Aktif,Sedang,5,Sedang,Sering,Jarang,2,Sesekali,10,7,Tidak,1
+45,Perempuan,23.6,Perokok Aktif,Tinggi,7,Sedang,Sangat Sering,Sering,5,Sesekali,1,0,Ya,1
+46,Laki-laki,29.3,Mantan Perokok,Sedang,4,Rendah,Sering,Tidak Pernah,2,Harian,6,4,Tidak,1
+26,Laki-laki,32.8,Perokok Aktif,Sedang,4,Sedang,Sangat Sering,Kadang,1,Harian,8,5,Ya,1
+20,Perempuan,30.9,Mantan Perokok,Tinggi,9,Tinggi,Jarang,Kadang,3,Harian,3,2,Tidak,1
+42,Laki-laki,30.4,Tidak Merokok,Sedang,6,Tinggi,Jarang,Jarang,5,Tidak Pernah,6,3,Ya,1
+51,Laki-laki,26.2,Perokok Aktif,Rendah,8,Tinggi,Jarang,Jarang,3,Harian,7,1,Ya,0
+29,Perempuan,29.8,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Tidak Pernah,0,Sesekali,9,4,Tidak,1
+59,Perempuan,27.4,Tidak Merokok,Sedang,8,Tinggi,Sering,Jarang,2,Mingguan,1,5,Tidak,1
+26,Laki-laki,21.7,Perokok Aktif,Sedang,8,Tinggi,Sangat Sering,Jarang,2,Tidak Pernah,6,3,Ya,1
+32,Laki-laki,21.5,Tidak Merokok,Rendah,8,Sedang,Sering,Sangat Sering,0,Sesekali,12,7,Tidak,1
+57,Perempuan,23.0,Perokok Aktif,Rendah,9,Rendah,Kadang,Tidak Pernah,1,Harian,11,5,Tidak,0
+42,Laki-laki,33.5,Tidak Merokok,Tinggi,8,Sedang,Jarang,Jarang,2,Harian,2,3,Tidak,0
+22,Laki-laki,27.3,Mantan Perokok,Rendah,9,Tinggi,Jarang,Sangat Sering,1,Sesekali,7,4,Ya,1
+28,Laki-laki,30.5,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,3,Mingguan,5,3,Tidak,0
+51,Laki-laki,23.9,Mantan Perokok,Rendah,7,Tinggi,Kadang,Kadang,5,Tidak Pernah,2,6,Ya,1
+41,Laki-laki,24.9,Perokok Aktif,Tinggi,9,Rendah,Kadang,Tidak Pernah,5,Sesekali,7,2,Ya,0
+32,Laki-laki,20.1,Mantan Perokok,Rendah,6,Tinggi,Sangat Sering,Sering,5,Sesekali,10,3,Ya,1
+55,Laki-laki,20.9,Tidak Merokok,Sedang,8,Sedang,Sering,Jarang,4,Tidak Pernah,12,1,Tidak,0
+25,Perempuan,32.1,Tidak Merokok,Rendah,6,Sedang,Tidak Pernah,Sering,0,Tidak Pernah,2,3,Tidak,0
+22,Perempuan,27.9,Tidak Merokok,Sedang,4,Rendah,Tidak Pernah,Sangat Sering,5,Tidak Pernah,8,6,Tidak,0
+65,Perempuan,23.7,Mantan Perokok,Tinggi,4,Rendah,Kadang,Kadang,2,Sesekali,10,0,Tidak,0
+43,Perempuan,31.6,Perokok Aktif,Sedang,5,Tinggi,Jarang,Jarang,0,Tidak Pernah,2,6,Tidak,0
+35,Perempuan,22.2,Tidak Merokok,Sedang,8,Tinggi,Sering,Kadang,3,Sesekali,0,3,Tidak,0
+23,Laki-laki,34.6,Mantan Perokok,Sedang,5,Sedang,Kadang,Kadang,3,Tidak Pernah,12,7,Tidak,1
+54,Laki-laki,23.9,Perokok Aktif,Rendah,6,Rendah,Jarang,Kadang,3,Sesekali,1,5,Tidak,0
+65,Laki-laki,23.7,Tidak Merokok,Tinggi,7,Sedang,Kadang,Kadang,3,Sesekali,3,7,Ya,0
+30,Laki-laki,23.3,Mantan Perokok,Rendah,5,Rendah,Kadang,Sering,4,Sesekali,12,7,Tidak,1
+45,Perempuan,20.1,Perokok Aktif,Sedang,4,Rendah,Sering,Kadang,1,Sesekali,10,4,Tidak,0
+22,Laki-laki,19.9,Tidak Merokok,Rendah,8,Tinggi,Tidak Pernah,Sangat Sering,1,Sesekali,1,0,Tidak,0
+30,Laki-laki,29.0,Tidak Merokok,Rendah,6,Tinggi,Sering,Sering,5,Tidak Pernah,3,4,Tidak,1
+34,Perempuan,32.9,Tidak Merokok,Rendah,9,Rendah,Kadang,Jarang,4,Mingguan,3,5,Tidak,0
+57,Laki-laki,31.4,Perokok Aktif,Sedang,4,Sedang,Sering,Sering,1,Tidak Pernah,3,1,Tidak,0
+62,Laki-laki,20.4,Perokok Aktif,Sedang,9,Rendah,Tidak Pernah,Jarang,3,Tidak Pernah,0,2,Tidak,0
+49,Perempuan,27.3,Perokok Aktif,Sedang,7,Rendah,Kadang,Sering,1,Sesekali,8,1,Ya,1
+46,Laki-laki,19.8,Tidak Merokok,Rendah,8,Rendah,Kadang,Jarang,0,Tidak Pernah,9,0,Ya,0
+20,Laki-laki,18.8,Tidak Merokok,Rendah,7,Sedang,Kadang,Kadang,5,Mingguan,10,5,Tidak,1
+57,Laki-laki,29.2,Tidak Merokok,Tinggi,7,Rendah,Sering,Sering,1,Tidak Pernah,6,7,Ya,0
+51,Laki-laki,27.1,Tidak Merokok,Tinggi,8,Sedang,Kadang,Jarang,0,Sesekali,1,5,Tidak,0
+57,Laki-laki,19.4,Mantan Perokok,Rendah,8,Rendah,Sering,Sering,2,Tidak Pernah,2,7,Ya,0
+44,Perempuan,18.6,Perokok Aktif,Sedang,9,Rendah,Jarang,Kadang,0,Tidak Pernah,12,2,Tidak,0
+30,Perempuan,34.8,Perokok Aktif,Sedang,7,Rendah,Sering,Kadang,0,Tidak Pernah,7,3,Ya,1
+62,Perempuan,18.5,Mantan Perokok,Tinggi,6,Tinggi,Jarang,Kadang,3,Mingguan,6,0,Tidak,0
+50,Perempuan,25.6,Tidak Merokok,Tinggi,9,Tinggi,Sering,Sangat Sering,3,Harian,3,2,Tidak,0
+23,Perempuan,26.6,Tidak Merokok,Tinggi,8,Tinggi,Sangat Sering,Jarang,5,Sesekali,3,6,Tidak,1
+41,Perempuan,20.0,Tidak Merokok,Tinggi,4,Sedang,Jarang,Sering,3,Mingguan,8,6,Ya,1
+36,Laki-laki,20.9,Perokok Aktif,Rendah,9,Sedang,Kadang,Sering,0,Sesekali,14,4,Tidak,1
+33,Perempuan,24.0,Perokok Aktif,Tinggi,5,Sedang,Kadang,Sangat Sering,4,Harian,4,7,Tidak,1
+57,Perempuan,30.9,Tidak Merokok,Sedang,6,Rendah,Tidak Pernah,Sering,3,Mingguan,13,2,Ya,1
+45,Laki-laki,26.6,Tidak Merokok,Rendah,9,Tinggi,Kadang,Kadang,3,Tidak Pernah,12,4,Ya,1
+50,Laki-laki,28.8,Tidak Merokok,Sedang,8,Sedang,Jarang,Sangat Sering,0,Sesekali,10,6,Ya,1
+65,Perempuan,34.7,Tidak Merokok,Tinggi,8,Sedang,Sering,Sering,2,Sesekali,4,6,Ya,0
+58,Laki-laki,31.1,Tidak Merokok,Tinggi,6,Sedang,Sering,Sering,2,Tidak Pernah,14,4,Ya,1
+30,Perempuan,25.4,Tidak Merokok,Rendah,5,Sedang,Sering,Tidak Pernah,1,Tidak Pernah,6,5,Ya,1
+60,Laki-laki,25.6,Tidak Merokok,Sedang,9,Tinggi,Kadang,Kadang,5,Harian,0,2,Tidak,1
+62,Perempuan,28.5,Perokok Aktif,Tinggi,9,Sedang,Sering,Kadang,2,Harian,2,5,Tidak,0
+42,Laki-laki,29.3,Mantan Perokok,Rendah,7,Sedang,Jarang,Kadang,3,Mingguan,1,6,Tidak,0
+59,Laki-laki,26.5,Tidak Merokok,Sedang,4,Sedang,Kadang,Jarang,4,Harian,10,5,Tidak,1
+53,Perempuan,29.0,Tidak Merokok,Sedang,8,Tinggi,Kadang,Jarang,1,Mingguan,9,7,Tidak,0
+44,Perempuan,18.4,Tidak Merokok,Sedang,9,Sedang,Sangat Sering,Kadang,5,Tidak Pernah,5,1,Tidak,0
+55,Perempuan,25.3,Tidak Merokok,Rendah,9,Sedang,Sering,Jarang,4,Tidak Pernah,10,1,Ya,1
+24,Perempuan,22.7,Tidak Merokok,Sedang,9,Rendah,Kadang,Jarang,4,Tidak Pernah,11,5,Ya,0
+22,Perempuan,20.2,Tidak Merokok,Tinggi,5,Tinggi,Sering,Kadang,3,Tidak Pernah,5,5,Tidak,0
+60,Laki-laki,19.7,Mantan Perokok,Sedang,4,Rendah,Jarang,Sering,0,Tidak Pernah,9,7,Tidak,0
+62,Perempuan,28.3,Perokok Aktif,Tinggi,9,Sedang,Sering,Kadang,0,Sesekali,0,4,Tidak,0
+48,Perempuan,26.9,Tidak Merokok,Sedang,6,Tinggi,Kadang,Jarang,0,Mingguan,13,5,Ya,1
+40,Laki-laki,22.3,Perokok Aktif,Rendah,8,Tinggi,Jarang,Jarang,2,Mingguan,13,0,Tidak,0
+59,Laki-laki,26.0,Tidak Merokok,Sedang,7,Sedang,Kadang,Kadang,0,Sesekali,5,2,Ya,0
+27,Perempuan,26.4,Tidak Merokok,Rendah,6,Tinggi,Kadang,Sering,5,Harian,9,0,Ya,1
+49,Laki-laki,21.3,Mantan Perokok,Tinggi,8,Rendah,Kadang,Sering,3,Sesekali,1,1,Tidak,0
+60,Laki-laki,29.1,Mantan Perokok,Rendah,5,Tinggi,Kadang,Jarang,2,Mingguan,10,0,Tidak,1
+47,Perempuan,31.3,Perokok Aktif,Sedang,4,Sedang,Kadang,Kadang,5,Sesekali,3,3,Tidak,1
+56,Laki-laki,31.5,Mantan Perokok,Sedang,4,Sedang,Sering,Sering,0,Tidak Pernah,5,3,Tidak,1
+48,Laki-laki,28.2,Perokok Aktif,Tinggi,8,Tinggi,Sering,Jarang,5,Harian,2,1,Tidak,1
+35,Perempuan,26.7,Perokok Aktif,Rendah,6,Tinggi,Jarang,Kadang,4,Tidak Pernah,2,0,Tidak,1
+53,Perempuan,19.0,Mantan Perokok,Rendah,7,Rendah,Sangat Sering,Kadang,3,Sesekali,11,2,Ya,1
+19,Laki-laki,22.9,Tidak Merokok,Rendah,5,Tinggi,Kadang,Jarang,3,Tidak Pernah,2,7,Ya,1
+31,Laki-laki,19.6,Mantan Perokok,Tinggi,8,Rendah,Sering,Tidak Pernah,5,Sesekali,3,1,Tidak,0
+30,Perempuan,34.4,Perokok Aktif,Rendah,5,Tinggi,Kadang,Kadang,1,Harian,8,3,Ya,1
+46,Laki-laki,20.3,Perokok Aktif,Rendah,4,Sedang,Jarang,Tidak Pernah,3,Tidak Pernah,3,1,Ya,1
+29,Laki-laki,20.6,Tidak Merokok,Rendah,9,Rendah,Tidak Pernah,Jarang,4,Mingguan,12,0,Ya,0
+56,Laki-laki,33.1,Perokok Aktif,Sedang,9,Sedang,Sering,Jarang,3,Tidak Pernah,3,0,Tidak,0
+19,Perempuan,34.0,Tidak Merokok,Rendah,7,Sedang,Kadang,Tidak Pernah,1,Tidak Pernah,3,0,Tidak,0
+49,Laki-laki,31.0,Tidak Merokok,Rendah,5,Sedang,Sering,Kadang,3,Tidak Pernah,6,4,Tidak,1
+30,Laki-laki,18.1,Tidak Merokok,Rendah,8,Rendah,Kadang,Jarang,3,Mingguan,4,0,Tidak,0
+63,Perempuan,18.0,Mantan Perokok,Sedang,7,Rendah,Jarang,Jarang,1,Tidak Pernah,11,5,Ya,0
+44,Laki-laki,24.4,Perokok Aktif,Sedang,6,Tinggi,Jarang,Sering,3,Sesekali,1,3,Tidak,1
+58,Laki-laki,20.4,Tidak Merokok,Sedang,9,Rendah,Sering,Kadang,5,Tidak Pernah,6,6,Tidak,0
+34,Perempuan,18.3,Tidak Merokok,Tinggi,8,Sedang,Jarang,Kadang,2,Tidak Pernah,2,3,Ya,0
+57,Perempuan,25.9,Tidak Merokok,Tinggi,5,Sedang,Sering,Tidak Pernah,5,Mingguan,10,4,Tidak,0
+48,Perempuan,34.0,Mantan Perokok,Sedang,7,Rendah,Jarang,Kadang,3,Tidak Pernah,0,3,Tidak,0
+51,Perempuan,23.5,Tidak Merokok,Tinggi,8,Sedang,Sering,Jarang,0,Tidak Pernah,8,3,Tidak,0
+41,Laki-laki,29.2,Tidak Merokok,Sedang,7,Sedang,Tidak Pernah,Tidak Pernah,0,Tidak Pernah,4,1,Ya,0
+62,Laki-laki,29.1,Tidak Merokok,Tinggi,7,Sedang,Jarang,Sering,2,Sesekali,9,6,Tidak,1
+52,Perempuan,22.3,Tidak Merokok,Sedang,7,Sedang,Kadang,Sangat Sering,3,Sesekali,0,6,Tidak,1
+65,Perempuan,29.1,Tidak Merokok,Sedang,5,Sedang,Kadang,Kadang,4,Tidak Pernah,10,0,Tidak,0
+23,Laki-laki,21.6,Mantan Perokok,Sedang,8,Sedang,Jarang,Tidak Pernah,3,Tidak Pernah,0,5,Ya,1
+36,Perempuan,20.1,Tidak Merokok,Tinggi,4,Tinggi,Sangat Sering,Sering,0,Tidak Pernah,0,5,Tidak,0
+47,Laki-laki,29.9,Mantan Perokok,Rendah,4,Rendah,Jarang,Tidak Pernah,1,Tidak Pernah,11,1,Tidak,0
+24,Perempuan,19.9,Tidak Merokok,Rendah,5,Tinggi,Kadang,Sering,2,Mingguan,8,5,Ya,1
+27,Laki-laki,34.9,Tidak Merokok,Sedang,5,Sedang,Jarang,Kadang,1,Mingguan,12,1,Ya,1
+58,Perempuan,21.1,Tidak Merokok,Rendah,9,Tinggi,Jarang,Kadang,4,Sesekali,7,6,Tidak,1
+49,Perempuan,28.1,Mantan Perokok,Sedang,7,Sedang,Kadang,Kadang,3,Tidak Pernah,10,6,Ya,1
+51,Laki-laki,25.0,Perokok Aktif,Rendah,8,Sedang,Jarang,Sangat Sering,4,Sesekali,12,7,Tidak,1
+45,Perempuan,20.1,Perokok Aktif,Rendah,8,Tinggi,Sering,Sering,1,Mingguan,14,6,Ya,1
+32,Laki-laki,18.5,Mantan Perokok,Tinggi,6,Rendah,Jarang,Kadang,3,Sesekali,12,5,Ya,0
+47,Laki-laki,28.6,Tidak Merokok,Sedang,6,Rendah,Sering,Sering,5,Mingguan,5,3,Tidak,0
+54,Laki-laki,31.7,Perokok Aktif,Sedang,4,Rendah,Jarang,Kadang,5,Sesekali,9,6,Ya,1
+46,Laki-laki,32.3,Mantan Perokok,Rendah,6,Tinggi,Jarang,Sering,4,Sesekali,14,7,Tidak,1
+39,Laki-laki,26.2,Tidak Merokok,Rendah,6,Sedang,Tidak Pernah,Sering,5,Tidak Pernah,14,2,Tidak,0
+21,Perempuan,31.2,Perokok Aktif,Tinggi,4,Sedang,Sering,Tidak Pernah,5,Sesekali,5,0,Tidak,0
+37,Perempuan,29.4,Tidak Merokok,Tinggi,9,Tinggi,Kadang,Jarang,0,Tidak Pernah,5,2,Tidak,0
+49,Laki-laki,30.3,Tidak Merokok,Sedang,4,Sedang,Sering,Sangat Sering,5,Mingguan,3,3,Tidak,1
+53,Perempuan,26.4,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Sangat Sering,0,Mingguan,4,4,Ya,1
+21,Laki-laki,28.8,Tidak Merokok,Tinggi,8,Sedang,Sering,Tidak Pernah,2,Mingguan,9,1,Tidak,0
+44,Perempuan,31.7,Tidak Merokok,Tinggi,6,Tinggi,Kadang,Jarang,0,Sesekali,2,7,Ya,0
+34,Perempuan,24.8,Tidak Merokok,Sedang,7,Rendah,Tidak Pernah,Sangat Sering,0,Tidak Pernah,2,5,Ya,0
+29,Perempuan,31.7,Tidak Merokok,Rendah,7,Rendah,Jarang,Kadang,1,Tidak Pernah,9,5,Tidak,0
+39,Perempuan,28.1,Tidak Merokok,Sedang,7,Sedang,Kadang,Kadang,0,Sesekali,6,3,Tidak,0
+34,Laki-laki,20.8,Mantan Perokok,Sedang,9,Sedang,Kadang,Jarang,0,Mingguan,4,5,Ya,1
+27,Laki-laki,18.4,Mantan Perokok,Rendah,5,Sedang,Tidak Pernah,Sering,1,Sesekali,7,3,Ya,1
+18,Perempuan,24.2,Tidak Merokok,Tinggi,7,Sedang,Sering,Jarang,0,Tidak Pernah,4,7,Tidak,0
+39,Perempuan,27.3,Tidak Merokok,Rendah,8,Rendah,Kadang,Jarang,5,Harian,11,2,Ya,1
+43,Laki-laki,32.3,Tidak Merokok,Sedang,9,Sedang,Kadang,Jarang,0,Harian,3,4,Tidak,0
+35,Perempuan,20.2,Perokok Aktif,Rendah,5,Sedang,Jarang,Sangat Sering,2,Tidak Pernah,13,1,Tidak,0
+31,Laki-laki,31.6,Tidak Merokok,Sedang,5,Rendah,Kadang,Sering,0,Sesekali,2,5,Ya,1
+64,Laki-laki,32.7,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Sering,0,Mingguan,11,4,Ya,1
+46,Laki-laki,20.6,Tidak Merokok,Tinggi,6,Sedang,Tidak Pernah,Kadang,2,Sesekali,1,4,Tidak,0
+29,Perempuan,32.5,Mantan Perokok,Sedang,4,Sedang,Sering,Sangat Sering,1,Harian,2,4,Tidak,1
+53,Laki-laki,34.9,Tidak Merokok,Tinggi,6,Rendah,Jarang,Sering,5,Tidak Pernah,6,0,Ya,0
+52,Perempuan,30.4,Tidak Merokok,Tinggi,6,Tinggi,Jarang,Sering,0,Sesekali,7,4,Ya,1
+29,Laki-laki,31.3,Tidak Merokok,Sedang,5,Sedang,Jarang,Sangat Sering,5,Sesekali,14,6,Ya,1
+24,Perempuan,34.9,Tidak Merokok,Tinggi,5,Rendah,Kadang,Kadang,4,Mingguan,4,3,Ya,1
+46,Perempuan,28.3,Perokok Aktif,Rendah,9,Sedang,Tidak Pernah,Kadang,5,Mingguan,10,0,Tidak,1
+28,Perempuan,23.2,Perokok Aktif,Rendah,9,Tinggi,Jarang,Sangat Sering,1,Harian,0,6,Tidak,1
+50,Laki-laki,32.2,Mantan Perokok,Rendah,5,Sedang,Kadang,Sering,1,Sesekali,2,0,Tidak,1
+23,Laki-laki,28.4,Mantan Perokok,Rendah,8,Tinggi,Kadang,Kadang,0,Mingguan,3,4,Tidak,0
+64,Perempuan,27.9,Tidak Merokok,Tinggi,8,Rendah,Sangat Sering,Tidak Pernah,2,Tidak Pernah,9,5,Ya,0
+32,Perempuan,22.3,Mantan Perokok,Rendah,4,Tinggi,Jarang,Sering,1,Tidak Pernah,12,5,Ya,1
+49,Perempuan,30.9,Mantan Perokok,Sedang,5,Sedang,Jarang,Kadang,2,Tidak Pernah,12,5,Tidak,1
+28,Laki-laki,19.4,Tidak Merokok,Sedang,7,Rendah,Kadang,Jarang,4,Mingguan,11,5,Tidak,0
+40,Laki-laki,33.7,Perokok Aktif,Sedang,9,Sedang,Jarang,Sering,2,Harian,3,3,Tidak,1
+43,Laki-laki,23.5,Tidak Merokok,Sedang,5,Tinggi,Sering,Jarang,3,Tidak Pernah,11,7,Tidak,1
+51,Laki-laki,20.2,Tidak Merokok,Tinggi,8,Tinggi,Kadang,Kadang,2,Tidak Pernah,0,5,Tidak,0
+63,Perempuan,25.5,Mantan Perokok,Rendah,5,Sedang,Jarang,Sering,1,Mingguan,9,1,Ya,0
+51,Perempuan,18.7,Mantan Perokok,Rendah,8,Rendah,Sering,Kadang,2,Sesekali,8,4,Tidak,0
+46,Laki-laki,29.6,Mantan Perokok,Sedang,5,Sedang,Tidak Pernah,Tidak Pernah,2,Harian,11,0,Tidak,1
+21,Laki-laki,33.3,Tidak Merokok,Sedang,7,Rendah,Sangat Sering,Kadang,3,Tidak Pernah,9,1,Tidak,0
+34,Perempuan,32.2,Perokok Aktif,Sedang,4,Rendah,Sering,Tidak Pernah,3,Tidak Pernah,14,5,Tidak,1
+52,Laki-laki,20.2,Tidak Merokok,Tinggi,7,Sedang,Kadang,Jarang,0,Sesekali,14,1,Tidak,0
+30,Laki-laki,20.1,Tidak Merokok,Sedang,8,Tinggi,Tidak Pernah,Tidak Pernah,1,Tidak Pernah,3,0,Tidak,0
+58,Laki-laki,31.8,Perokok Aktif,Sedang,9,Sedang,Jarang,Jarang,0,Tidak Pernah,1,5,Tidak,0
+56,Laki-laki,33.7,Mantan Perokok,Rendah,9,Rendah,Jarang,Jarang,3,Tidak Pernah,12,1,Tidak,0
+32,Laki-laki,25.8,Tidak Merokok,Sedang,6,Sedang,Jarang,Kadang,2,Tidak Pernah,8,3,Tidak,0
+46,Laki-laki,26.5,Perokok Aktif,Sedang,7,Tinggi,Kadang,Sangat Sering,3,Tidak Pernah,13,3,Tidak,1
+46,Perempuan,23.4,Tidak Merokok,Rendah,5,Tinggi,Sangat Sering,Kadang,4,Harian,3,4,Ya,1
+28,Laki-laki,33.2,Tidak Merokok,Rendah,4,Sedang,Kadang,Sering,2,Tidak Pernah,3,7,Tidak,0
+49,Laki-laki,29.0,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Kadang,0,Tidak Pernah,10,4,Tidak,0
+19,Perempuan,22.9,Perokok Aktif,Sedang,5,Tinggi,Kadang,Sering,2,Mingguan,5,6,Tidak,1
+64,Perempuan,23.1,Tidak Merokok,Rendah,7,Rendah,Sering,Kadang,4,Sesekali,7,1,Ya,0
+31,Perempuan,33.2,Mantan Perokok,Sedang,4,Sedang,Tidak Pernah,Kadang,3,Sesekali,4,0,Tidak,0
+37,Laki-laki,18.2,Tidak Merokok,Rendah,6,Tinggi,Kadang,Jarang,1,Sesekali,11,3,Ya,0
+39,Perempuan,23.5,Mantan Perokok,Tinggi,5,Sedang,Sering,Jarang,5,Mingguan,7,2,Tidak,1
+28,Laki-laki,27.4,Tidak Merokok,Rendah,4,Rendah,Sering,Kadang,1,Mingguan,0,7,Ya,1
+44,Laki-laki,20.5,Mantan Perokok,Sedang,6,Sedang,Sangat Sering,Kadang,1,Sesekali,12,4,Tidak,1
+20,Laki-laki,19.6,Tidak Merokok,Sedang,5,Sedang,Sering,Sering,3,Mingguan,3,6,Ya,1
+34,Perempuan,31.9,Mantan Perokok,Tinggi,4,Tinggi,Jarang,Jarang,1,Sesekali,0,3,Ya,0
+61,Perempuan,33.2,Perokok Aktif,Rendah,7,Sedang,Kadang,Tidak Pernah,4,Tidak Pernah,2,6,Tidak,1
+45,Perempuan,32.0,Mantan Perokok,Sedang,9,Sedang,Tidak Pernah,Kadang,3,Mingguan,10,5,Ya,1
+46,Perempuan,33.3,Tidak Merokok,Sedang,9,Tinggi,Kadang,Sering,1,Sesekali,6,1,Tidak,1
+38,Perempuan,27.4,Perokok Aktif,Sedang,5,Sedang,Kadang,Kadang,5,Harian,0,6,Tidak,1
+64,Laki-laki,31.8,Tidak Merokok,Sedang,5,Rendah,Kadang,Kadang,0,Tidak Pernah,4,7,Tidak,0
+33,Laki-laki,24.5,Mantan Perokok,Sedang,4,Tinggi,Sangat Sering,Jarang,3,Tidak Pernah,0,3,Ya,1
+54,Laki-laki,29.3,Perokok Aktif,Tinggi,9,Sedang,Kadang,Kadang,3,Harian,5,3,Tidak,1
+37,Laki-laki,34.8,Tidak Merokok,Rendah,5,Sedang,Jarang,Sering,2,Tidak Pernah,8,1,Ya,1
+23,Perempuan,21.8,Tidak Merokok,Rendah,6,Sedang,Jarang,Sering,1,Harian,2,4,Tidak,0
+36,Perempuan,24.6,Tidak Merokok,Tinggi,5,Rendah,Sering,Jarang,0,Harian,10,4,Tidak,0
+22,Laki-laki,26.2,Mantan Perokok,Rendah,9,Tinggi,Jarang,Kadang,5,Mingguan,10,2,Ya,1
+20,Perempuan,20.3,Mantan Perokok,Tinggi,8,Sedang,Jarang,Kadang,4,Sesekali,13,7,Ya,1
+18,Perempuan,19.4,Tidak Merokok,Sedang,9,Sedang,Jarang,Tidak Pernah,3,Sesekali,11,2,Ya,0
+55,Laki-laki,32.1,Tidak Merokok,Sedang,6,Rendah,Kadang,Sering,4,Mingguan,14,4,Tidak,1
+32,Laki-laki,34.6,Tidak Merokok,Rendah,4,Sedang,Tidak Pernah,Kadang,4,Mingguan,5,4,Ya,1
+51,Perempuan,24.9,Tidak Merokok,Rendah,6,Tinggi,Sangat Sering,Jarang,4,Sesekali,3,7,Tidak,1
+52,Perempuan,19.5,Tidak Merokok,Sedang,8,Tinggi,Sangat Sering,Sering,2,Harian,5,6,Tidak,1
+42,Laki-laki,19.1,Perokok Aktif,Tinggi,8,Tinggi,Sangat Sering,Jarang,4,Sesekali,1,7,Tidak,1
+41,Laki-laki,33.2,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Sangat Sering,1,Harian,3,4,Tidak,1
+29,Laki-laki,25.9,Perokok Aktif,Rendah,5,Tinggi,Sangat Sering,Sering,1,Tidak Pernah,12,4,Ya,1
+35,Perempuan,23.4,Mantan Perokok,Rendah,9,Sedang,Sangat Sering,Sering,0,Tidak Pernah,12,3,Tidak,1
+32,Laki-laki,26.1,Tidak Merokok,Rendah,7,Tinggi,Sangat Sering,Tidak Pernah,0,Sesekali,6,2,Tidak,0
+61,Laki-laki,23.4,Mantan Perokok,Tinggi,6,Tinggi,Kadang,Sangat Sering,5,Tidak Pernah,10,1,Tidak,1
+33,Perempuan,26.3,Tidak Merokok,Rendah,9,Sedang,Sering,Sering,4,Mingguan,5,7,Ya,0
+44,Perempuan,32.6,Tidak Merokok,Rendah,7,Sedang,Tidak Pernah,Jarang,4,Tidak Pernah,8,0,Ya,0
+25,Perempuan,28.1,Tidak Merokok,Rendah,9,Rendah,Sering,Kadang,2,Harian,10,1,Ya,1
+63,Perempuan,29.8,Tidak Merokok,Rendah,8,Sedang,Tidak Pernah,Jarang,4,Tidak Pernah,6,7,Ya,1
+42,Perempuan,24.2,Tidak Merokok,Tinggi,5,Tinggi,Jarang,Sangat Sering,4,Tidak Pernah,0,5,Ya,1
+34,Laki-laki,30.6,Tidak Merokok,Sedang,5,Rendah,Sangat Sering,Sering,4,Tidak Pernah,5,7,Tidak,1
+46,Laki-laki,29.3,Tidak Merokok,Rendah,9,Rendah,Kadang,Sangat Sering,3,Sesekali,10,0,Tidak,0
+25,Perempuan,20.0,Tidak Merokok,Rendah,5,Rendah,Tidak Pernah,Sering,3,Tidak Pernah,2,3,Tidak,1
+32,Perempuan,27.7,Tidak Merokok,Rendah,4,Tinggi,Sangat Sering,Kadang,2,Tidak Pernah,7,5,Tidak,1
+44,Perempuan,22.4,Tidak Merokok,Rendah,9,Sedang,Sangat Sering,Jarang,2,Sesekali,12,2,Ya,1
+63,Perempuan,31.7,Tidak Merokok,Rendah,8,Rendah,Jarang,Jarang,1,Tidak Pernah,0,0,Tidak,0
+24,Perempuan,25.2,Tidak Merokok,Sedang,9,Sedang,Sering,Jarang,2,Tidak Pernah,9,4,Tidak,0
+20,Laki-laki,34.9,Perokok Aktif,Rendah,9,Sedang,Jarang,Kadang,5,Mingguan,1,5,Tidak,1
+46,Laki-laki,19.6,Tidak Merokok,Rendah,5,Sedang,Jarang,Sangat Sering,1,Tidak Pernah,2,3,Tidak,0
+61,Laki-laki,31.3,Mantan Perokok,Sedang,8,Tinggi,Jarang,Sangat Sering,4,Tidak Pernah,13,7,Ya,1
+41,Laki-laki,29.5,Tidak Merokok,Tinggi,9,Sedang,Tidak Pernah,Jarang,2,Tidak Pernah,2,7,Tidak,0
+20,Perempuan,31.0,Perokok Aktif,Sedang,5,Sedang,Jarang,Sering,5,Tidak Pernah,6,0,Ya,1
+37,Laki-laki,23.2,Tidak Merokok,Sedang,6,Rendah,Tidak Pernah,Kadang,2,Sesekali,12,4,Ya,0
+63,Perempuan,26.4,Perokok Aktif,Sedang,8,Rendah,Sangat Sering,Kadang,2,Tidak Pernah,7,5,Ya,1
+32,Perempuan,31.5,Mantan Perokok,Sedang,7,Sedang,Kadang,Sering,1,Mingguan,14,3,Tidak,1
+42,Perempuan,22.0,Tidak Merokok,Rendah,4,Sedang,Sering,Kadang,1,Harian,8,7,Ya,1
+47,Laki-laki,21.8,Perokok Aktif,Tinggi,7,Sedang,Sering,Sangat Sering,0,Tidak Pernah,6,5,Tidak,1
+31,Perempuan,27.4,Tidak Merokok,Rendah,8,Rendah,Tidak Pernah,Sering,1,Harian,7,0,Ya,0
+24,Laki-laki,26.9,Tidak Merokok,Sedang,9,Rendah,Sangat Sering,Sering,1,Tidak Pernah,10,4,Tidak,1
+34,Laki-laki,22.8,Perokok Aktif,Tinggi,5,Tinggi,Sering,Jarang,3,Tidak Pernah,14,2,Tidak,1
+61,Perempuan,23.1,Perokok Aktif,Sedang,8,Sedang,Jarang,Jarang,2,Tidak Pernah,5,6,Ya,1
+37,Perempuan,22.7,Tidak Merokok,Tinggi,4,Tinggi,Tidak Pernah,Kadang,1,Tidak Pernah,1,3,Ya,0
+53,Perempuan,31.1,Tidak Merokok,Sedang,8,Tinggi,Sering,Sering,2,Sesekali,0,0,Tidak,0
+26,Laki-laki,29.1,Perokok Aktif,Tinggi,5,Sedang,Sering,Sangat Sering,2,Tidak Pernah,2,7,Ya,1
+55,Perempuan,32.2,Mantan Perokok,Tinggi,7,Tinggi,Sering,Kadang,3,Mingguan,8,4,Tidak,1
+65,Laki-laki,34.6,Perokok Aktif,Tinggi,6,Sedang,Tidak Pernah,Sering,2,Sesekali,12,2,Tidak,0
+39,Perempuan,26.1,Mantan Perokok,Tinggi,7,Rendah,Tidak Pernah,Kadang,5,Tidak Pernah,6,5,Ya,0
+19,Perempuan,19.1,Tidak Merokok,Tinggi,5,Sedang,Kadang,Jarang,1,Sesekali,1,4,Ya,0
+41,Laki-laki,18.8,Perokok Aktif,Sedang,5,Sedang,Kadang,Sering,2,Harian,13,6,Tidak,1
+25,Laki-laki,23.0,Tidak Merokok,Sedang,4,Sedang,Tidak Pernah,Sering,0,Tidak Pernah,0,2,Ya,0
+28,Laki-laki,33.9,Tidak Merokok,Rendah,8,Sedang,Jarang,Jarang,0,Tidak Pernah,1,0,Ya,0
+30,Laki-laki,26.9,Tidak Merokok,Sedang,8,Sedang,Kadang,Jarang,3,Sesekali,14,7,Ya,0
+34,Laki-laki,22.6,Mantan Perokok,Tinggi,7,Rendah,Sering,Kadang,5,Sesekali,2,4,Ya,0
+25,Laki-laki,24.8,Tidak Merokok,Sedang,6,Rendah,Jarang,Jarang,1,Sesekali,13,6,Ya,0
+38,Perempuan,28.2,Perokok Aktif,Tinggi,6,Rendah,Kadang,Sangat Sering,3,Tidak Pernah,5,4,Tidak,1
+35,Perempuan,29.1,Tidak Merokok,Tinggi,4,Rendah,Sering,Kadang,0,Sesekali,11,1,Tidak,1
+47,Laki-laki,20.6,Tidak Merokok,Rendah,5,Sedang,Sangat Sering,Jarang,5,Sesekali,8,3,Tidak,1
+35,Perempuan,34.6,Perokok Aktif,Rendah,4,Sedang,Jarang,Jarang,1,Sesekali,7,4,Ya,1
+63,Laki-laki,27.3,Tidak Merokok,Rendah,8,Rendah,Jarang,Sangat Sering,2,Tidak Pernah,9,6,Ya,0
+64,Perempuan,20.3,Tidak Merokok,Rendah,9,Tinggi,Sangat Sering,Sering,1,Sesekali,8,2,Tidak,1
+48,Perempuan,33.2,Tidak Merokok,Sedang,9,Tinggi,Jarang,Sering,4,Tidak Pernah,10,3,Tidak,1
+55,Laki-laki,19.3,Perokok Aktif,Tinggi,9,Sedang,Sering,Tidak Pernah,1,Sesekali,10,0,Ya,0
+49,Laki-laki,33.4,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Sering,2,Harian,7,6,Ya,1
+28,Laki-laki,34.9,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,4,Sesekali,6,3,Tidak,1
+62,Perempuan,29.9,Tidak Merokok,Rendah,7,Rendah,Kadang,Sering,5,Tidak Pernah,5,1,Tidak,0
+42,Laki-laki,31.1,Tidak Merokok,Rendah,8,Tinggi,Kadang,Sangat Sering,3,Tidak Pernah,7,7,Ya,1
+50,Perempuan,23.7,Tidak Merokok,Sedang,9,Rendah,Kadang,Jarang,5,Mingguan,5,0,Tidak,0
+55,Laki-laki,34.0,Tidak Merokok,Rendah,6,Tinggi,Tidak Pernah,Kadang,1,Mingguan,1,4,Tidak,1
+58,Perempuan,27.0,Tidak Merokok,Rendah,4,Sedang,Sangat Sering,Tidak Pernah,3,Sesekali,12,6,Tidak,1
+25,Perempuan,30.5,Perokok Aktif,Sedang,8,Sedang,Kadang,Kadang,1,Tidak Pernah,8,5,Tidak,0
+28,Laki-laki,33.7,Tidak Merokok,Rendah,8,Sedang,Kadang,Jarang,0,Sesekali,8,0,Ya,0
+39,Perempuan,34.6,Tidak Merokok,Tinggi,6,Sedang,Sering,Sangat Sering,0,Sesekali,2,6,Tidak,0
+41,Perempuan,32.2,Tidak Merokok,Rendah,6,Rendah,Kadang,Kadang,2,Harian,8,7,Tidak,0
+58,Laki-laki,23.2,Tidak Merokok,Rendah,6,Sedang,Sering,Kadang,5,Sesekali,1,7,Tidak,0
+34,Perempuan,34.4,Mantan Perokok,Rendah,9,Tinggi,Sangat Sering,Sering,0,Sesekali,11,0,Tidak,1
+29,Laki-laki,28.7,Tidak Merokok,Rendah,9,Sedang,Jarang,Sangat Sering,4,Sesekali,13,1,Tidak,0
+63,Laki-laki,33.8,Tidak Merokok,Sedang,4,Rendah,Kadang,Kadang,4,Tidak Pernah,2,2,Ya,0
+49,Laki-laki,29.5,Mantan Perokok,Sedang,6,Sedang,Sangat Sering,Kadang,1,Mingguan,13,0,Ya,1
+32,Laki-laki,23.2,Tidak Merokok,Sedang,7,Tinggi,Jarang,Tidak Pernah,3,Sesekali,5,6,Tidak,0
+33,Perempuan,24.3,Tidak Merokok,Sedang,8,Sedang,Tidak Pernah,Tidak Pernah,4,Harian,13,7,Ya,0
+39,Perempuan,27.4,Tidak Merokok,Sedang,6,Sedang,Sangat Sering,Kadang,1,Sesekali,3,2,Ya,0
+45,Perempuan,31.4,Tidak Merokok,Sedang,8,Tinggi,Sering,Tidak Pernah,3,Tidak Pernah,7,3,Ya,1
+37,Laki-laki,23.4,Tidak Merokok,Rendah,5,Sedang,Sangat Sering,Kadang,0,Sesekali,0,5,Tidak,0
+50,Perempuan,27.9,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Tidak Pernah,1,Tidak Pernah,12,1,Ya,0
+27,Perempuan,23.9,Mantan Perokok,Tinggi,6,Tinggi,Jarang,Kadang,3,Tidak Pernah,5,7,Tidak,0
+57,Laki-laki,31.9,Perokok Aktif,Tinggi,8,Tinggi,Tidak Pernah,Kadang,2,Tidak Pernah,1,4,Ya,1
+49,Laki-laki,25.9,Tidak Merokok,Sedang,5,Rendah,Kadang,Jarang,5,Sesekali,5,7,Ya,1
+50,Perempuan,19.3,Tidak Merokok,Rendah,6,Rendah,Kadang,Jarang,5,Sesekali,13,6,Ya,1
+19,Laki-laki,20.8,Tidak Merokok,Rendah,8,Tinggi,Jarang,Kadang,2,Tidak Pernah,0,6,Ya,1
+50,Laki-laki,19.0,Tidak Merokok,Tinggi,6,Rendah,Tidak Pernah,Sering,4,Sesekali,14,6,Tidak,0
+50,Laki-laki,26.5,Tidak Merokok,Rendah,9,Tinggi,Kadang,Kadang,5,Tidak Pernah,1,0,Tidak,0
+58,Laki-laki,19.8,Perokok Aktif,Rendah,8,Rendah,Kadang,Sering,3,Harian,8,5,Tidak,1
+30,Perempuan,19.9,Mantan Perokok,Rendah,5,Sedang,Tidak Pernah,Jarang,2,Sesekali,5,5,Ya,1
+47,Laki-laki,34.0,Perokok Aktif,Rendah,6,Rendah,Sangat Sering,Tidak Pernah,4,Sesekali,7,2,Tidak,1
+50,Laki-laki,32.8,Perokok Aktif,Rendah,5,Tinggi,Jarang,Tidak Pernah,1,Tidak Pernah,6,0,Ya,1
+30,Laki-laki,25.7,Tidak Merokok,Sedang,6,Tinggi,Sering,Kadang,1,Mingguan,8,6,Ya,1
+43,Laki-laki,34.8,Tidak Merokok,Sedang,4,Sedang,Sering,Sering,3,Sesekali,8,5,Tidak,1
+39,Laki-laki,18.0,Tidak Merokok,Tinggi,5,Tinggi,Kadang,Jarang,3,Harian,10,7,Tidak,1
+56,Laki-laki,28.4,Tidak Merokok,Rendah,5,Rendah,Jarang,Kadang,3,Tidak Pernah,3,6,Ya,0
+19,Laki-laki,28.5,Perokok Aktif,Rendah,7,Rendah,Jarang,Kadang,5,Tidak Pernah,6,6,Ya,1
+55,Laki-laki,25.8,Tidak Merokok,Sedang,9,Tinggi,Sering,Sangat Sering,3,Sesekali,4,6,Tidak,1
+56,Perempuan,24.7,Perokok Aktif,Sedang,5,Tinggi,Jarang,Sering,2,Tidak Pernah,6,1,Ya,1
+43,Laki-laki,25.7,Tidak Merokok,Sedang,8,Tinggi,Sering,Sering,2,Tidak Pernah,3,4,Tidak,0
+63,Perempuan,25.1,Perokok Aktif,Tinggi,6,Tinggi,Sangat Sering,Kadang,4,Harian,11,3,Tidak,1
+32,Laki-laki,30.4,Perokok Aktif,Rendah,4,Sedang,Sangat Sering,Sangat Sering,2,Tidak Pernah,9,7,Tidak,1
+51,Laki-laki,20.3,Mantan Perokok,Tinggi,8,Rendah,Kadang,Sangat Sering,5,Harian,10,3,Ya,1
+59,Laki-laki,21.4,Mantan Perokok,Sedang,8,Tinggi,Sering,Kadang,1,Tidak Pernah,10,2,Tidak,0
+61,Laki-laki,21.1,Tidak Merokok,Rendah,8,Sedang,Sangat Sering,Kadang,4,Sesekali,0,5,Ya,1
+57,Perempuan,22.5,Perokok Aktif,Tinggi,8,Sedang,Jarang,Kadang,2,Sesekali,3,3,Ya,0
+28,Laki-laki,26.9,Perokok Aktif,Sedang,4,Sedang,Jarang,Kadang,3,Sesekali,14,2,Tidak,1
+20,Laki-laki,19.9,Perokok Aktif,Rendah,7,Rendah,Tidak Pernah,Kadang,2,Harian,12,4,Ya,1
+23,Perempuan,32.8,Mantan Perokok,Rendah,9,Tinggi,Tidak Pernah,Jarang,0,Tidak Pernah,9,6,Ya,1
+26,Perempuan,23.1,Mantan Perokok,Rendah,5,Rendah,Sering,Sangat Sering,4,Mingguan,14,7,Tidak,1
+23,Laki-laki,20.8,Perokok Aktif,Sedang,8,Tinggi,Kadang,Kadang,5,Sesekali,2,7,Tidak,1
+26,Perempuan,29.5,Tidak Merokok,Rendah,5,Sedang,Sering,Sering,2,Tidak Pernah,8,0,Ya,1
+56,Perempuan,18.6,Perokok Aktif,Rendah,5,Sedang,Sering,Kadang,2,Harian,4,1,Ya,1
+48,Perempuan,28.5,Tidak Merokok,Rendah,8,Sedang,Kadang,Sering,5,Tidak Pernah,3,4,Ya,1
+49,Laki-laki,29.9,Tidak Merokok,Sedang,7,Rendah,Kadang,Jarang,1,Mingguan,7,4,Ya,0
+58,Laki-laki,21.7,Tidak Merokok,Tinggi,5,Sedang,Tidak Pernah,Kadang,3,Tidak Pernah,14,3,Tidak,0
+29,Laki-laki,18.7,Tidak Merokok,Tinggi,6,Sedang,Sering,Kadang,3,Mingguan,4,3,Tidak,0
+25,Perempuan,24.2,Tidak Merokok,Rendah,5,Sedang,Kadang,Kadang,1,Sesekali,2,1,Tidak,0
+25,Laki-laki,19.7,Tidak Merokok,Tinggi,9,Rendah,Kadang,Sering,1,Tidak Pernah,1,7,Ya,1
+45,Perempuan,20.0,Tidak Merokok,Sedang,8,Rendah,Tidak Pernah,Jarang,0,Sesekali,14,0,Ya,0
+37,Laki-laki,22.3,Tidak Merokok,Tinggi,4,Rendah,Sangat Sering,Kadang,5,Tidak Pernah,7,4,Ya,1
+64,Laki-laki,23.0,Tidak Merokok,Sedang,5,Sedang,Sangat Sering,Jarang,4,Tidak Pernah,11,5,Ya,1
+24,Perempuan,27.0,Mantan Perokok,Sedang,7,Rendah,Kadang,Sering,3,Tidak Pernah,1,3,Ya,0
+28,Laki-laki,29.5,Perokok Aktif,Tinggi,6,Tinggi,Kadang,Jarang,1,Tidak Pernah,13,7,Ya,1
+37,Perempuan,28.1,Mantan Perokok,Rendah,6,Sedang,Sering,Kadang,1,Tidak Pernah,7,4,Ya,0
+33,Perempuan,20.5,Perokok Aktif,Sedang,4,Tinggi,Jarang,Jarang,5,Sesekali,4,0,Tidak,1
+21,Laki-laki,20.9,Mantan Perokok,Tinggi,9,Tinggi,Jarang,Kadang,4,Sesekali,7,7,Tidak,0
+23,Perempuan,32.9,Tidak Merokok,Tinggi,4,Rendah,Kadang,Sering,1,Sesekali,4,2,Tidak,0
+39,Laki-laki,27.5,Mantan Perokok,Tinggi,9,Tinggi,Tidak Pernah,Jarang,0,Tidak Pernah,0,0,Ya,0
+43,Laki-laki,32.8,Mantan Perokok,Sedang,5,Sedang,Kadang,Sering,4,Sesekali,11,4,Tidak,1
+20,Perempuan,24.3,Tidak Merokok,Rendah,8,Tinggi,Kadang,Jarang,0,Sesekali,12,4,Tidak,0
+58,Laki-laki,28.4,Tidak Merokok,Rendah,7,Tinggi,Jarang,Kadang,2,Tidak Pernah,10,1,Ya,1
+59,Perempuan,26.9,Mantan Perokok,Sedang,6,Rendah,Jarang,Kadang,3,Mingguan,13,7,Tidak,0
+31,Laki-laki,23.4,Tidak Merokok,Sedang,4,Sedang,Jarang,Kadang,1,Sesekali,10,7,Tidak,0
+28,Laki-laki,26.0,Mantan Perokok,Rendah,7,Sedang,Jarang,Kadang,4,Sesekali,1,7,Tidak,1
+35,Laki-laki,26.5,Tidak Merokok,Rendah,9,Sedang,Kadang,Kadang,0,Tidak Pernah,13,4,Ya,0
+29,Laki-laki,21.4,Mantan Perokok,Sedang,8,Rendah,Kadang,Jarang,3,Tidak Pernah,5,7,Tidak,0
+40,Laki-laki,23.4,Tidak Merokok,Tinggi,6,Rendah,Sangat Sering,Kadang,3,Mingguan,2,7,Tidak,0
+29,Perempuan,31.5,Tidak Merokok,Tinggi,6,Sedang,Tidak Pernah,Tidak Pernah,1,Mingguan,7,3,Ya,0
+30,Perempuan,33.6,Tidak Merokok,Tinggi,9,Sedang,Sering,Sering,3,Tidak Pernah,4,5,Tidak,0
+42,Perempuan,24.1,Mantan Perokok,Tinggi,8,Tinggi,Jarang,Sering,1,Tidak Pernah,2,1,Tidak,0
+62,Perempuan,23.2,Perokok Aktif,Sedang,6,Tinggi,Kadang,Jarang,2,Sesekali,11,4,Ya,1
+36,Perempuan,21.3,Perokok Aktif,Tinggi,8,Sedang,Kadang,Jarang,1,Sesekali,9,7,Tidak,0
+63,Perempuan,29.5,Tidak Merokok,Sedang,6,Rendah,Kadang,Tidak Pernah,5,Mingguan,6,0,Tidak,0
+53,Laki-laki,23.5,Mantan Perokok,Tinggi,5,Rendah,Sering,Sangat Sering,0,Tidak Pernah,13,4,Ya,1
+62,Laki-laki,34.8,Tidak Merokok,Tinggi,9,Sedang,Jarang,Sering,5,Tidak Pernah,7,0,Ya,0
+25,Perempuan,23.5,Tidak Merokok,Tinggi,8,Tinggi,Jarang,Kadang,3,Tidak Pernah,3,0,Tidak,0
+46,Perempuan,24.7,Tidak Merokok,Sedang,7,Sedang,Sering,Kadang,3,Tidak Pernah,12,4,Tidak,0
+49,Laki-laki,28.3,Mantan Perokok,Rendah,5,Sedang,Jarang,Jarang,3,Tidak Pernah,12,0,Ya,0
+61,Laki-laki,31.6,Tidak Merokok,Rendah,7,Tinggi,Jarang,Kadang,1,Mingguan,10,5,Ya,1
+35,Laki-laki,26.0,Tidak Merokok,Rendah,9,Tinggi,Tidak Pernah,Sering,4,Sesekali,8,2,Tidak,1
+23,Perempuan,25.2,Mantan Perokok,Rendah,6,Rendah,Jarang,Kadang,1,Mingguan,5,1,Tidak,0
+35,Perempuan,34.9,Mantan Perokok,Rendah,7,Rendah,Kadang,Sering,0,Tidak Pernah,13,4,Ya,1
+36,Perempuan,18.2,Tidak Merokok,Rendah,5,Sedang,Kadang,Kadang,1,Tidak Pernah,0,6,Tidak,0
+39,Laki-laki,33.2,Tidak Merokok,Sedang,8,Sedang,Jarang,Jarang,3,Tidak Pernah,4,2,Ya,0
+54,Laki-laki,20.5,Tidak Merokok,Sedang,4,Tinggi,Tidak Pernah,Kadang,2,Tidak Pernah,4,7,Ya,1
+49,Perempuan,31.4,Tidak Merokok,Rendah,7,Rendah,Sering,Kadang,0,Mingguan,6,0,Tidak,0
+58,Perempuan,28.5,Mantan Perokok,Sedang,4,Rendah,Sering,Sangat Sering,5,Tidak Pernah,6,0,Ya,0
+20,Laki-laki,23.8,Tidak Merokok,Sedang,9,Tinggi,Sangat Sering,Kadang,2,Tidak Pernah,5,1,Tidak,0
+45,Laki-laki,32.9,Mantan Perokok,Sedang,7,Tinggi,Sangat Sering,Kadang,0,Tidak Pernah,14,2,Ya,1
+27,Laki-laki,18.2,Perokok Aktif,Tinggi,7,Tinggi,Sangat Sering,Sering,0,Tidak Pernah,14,2,Tidak,1
+52,Laki-laki,21.9,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,3,Mingguan,7,4,Ya,1
+46,Perempuan,27.6,Perokok Aktif,Rendah,6,Sedang,Kadang,Kadang,5,Tidak Pernah,1,7,Ya,1
+32,Laki-laki,24.0,Tidak Merokok,Sedang,5,Rendah,Tidak Pernah,Sangat Sering,1,Sesekali,13,0,Tidak,0
+50,Laki-laki,28.4,Tidak Merokok,Rendah,5,Rendah,Kadang,Jarang,5,Sesekali,12,6,Tidak,0
+24,Laki-laki,18.4,Tidak Merokok,Sedang,5,Sedang,Tidak Pernah,Jarang,3,Tidak Pernah,12,3,Tidak,0
+29,Perempuan,20.0,Tidak Merokok,Sedang,9,Sedang,Sering,Sering,3,Tidak Pernah,6,7,Tidak,0
+47,Perempuan,20.2,Tidak Merokok,Rendah,6,Rendah,Kadang,Tidak Pernah,3,Mingguan,9,6,Tidak,0
+38,Laki-laki,21.2,Tidak Merokok,Rendah,4,Tinggi,Kadang,Jarang,2,Sesekali,14,4,Tidak,0
+48,Laki-laki,25.8,Perokok Aktif,Rendah,5,Rendah,Tidak Pernah,Kadang,5,Tidak Pernah,6,4,Tidak,0
+41,Laki-laki,30.8,Perokok Aktif,Sedang,4,Tinggi,Kadang,Jarang,5,Tidak Pernah,3,4,Tidak,1
+37,Perempuan,33.4,Mantan Perokok,Sedang,6,Rendah,Jarang,Sangat Sering,0,Tidak Pernah,11,1,Tidak,0
+54,Perempuan,32.2,Tidak Merokok,Rendah,9,Tinggi,Jarang,Kadang,4,Tidak Pernah,9,1,Tidak,0
+21,Perempuan,21.3,Mantan Perokok,Rendah,6,Rendah,Jarang,Kadang,1,Tidak Pernah,1,7,Ya,0
+45,Laki-laki,25.5,Mantan Perokok,Rendah,8,Tinggi,Tidak Pernah,Jarang,3,Tidak Pernah,3,4,Tidak,0
+61,Perempuan,21.4,Perokok Aktif,Rendah,5,Rendah,Kadang,Jarang,5,Tidak Pernah,3,5,Ya,0
+37,Laki-laki,22.5,Perokok Aktif,Tinggi,9,Sedang,Kadang,Kadang,5,Tidak Pernah,11,3,Ya,0
+41,Laki-laki,26.6,Perokok Aktif,Rendah,8,Tinggi,Sering,Kadang,0,Tidak Pernah,11,2,Ya,1
+49,Laki-laki,19.2,Tidak Merokok,Sedang,5,Rendah,Kadang,Sering,1,Mingguan,5,2,Tidak,0
+58,Perempuan,21.7,Mantan Perokok,Tinggi,6,Rendah,Jarang,Jarang,4,Sesekali,13,0,Tidak,0
+53,Laki-laki,33.9,Tidak Merokok,Rendah,6,Tinggi,Sangat Sering,Sering,4,Harian,6,2,Tidak,1
+51,Perempuan,25.9,Perokok Aktif,Sedang,7,Tinggi,Kadang,Jarang,3,Tidak Pernah,2,6,Ya,1
+53,Perempuan,25.6,Tidak Merokok,Tinggi,7,Rendah,Kadang,Kadang,4,Sesekali,14,2,Tidak,0
+19,Laki-laki,18.2,Tidak Merokok,Tinggi,6,Rendah,Kadang,Kadang,4,Tidak Pernah,9,3,Tidak,1
+32,Laki-laki,22.2,Tidak Merokok,Sedang,6,Rendah,Sering,Jarang,1,Sesekali,0,2,Ya,0
+51,Perempuan,32.7,Perokok Aktif,Tinggi,4,Rendah,Jarang,Kadang,1,Tidak Pernah,2,6,Ya,1
+53,Laki-laki,20.8,Tidak Merokok,Tinggi,4,Tinggi,Jarang,Tidak Pernah,3,Tidak Pernah,8,3,Ya,0
+23,Perempuan,25.1,Tidak Merokok,Rendah,8,Sedang,Sering,Kadang,5,Harian,0,1,Tidak,0
+56,Laki-laki,18.2,Perokok Aktif,Tinggi,7,Sedang,Tidak Pernah,Sering,0,Sesekali,12,3,Tidak,0
+59,Perempuan,26.1,Perokok Aktif,Sedang,7,Tinggi,Sering,Tidak Pernah,3,Harian,7,1,Tidak,1

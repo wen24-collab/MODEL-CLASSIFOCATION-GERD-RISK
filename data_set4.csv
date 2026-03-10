@@ -1,0 +1,21 @@
+usia,jenis_kelamin,bmi,status_merokok,tingkat_aktivitas_fisik,jam_tidur_per_malam,tingkat_stres,frekuensi_makan_pedas,frekuensi_makan_berlemak,konsumsi_kopi_per_hari,konsumsi_alkohol,minuman_bersoda_per_minggu,frekuensi_fast_food_per_minggu,makan_larut_malam,risiko_gerd
+45,Laki-laki,27.5,Perokok Aktif,Rendah,5.5,Tinggi,Sering,Sering,3,Sesekali,8,4,Ya,1
+32,Perempuan,22.1,Tidak Merokok,Tinggi,7.8,Rendah,Jarang,Kadang,1,Tidak Pernah,1,0,Tidak,0
+58,Laki-laki,29.8,Mantan Perokok,Sedang,6.2,Sedang,Kadang,Sering,2,Mingguan,5,2,Tidak,1
+27,Perempuan,20.5,Tidak Merokok,Tinggi,8.1,Rendah,Tidak Pernah,Jarang,0,Tidak Pernah,0,0,Tidak,0
+41,Laki-laki,31.2,Perokok Aktif,Rendah,4.8,Tinggi,Sangat Sering,Sering,4,Harian,12,6,Ya,1
+23,Perempuan,19.8,Tidak Merokok,Sedang,7.5,Rendah,Jarang,Tidak Pernah,1,Tidak Pernah,2,1,Tidak,0
+50,Laki-laki,28.9,Mantan Perokok,Sedang,6.5,Sedang,Sering,Kadang,2,Sesekali,6,3,Ya,1
+36,Perempuan,24.3,Tidak Merokok,Tinggi,8.0,Rendah,Kadang,Jarang,1,Tidak Pernah,1,0,Tidak,0
+62,Laki-laki,30.4,Perokok Aktif,Rendah,5.0,Tinggi,Sering,Sangat Sering,3,Mingguan,10,5,Ya,1
+29,Perempuan,21.7,Tidak Merokok,Tinggi,7.9,Rendah,Tidak Pernah,Jarang,0,Tidak Pernah,0,0,Tidak,0
+38,Laki-laki,26.8,Tidak Merokok,Sedang,6.8,Sedang,Kadang,Sering,2,Sesekali,4,2,Tidak,0
+44,Perempuan,25.1,Tidak Merokok,Sedang,7.2,Rendah,Sering,Kadang,1,Tidak Pernah,3,1,Ya,1
+51,Laki-laki,29.2,Mantan Perokok,Rendah,5.8,Tinggi,Sering,Sering,3,Mingguan,7,3,Ya,1
+25,Perempuan,22.4,Tidak Merokok,Tinggi,8.2,Rendah,Jarang,Tidak Pernah,1,Tidak Pernah,1,0,Tidak,0
+47,Laki-laki,28.6,Perokok Aktif,Sedang,6.0,Sedang,Sangat Sering,Sering,4,Harian,9,4,Ya,1
+33,Perempuan,23.9,Tidak Merokok,Tinggi,7.7,Rendah,Kadang,Jarang,0,Tidak Pernah,2,1,Tidak,0
+55,Laki-laki,31.7,Mantan Perokok,Rendah,5.3,Tinggi,Sering,Sering,2,Mingguan,11,5,Ya,1
+30,Perempuan,20.9,Tidak Merokok,Sedang,7.4,Rendah,Tidak Pernah,Jarang,1,Tidak Pernah,0,0,Tidak,0
+42,Laki-laki,27.3,Tidak Merokok,Sedang,6.9,Sedang,Kadang,Sering,2,Sesekali,5,2,Tidak,1
+19,Perempuan,19.2,Tidak Merokok,Tinggi,8.5,Rendah,Jarang,Tidak Pernah,0,Tidak Pernah,1,0,Tidak,0

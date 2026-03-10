@@ -1,0 +1,26 @@
+age,gender,bmi,smoking_status,physical_activity_level,sleep_hours_per_night,stress_level,spicy_food_frequency,fatty_food_frequency,coffee_intake_per_day,alcohol_consumption,carbonated_drinks_per_week,fast_food_frequency_per_week,late_night_eating,gerd_risk_percentage,gerd_risk_category
+28,female,22.5,Non-smoker,High,8.2,Low,Never,Never,0,Never,1,0,No,12,Low Risk
+45,male,29.8,Active smoker,Low,5.1,High,Often,Often,4,Weekly,12,5,Yes,82,High Risk
+33,female,24.1,Former smoker,Moderate,7.0,Medium,Sometimes,Sometimes,2,Occasionally,5,2,No,38,Medium Risk
+52,male,31.2,Active smoker,Low,4.8,High,Very Often,Often,5,Daily,14,6,Yes,91,High Risk
+26,female,20.8,Non-smoker,High,8.5,Low,Never,Rarely,1,Never,0,0,No,8,Low Risk
+39,male,27.3,Former smoker,Moderate,6.5,Medium,Sometimes,Often,3,Weekly,8,3,Yes,65,Medium Risk
+31,female,23.4,Non-smoker,High,7.8,Low,Rarely,Sometimes,1,Occasionally,2,1,No,22,Low Risk
+48,male,33.7,Active smoker,Low,5.3,High,Often,Very Often,4,Daily,13,5,Yes,88,High Risk
+29,female,21.9,Non-smoker,Moderate,7.2,Low,Never,Never,0,Never,1,0,No,10,Low Risk
+41,male,28.6,Former smoker,Low,6.2,Medium,Sometimes,Often,3,Weekly,9,4,Yes,72,High Risk
+25,female,19.8,Non-smoker,High,8.7,Low,Never,Rarely,0,Never,0,0,No,6,Low Risk
+56,male,34.2,Active smoker,Low,4.5,High,Very Often,Very Often,5,Daily,14,7,Yes,95,High Risk
+34,female,25.1,Non-smoker,Moderate,7.1,Medium,Sometimes,Sometimes,2,Occasionally,4,2,No,35,Medium Risk
+47,male,30.4,Active smoker,Low,5.7,High,Often,Often,4,Weekly,11,5,Yes,85,High Risk
+22,female,20.2,Non-smoker,High,8.9,Low,Never,Never,0,Never,0,0,No,5,Low Risk
+38,male,26.8,Former smoker,Moderate,6.8,Medium,Rarely,Sometimes,2,Occasionally,3,1,No,28,Low Risk
+30,female,22.7,Non-smoker,High,7.9,Low,Rarely,Rarely,1,Never,1,0,No,15,Low Risk
+50,male,32.1,Active smoker,Low,5.0,High,Often,Very Often,4,Daily,12,6,Yes,89,High Risk
+27,female,21.3,Non-smoker,Moderate,7.4,Low,Sometimes,Rarely,1,Occasionally,2,1,No,20,Low Risk
+44,male,29.5,Former smoker,Low,6.0,Medium,Sometimes,Often,3,Weekly,7,3,Yes,68,Medium Risk
+35,female,23.8,Non-smoker,High,8.1,Low,Never,Sometimes,1,Never,2,0,No,18,Low Risk
+49,male,31.5,Active smoker,Low,4.9,High,Very Often,Often,5,Daily,13,6,Yes,93,High Risk
+24,female,20.1,Non-smoker,High,8.6,Low,Rarely,Never,0,Never,0,0,No,7,Low Risk
+42,male,28.2,Former smoker,Moderate,6.7,Medium,Often,Sometimes,2,Weekly,6,2,Yes,58,Medium Risk
+32,female,24.6,Non-smoker,Moderate,7.3,Medium,Sometimes,Rarely,2,Occasionally,4,1,No,32,Low Risk
