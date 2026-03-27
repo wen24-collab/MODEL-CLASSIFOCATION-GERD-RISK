@@ -1,0 +1,190 @@
+2026-03-25 19:41:17,357:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-25 19:41:17,357:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-25 19:41:17,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-25 19:41:17,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-25 19:43:17,088:INFO:PyCaret ClassificationExperiment
+2026-03-25 19:43:17,088:INFO:Logging name: clf-default-name
+2026-03-25 19:43:17,088:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-03-25 19:43:17,088:INFO:version 3.3.2
+2026-03-25 19:43:17,090:INFO:Initializing setup()
+2026-03-25 19:43:17,090:INFO:self.USI: e7f3
+2026-03-25 19:43:17,090:INFO:self._variable_keys: {'gpu_n_jobs_param', 'y_train', 'X', 'fold_groups_param', '_available_plots', 'exp_id', 'memory', 'y', 'exp_name_log', 'USI', '_ml_usecase', 'X_train', 'target_param', 'fold_generator', 'logging_param', 'fold_shuffle_param', 'is_multiclass', 'pipeline', 'X_test', 'seed', 'log_plots_param', 'idx', 'y_test', 'data', 'html_param', 'fix_imbalance', 'n_jobs_param', 'gpu_param'}
+2026-03-25 19:43:17,090:INFO:Checking environment
+2026-03-25 19:43:17,090:INFO:python_version: 3.10.11
+2026-03-25 19:43:17,090:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2026-03-25 19:43:17,090:INFO:machine: AMD64
+2026-03-25 19:43:17,090:INFO:platform: Windows-10-10.0.26200-SP0
+2026-03-25 19:43:17,090:INFO:Memory: svmem(total=7817785344, available=819720192, percent=89.5, used=6998065152, free=819720192)
+2026-03-25 19:43:17,090:INFO:Physical Core: 4
+2026-03-25 19:43:17,092:INFO:Logical Core: 8
+2026-03-25 19:43:17,092:INFO:Checking libraries
+2026-03-25 19:43:17,092:INFO:System:
+2026-03-25 19:43:17,092:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2026-03-25 19:43:17,092:INFO:executable: c:\Program Files\Python310\python.exe
+2026-03-25 19:43:17,092:INFO:   machine: Windows-10-10.0.26200-SP0
+2026-03-25 19:43:17,092:INFO:PyCaret required dependencies:
+2026-03-25 19:43:19,912:INFO:                 pip: 23.0.1
+2026-03-25 19:43:19,912:INFO:          setuptools: 65.5.0
+2026-03-25 19:43:19,912:INFO:             pycaret: 3.3.2
+2026-03-25 19:43:19,912:INFO:             IPython: 8.37.0
+2026-03-25 19:43:19,912:INFO:          ipywidgets: 8.1.7
+2026-03-25 19:43:19,912:INFO:                tqdm: 4.67.3
+2026-03-25 19:43:19,912:INFO:               numpy: 1.26.4
+2026-03-25 19:43:19,912:INFO:              pandas: 2.1.4
+2026-03-25 19:43:19,912:INFO:              jinja2: 3.1.6
+2026-03-25 19:43:19,912:INFO:               scipy: 1.11.4
+2026-03-25 19:43:19,912:INFO:              joblib: 1.3.2
+2026-03-25 19:43:19,912:INFO:             sklearn: 1.4.2
+2026-03-25 19:43:19,912:INFO:                pyod: 2.0.7
+2026-03-25 19:43:19,912:INFO:            imblearn: 0.14.1
+2026-03-25 19:43:19,912:INFO:   category_encoders: 2.7.0
+2026-03-25 19:43:19,912:INFO:            lightgbm: 4.6.0
+2026-03-25 19:43:19,912:INFO:               numba: 0.62.1
+2026-03-25 19:43:19,912:INFO:            requests: 2.32.5
+2026-03-25 19:43:19,912:INFO:          matplotlib: 3.7.5
+2026-03-25 19:43:19,912:INFO:          scikitplot: 0.3.7
+2026-03-25 19:43:19,912:INFO:         yellowbrick: 1.5
+2026-03-25 19:43:19,912:INFO:              plotly: 6.6.0
+2026-03-25 19:43:19,912:INFO:    plotly-resampler: Not installed
+2026-03-25 19:43:19,912:INFO:             kaleido: 1.2.0
+2026-03-25 19:43:19,912:INFO:           schemdraw: 0.15
+2026-03-25 19:43:19,912:INFO:         statsmodels: 0.14.6
+2026-03-25 19:43:19,912:INFO:              sktime: 0.26.0
+2026-03-25 19:43:19,912:INFO:               tbats: 1.1.3
+2026-03-25 19:43:19,912:INFO:            pmdarima: 2.0.4
+2026-03-25 19:43:19,912:INFO:              psutil: 7.1.2
+2026-03-25 19:43:19,912:INFO:          markupsafe: 3.0.3
+2026-03-25 19:43:19,912:INFO:             pickle5: Not installed
+2026-03-25 19:43:19,912:INFO:         cloudpickle: 3.1.2
+2026-03-25 19:43:19,912:INFO:         deprecation: 2.1.0
+2026-03-25 19:43:19,912:INFO:              xxhash: 3.6.0
+2026-03-25 19:43:19,912:INFO:           wurlitzer: Not installed
+2026-03-25 19:43:19,912:INFO:PyCaret optional dependencies:
+2026-03-26 00:53:50,801:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-26 00:53:50,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-26 00:53:50,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-26 00:53:50,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-26 00:55:24,319:INFO:PyCaret ClassificationExperiment
+2026-03-26 00:55:24,319:INFO:Logging name: clf-default-name
+2026-03-26 00:55:24,319:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-03-26 00:55:24,319:INFO:version 3.3.2
+2026-03-26 00:55:24,319:INFO:Initializing setup()
+2026-03-26 00:55:24,319:INFO:self.USI: 3834
+2026-03-26 00:55:24,319:INFO:self._variable_keys: {'gpu_n_jobs_param', 'idx', 'fold_groups_param', 'fold_shuffle_param', 'log_plots_param', 'data', 'USI', '_available_plots', 'logging_param', 'pipeline', 'html_param', 'target_param', 'is_multiclass', 'y_train', 'memory', 'fold_generator', 'n_jobs_param', 'X_train', 'exp_id', 'y_test', 'fix_imbalance', 'exp_name_log', 'gpu_param', 'X_test', '_ml_usecase', 'X', 'y', 'seed'}
+2026-03-26 00:55:24,319:INFO:Checking environment
+2026-03-26 00:55:24,319:INFO:python_version: 3.10.11
+2026-03-26 00:55:24,319:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2026-03-26 00:55:24,319:INFO:machine: AMD64
+2026-03-26 00:55:24,319:INFO:platform: Windows-10-10.0.26200-SP0
+2026-03-26 00:55:24,319:INFO:Memory: svmem(total=7817785344, available=793628672, percent=89.8, used=7024156672, free=793628672)
+2026-03-26 00:55:24,319:INFO:Physical Core: 4
+2026-03-26 00:55:24,319:INFO:Logical Core: 8
+2026-03-26 00:55:24,319:INFO:Checking libraries
+2026-03-26 00:55:24,319:INFO:System:
+2026-03-26 00:55:24,319:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2026-03-26 00:55:24,319:INFO:executable: c:\Program Files\Python310\python.exe
+2026-03-26 00:55:24,319:INFO:   machine: Windows-10-10.0.26200-SP0
+2026-03-26 00:55:24,319:INFO:PyCaret required dependencies:
+2026-03-26 00:55:26,829:INFO:                 pip: 23.0.1
+2026-03-26 00:55:26,829:INFO:          setuptools: 65.5.0
+2026-03-26 00:55:26,829:INFO:             pycaret: 3.3.2
+2026-03-26 00:55:26,829:INFO:             IPython: 8.37.0
+2026-03-26 00:55:26,829:INFO:          ipywidgets: 8.1.7
+2026-03-26 00:55:26,829:INFO:                tqdm: 4.67.3
+2026-03-26 00:55:26,829:INFO:               numpy: 1.26.4
+2026-03-26 00:55:26,829:INFO:              pandas: 2.1.4
+2026-03-26 00:55:26,829:INFO:              jinja2: 3.1.6
+2026-03-26 00:55:26,829:INFO:               scipy: 1.11.4
+2026-03-26 00:55:26,829:INFO:              joblib: 1.3.2
+2026-03-26 00:55:26,829:INFO:             sklearn: 1.4.2
+2026-03-26 00:55:26,829:INFO:                pyod: 2.0.7
+2026-03-26 00:55:26,829:INFO:            imblearn: 0.14.1
+2026-03-26 00:55:26,829:INFO:   category_encoders: 2.7.0
+2026-03-26 00:55:26,829:INFO:            lightgbm: 4.6.0
+2026-03-26 00:55:26,829:INFO:               numba: 0.62.1
+2026-03-26 00:55:26,829:INFO:            requests: 2.32.5
+2026-03-26 00:55:26,831:INFO:          matplotlib: 3.7.5
+2026-03-26 00:55:26,831:INFO:          scikitplot: 0.3.7
+2026-03-26 00:55:26,831:INFO:         yellowbrick: 1.5
+2026-03-26 00:55:26,831:INFO:              plotly: 6.6.0
+2026-03-26 00:55:26,831:INFO:    plotly-resampler: Not installed
+2026-03-26 00:55:26,831:INFO:             kaleido: 1.2.0
+2026-03-26 00:55:26,831:INFO:           schemdraw: 0.15
+2026-03-26 00:55:26,831:INFO:         statsmodels: 0.14.6
+2026-03-26 00:55:26,831:INFO:              sktime: 0.26.0
+2026-03-26 00:55:26,831:INFO:               tbats: 1.1.3
+2026-03-26 00:55:26,831:INFO:            pmdarima: 2.0.4
+2026-03-26 00:55:26,831:INFO:              psutil: 7.1.2
+2026-03-26 00:55:26,831:INFO:          markupsafe: 3.0.3
+2026-03-26 00:55:26,831:INFO:             pickle5: Not installed
+2026-03-26 00:55:26,831:INFO:         cloudpickle: 3.1.2
+2026-03-26 00:55:26,831:INFO:         deprecation: 2.1.0
+2026-03-26 00:55:26,831:INFO:              xxhash: 3.6.0
+2026-03-26 00:55:26,831:INFO:           wurlitzer: Not installed
+2026-03-26 00:55:26,831:INFO:PyCaret optional dependencies:
+2026-03-26 01:00:15,842:INFO:PyCaret ClassificationExperiment
+2026-03-26 01:00:15,842:INFO:Logging name: clf-default-name
+2026-03-26 01:00:15,842:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-03-26 01:00:15,842:INFO:version 3.3.2
+2026-03-26 01:00:15,842:INFO:Initializing setup()
+2026-03-26 01:00:15,842:INFO:self.USI: 4617
+2026-03-26 01:00:15,842:INFO:self._variable_keys: {'gpu_n_jobs_param', 'idx', 'fold_groups_param', 'fold_shuffle_param', 'log_plots_param', 'data', 'USI', '_available_plots', 'logging_param', 'pipeline', 'html_param', 'target_param', 'is_multiclass', 'y_train', 'memory', 'fold_generator', 'n_jobs_param', 'X_train', 'exp_id', 'y_test', 'fix_imbalance', 'exp_name_log', 'gpu_param', 'X_test', '_ml_usecase', 'X', 'y', 'seed'}
+2026-03-26 01:00:15,842:INFO:Checking environment
+2026-03-26 01:00:15,842:INFO:python_version: 3.10.11
+2026-03-26 01:00:15,842:INFO:python_build: ('tags/v3.10.11:7d4cc5a', 'Apr  5 2023 00:38:17')
+2026-03-26 01:00:15,842:INFO:machine: AMD64
+2026-03-26 01:00:15,842:INFO:platform: Windows-10-10.0.26200-SP0
+2026-03-26 01:00:15,842:INFO:Memory: svmem(total=7817785344, available=969994240, percent=87.6, used=6847791104, free=969994240)
+2026-03-26 01:00:15,842:INFO:Physical Core: 4
+2026-03-26 01:00:15,842:INFO:Logical Core: 8
+2026-03-26 01:00:15,842:INFO:Checking libraries
+2026-03-26 01:00:15,842:INFO:System:
+2026-03-26 01:00:15,842:INFO:    python: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2026-03-26 01:00:15,842:INFO:executable: c:\Program Files\Python310\python.exe
+2026-03-26 01:00:15,842:INFO:   machine: Windows-10-10.0.26200-SP0
+2026-03-26 01:00:15,845:INFO:PyCaret required dependencies:
+2026-03-26 01:00:15,845:INFO:                 pip: 23.0.1
+2026-03-26 01:00:15,845:INFO:          setuptools: 65.5.0
+2026-03-26 01:00:15,846:INFO:             pycaret: 3.3.2
+2026-03-26 01:00:15,846:INFO:             IPython: 8.37.0
+2026-03-26 01:00:15,846:INFO:          ipywidgets: 8.1.7
+2026-03-26 01:00:15,846:INFO:                tqdm: 4.67.3
+2026-03-26 01:00:15,846:INFO:               numpy: 1.26.4
+2026-03-26 01:00:15,846:INFO:              pandas: 2.1.4
+2026-03-26 01:00:15,846:INFO:              jinja2: 3.1.6
+2026-03-26 01:00:15,846:INFO:               scipy: 1.11.4
+2026-03-26 01:00:15,846:INFO:              joblib: 1.3.2
+2026-03-26 01:00:15,846:INFO:             sklearn: 1.4.2
+2026-03-26 01:00:15,846:INFO:                pyod: 2.0.7
+2026-03-26 01:00:15,846:INFO:            imblearn: 0.14.1
+2026-03-26 01:00:15,846:INFO:   category_encoders: 2.7.0
+2026-03-26 01:00:15,846:INFO:            lightgbm: 4.6.0
+2026-03-26 01:00:15,847:INFO:               numba: 0.62.1
+2026-03-26 01:00:15,847:INFO:            requests: 2.32.5
+2026-03-26 01:00:15,847:INFO:          matplotlib: 3.7.5
+2026-03-26 01:00:15,847:INFO:          scikitplot: 0.3.7
+2026-03-26 01:00:15,847:INFO:         yellowbrick: 1.5
+2026-03-26 01:00:15,848:INFO:              plotly: 6.6.0
+2026-03-26 01:00:15,848:INFO:    plotly-resampler: Not installed
+2026-03-26 01:00:15,848:INFO:             kaleido: 1.2.0
+2026-03-26 01:00:15,848:INFO:           schemdraw: 0.15
+2026-03-26 01:00:15,848:INFO:         statsmodels: 0.14.6
+2026-03-26 01:00:15,848:INFO:              sktime: 0.26.0
+2026-03-26 01:00:15,848:INFO:               tbats: 1.1.3
+2026-03-26 01:00:15,848:INFO:            pmdarima: 2.0.4
+2026-03-26 01:00:15,848:INFO:              psutil: 7.1.2
+2026-03-26 01:00:15,848:INFO:          markupsafe: 3.0.3
+2026-03-26 01:00:15,848:INFO:             pickle5: Not installed
+2026-03-26 01:00:15,848:INFO:         cloudpickle: 3.1.2
+2026-03-26 01:00:15,848:INFO:         deprecation: 2.1.0
+2026-03-26 01:00:15,848:INFO:              xxhash: 3.6.0
+2026-03-26 01:00:15,848:INFO:           wurlitzer: Not installed
+2026-03-26 01:00:15,848:INFO:PyCaret optional dependencies:
