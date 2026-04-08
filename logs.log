@@ -188,3 +188,11 @@
 2026-03-26 01:00:15,848:INFO:              xxhash: 3.6.0
 2026-03-26 01:00:15,848:INFO:           wurlitzer: Not installed
 2026-03-26 01:00:15,848:INFO:PyCaret optional dependencies:
+2026-04-08 03:46:31,389:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-04-08 03:46:31,391:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-04-08 03:46:31,391:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-04-08 03:46:31,391:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
